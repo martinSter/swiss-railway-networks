@@ -8,10 +8,13 @@ Author: Martin Sterchi
 Date: 2025-07-23
 """
 
+import warnings
 import pandas as pd
 import numpy as np
 import geopy.distance
 from collections import Counter, defaultdict
+
+warnings.filterwarnings("ignore")
 
 # Function to sort entries within a group in ascending order of ABFAHRTSZEIT
 def sort_data(group):
@@ -26,10 +29,10 @@ def is_shortcut(lst, a, b):
     return not any((x, y) == (a, b) or (x, y) == (b, a) for x, y in zip(lst, lst[1:]))
 
 # Define a function to compute direct distance.
-def compute_distance(station1, station2):
+def compute_distance(data, station1, station2):
     return geopy.distance.geodesic(
-        nodes.loc[nodes['STATION_NAME'] == station1, "coord"].item(), 
-        nodes.loc[nodes['STATION_NAME'] == station2, "coord"].item()).km
+        data.loc[data['STATION_NAME'] == station1, "coord"].item(), 
+        data.loc[data['STATION_NAME'] == station2, "coord"].item()).km
             
 # Main function to run the procedure
 def main():
@@ -238,7 +241,7 @@ def main():
     linien = linien.dropna(subset = ["STATION_NAME"])
 
     # Sort for each group
-    linien_sorted = linien.groupby('Linie', group_keys=False).apply(sort_data2, include_groups=True)
+    linien_sorted = linien.groupby('Linie', group_keys=False).apply(sort_data2)
 
     # Create a new column that for each row contains the next stop within the group.
     linien_sorted["NEXT_STATION"] = linien_sorted.groupby("Linie")["STATION_NAME"].shift(-1)
@@ -288,7 +291,7 @@ def main():
     nodes['coord'] = list(zip(nodes.LATITUDE, nodes.LONGITUDE))
 
     # Compute direct distances between node pairs.
-    final_edges = [(e[0], e[1], compute_distance(e[0], e[1])) for e in final_edges]
+    final_edges = [(e[0], e[1], compute_distance(nodes, e[0], e[1])) for e in final_edges]
 
     # List of edges including distances.
     linien_edges = list(zip(linien_sorted['STATION_NAME'], linien_sorted['NEXT_STATION'], linien_sorted['DISTANCE']))
