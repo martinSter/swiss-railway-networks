@@ -1,0 +1,5 @@
+pubtransport/
+__pycache__/
+*.csv
+!raw/*.csv
+raw/2025-03-05_istdaten.csv
