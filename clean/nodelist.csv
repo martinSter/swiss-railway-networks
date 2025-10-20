@@ -1,0 +1,1627 @@
+BPUIC;STATION_NAME;CANTON;MUNICIPALITY;COMPANY;LONGITUDE;LATITUDE;ELEVATION;AVG_DAILY_TRAFFIC;AVG_DAILY_TRAFFIC_WEEKDAYS;AVG_DAILY_TRAFFIC_WEEKENDS;TRAFFIC_VALID
+8500010;Basel SBB;Basel-Stadt;Basel;Swiss Federal Railways SBB;7.58956279016;47.54741205505;276.75;98600.0;105900.0;81900.0;True
+8500016;Basel St. Johann;Basel-Stadt;Basel;Swiss Federal Railways SBB;7.57252938371;47.57030632125;260.5;90.0;100.0;60.0;True
+8500020;Muttenz;Basel-Landschaft;Muttenz;Swiss Federal Railways SBB;7.64789442691;47.5335912119;280.8;5700.0;7000.0;2800.0;True
+8500021;Pratteln;Basel-Landschaft;Pratteln;Swiss Federal Railways SBB;7.69081730427;47.52266863171;289.6;8500.0;9900.0;5200.0;True
+8500022;Frenkendorf-Füllinsdorf;Basel-Landschaft;Frenkendorf;Swiss Federal Railways SBB;7.71911053155;47.50146999108;310.96;3600.0;4100.0;2300.0;True
+8500023;Liestal;Basel-Landschaft;Liestal;Swiss Federal Railways SBB;7.7313674807;47.48446117213;327.06;16000.0;18500.0;10400.0;True
+8500024;Lausen;Basel-Landschaft;Lausen;Swiss Federal Railways SBB;7.75976281399;47.47034467249;343.0;1600.0;1800.0;1200.0;True
+8500025;Itingen;Basel-Landschaft;Itingen;Swiss Federal Railways SBB;7.78722597967;47.46727871778;358.64;1100.0;1300.0;670.0;True
+8500026;Sissach;Basel-Landschaft;Sissach;Swiss Federal Railways SBB;7.81202757047;47.46275411686;375.92;7600.0;8600.0;5400.0;True
+8500027;Gelterkinden;Basel-Landschaft;Gelterkinden;Swiss Federal Railways SBB;7.84766722157;47.46589371983;402.828;4500.0;5100.0;3100.0;True
+8500028;Tecknau;Basel-Landschaft;Tecknau;Swiss Federal Railways SBB;7.88761819102;47.4457602069;445.158;490.0;530.0;410.0;True
+8500031;Diepflingen;Basel-Landschaft;Diepflingen;Swiss Federal Railways SBB;7.83771739368;47.44956050787;420.43;140.0;170.0;70.0;True
+8500032;Sommerau;Basel-Landschaft;Gelterkinden;Swiss Federal Railways SBB;7.85148136589;47.43902135794;449.83;49.0;49.0;49.0;False
+8500033;Rümlingen;Basel-Landschaft;Rümlingen;Swiss Federal Railways SBB;7.85054194349;47.42537925471;480.24;100.0;120.0;49.0;False
+8500034;Buckten;Basel-Landschaft;Buckten;Swiss Federal Railways SBB;7.84780053102;47.40899104799;520.49;210.0;250.0;110.0;True
+8500035;Läufelfingen;Basel-Landschaft;Läufelfingen;Swiss Federal Railways SBB;7.85623157727;47.39213289164;558.63;460.0;530.0;310.0;True
+8500037;Trimbach;Solothurn;Trimbach;Swiss Federal Railways SBB;7.90428535854;47.36605219045;424.0;60.0;70.0;49.0;False
+8500090;Basel Bad Bf;Basel-Stadt;Basel;Deutsche Eisenbahn-Infrastruktur in der Schweiz;7.60692041847;47.5673079057;263.0;;;;False
+8500100;Tavannes;Bern;Tavannes;Swiss Federal Railways SBB;7.20164538962;47.21984466031;754.17;1400.0;1600.0;810.0;True
+8500101;Reconvilier;Bern;Reconvilier;Swiss Federal Railways SBB;7.22741792534;47.23523833294;728.5;500.0;570.0;340.0;True
+8500102;Malleray-Bévilard;Bern;Valbirse;Swiss Federal Railways SBB;7.2759462665;47.23871419185;698.18;630.0;780.0;280.0;True
+8500103;Sorvilier;Bern;Sorvilier;Swiss Federal Railways SBB;7.30579360416;47.23935383043;681.07;60.0;70.0;49.0;False
+8500104;Court;Bern;Court;Swiss Federal Railways SBB;7.34210987773;47.24060091564;665.7;210.0;260.0;110.0;True
+8500105;Moutier;Bern;Moutier;Swiss Federal Railways SBB;7.38104429627;47.28067251748;529.17;3300.0;3800.0;2400.0;True
+8500109;Delémont;Jura;Delémont;Swiss Federal Railways SBB;7.3500633234;47.36201270009;412.74;8100.0;9100.0;5700.0;True
+8500113;Laufen;Basel-Landschaft;Laufen;Swiss Federal Railways SBB;7.50263613094;47.41934648352;355.15;5700.0;6300.0;4100.0;True
+8500114;Zwingen;Basel-Landschaft;Zwingen;Swiss Federal Railways SBB;7.53046303135;47.4337991873;346.65;2400.0;2800.0;1600.0;True
+8500115;Grellingen;Basel-Landschaft;Grellingen;Swiss Federal Railways SBB;7.59198835479;47.44129489524;322.37;1400.0;1600.0;940.0;True
+8500116;Duggingen;Basel-Landschaft;Duggingen;Swiss Federal Railways SBB;7.60346073631;47.45344485945;312.79;530.0;630.0;330.0;True
+8500117;Aesch BL;Basel-Landschaft;Aesch (BL);Swiss Federal Railways SBB;7.60306821023;47.46774466229;298.73;2400.0;2400.0;2400.0;True
+8500118;Dornach-Arlesheim;Solothurn;Dornach;Swiss Federal Railways SBB;7.61111894185;47.48861983603;294.17;4700.0;5200.0;3600.0;True
+8500119;Münchenstein;Basel-Landschaft;Münchenstein;Swiss Federal Railways SBB;7.61759669026;47.51339736245;272.72;740.0;820.0;540.0;True
+8500120;Courtételle;Jura;Courtételle;Swiss Federal Railways SBB;7.31794276824;47.34282900859;436.9;840.0;970.0;550.0;True
+8500121;Courfaivre;Jura;Haute-Sorne;Swiss Federal Railways SBB;7.29116574222;47.33508312532;450.99;420.0;480.0;280.0;True
+8500122;Bassecourt;Jura;Haute-Sorne;Swiss Federal Railways SBB;7.24684623351;47.33668687681;477.81;1300.0;1500.0;800.0;True
+8500123;Glovelier;Jura;Haute-Sorne;Swiss Federal Railways SBB;7.20931276817;47.33520951994;504.99;1000.0;1100.0;790.0;True
+8500124;St-Ursanne;Jura;Clos du Doubs;Swiss Federal Railways SBB;7.16595705354;47.36770290339;491.5;450.0;430.0;500.0;True
+8500125;Courgenay;Jura;Courgenay;Swiss Federal Railways SBB;7.12420504386;47.40522617646;488.09;770.0;830.0;650.0;True
+8500126;Porrentruy;Jura;Porrentruy;Swiss Federal Railways SBB;7.08007728509;47.42091638308;422.81;3300.0;3800.0;2100.0;True
+8500127;Courtemaîche;Jura;Basse-Allaine;Swiss Federal Railways SBB;7.05538017512;47.45586918374;397.16;130.0;150.0;90.0;True
+8500128;Boncourt;Jura;Boncourt;Swiss Federal Railways SBB;7.01655175225;47.49263186836;373.45;240.0;290.0;130.0;True
+8500135;Pontenet;Bern;Valbirse;Swiss Federal Railways SBB;7.25415925791;47.23884832498;711.77;49.0;60.0;49.0;False
+8500136;Basel Dreispitz;Basel-Stadt;Basel;Swiss Federal Railways SBB;7.60959592012;47.53743606333;277.0;2000.0;2200.0;1500.0;True
+8500141;Courchavon;Jura;Courchavon;Swiss Federal Railways SBB;7.05764595582;47.4397743973;405.84;49.0;49.0;49.0;False
+8500144;Buix;Jura;Basse-Allaine;Swiss Federal Railways SBB;7.02996726363;47.47933325623;381.62;90.0;100.0;60.0;True
+8500159;Grenchen Nord;Solothurn;Grenchen;BLS AG (mlb);7.38961866289;47.1916982051;466.6;1800.0;2200.0;1100.0;True
+8500162;Tramelan-Dessous;Bern;Tramelan;Chemins de fer du Jura;7.11274363867;47.22248378123;880.0;;;;False
+8500164;Tramelan-Chalet;Bern;Tramelan;Chemins de fer du Jura;7.09230696596;47.2235331322;959.0;;;;False
+8500165;Le Pied-d'Or;Bern;Tramelan;Chemins de fer du Jura;7.05622164099;47.22210552172;1005.0;;;;False
+8500167;Les Breuleux-Eglise;Jura;Les Breuleux;Chemins de fer du Jura;7.00242153863;47.21300817767;1051.0;;;;False
+8500169;Muriaux;Jura;Muriaux;Chemins de fer du Jura;6.98523676724;47.24421696729;963.0;;;;False
+8500170;Tramelan;Bern;Tramelan;Chemins de fer du Jura;7.104299475;47.22282543267;888.0;;;;False
+8500171;Les Reussilles;Bern;Tramelan;Chemins de fer du Jura;7.08313516691;47.22433843398;1011.0;;;;False
+8500172;La Chaux-des-Breuleux;Jura;Les Breuleux;Chemins de fer du Jura;7.0254184099;47.2204948381;1007.0;;;;False
+8500173;Les Breuleux;Jura;Les Breuleux;Chemins de fer du Jura;7.00554767582;47.21070156074;1021.0;;;;False
+8500174;Le Noirmont;Jura;Le Noirmont;Chemins de fer du Jura;6.95647271185;47.22325859471;969.0;;;;False
+8500175;Le Creux-des-Biches;Jura;Le Noirmont;Chemins de fer du Jura;6.94066200359;47.20346400033;1012.9;;;;False
+8500176;Le Boéchet;Jura;Les Bois;Chemins de fer du Jura;6.92211199482;47.19424699475;1033.3;;;;False
+8500177;Les Bois;Jura;Les Bois;Chemins de fer du Jura;6.90618499515;47.17690199352;1028.9;;;;False
+8500178;La Ferrière;Bern;La Ferrière;Chemins de fer du Jura;6.89405776591;47.14269676821;1005.0;;;;False
+8500179;La Cibourg;Neuchâtel;La Chaux-de-Fonds;Chemins de fer du Jura;6.88366399811;47.12212599581;1035.9;;;;False
+8500180;La Large-Journée;Jura;Les Bois;Chemins de fer du Jura;6.8965550824;47.16128048613;1016.0;;;;False
+8500181;La Chaux-d'Abel;Bern;La Ferrière;Chemins de fer du Jura;6.89877392115;47.15280804531;994.0;;;;False
+8500184;La Chaux-de-Fonds-Est;Neuchâtel;La Chaux-de-Fonds;Chemins de fer du Jura;6.83695186329;47.10340033158;1012.0;;;;False
+8500186;Alle;Jura;Alle;Chemins de fer du Jura;7.12824856048;47.42422870132;450.0;;;;False
+8500187;Vendlincourt;Jura;Vendlincourt;Chemins de fer du Jura;7.15703956533;47.45215432399;448.0;;;;False
+8500188;Bonfol;Jura;Basse-Vendline;Chemins de fer du Jura;7.1548840055;47.47442499685;436.5;;;;False
+8500190;Les Emibois;Jura;Muriaux;Chemins de fer du Jura;6.98485049167;47.23189669296;955.0;;;;False
+8500191;Saignelégier;Jura;Saignelégier;Chemins de fer du Jura;6.99419297063;47.25465646195;983.0;;;;False
+8500192;Le Bémont JU;Jura;Le Bémont (JU);Chemins de fer du Jura;7.01408167102;47.26322848007;971.0;;;;False
+8500194;Pré-Petitjean;Jura;Montfaucon;Chemins de fer du Jura;7.05843149659;47.27705296429;929.0;;;;False
+8500195;La Combe;Jura;Montfaucon;Chemins de fer du Jura;7.09951145454;47.2843294826;844.0;;;;False
+8500196;Bollement;Jura;Saint-Brais;Chemins de fer du Jura;7.12386478189;47.2969239035;807.0;;;;False
+8500199;Combe-Tabeillon;Jura;Haute-Sorne;Chemins de fer du Jura;7.15786601539;47.31355953846;626.0;;;;False
+8500200;Pieterlen;Bern;Pieterlen;Swiss Federal Railways SBB;7.34019353831;47.17144115401;435.63;1200.0;1300.0;850.0;True
+8500201;Lengnau BE;Bern;Lengnau (BE);Swiss Federal Railways SBB;7.36655367635;47.17943142326;439.368;1300.0;1500.0;800.0;True
+8500202;Grenchen Süd;Solothurn;Grenchen;Swiss Federal Railways SBB;7.39818006116;47.18877468867;440.0;4600.0;5300.0;3100.0;True
+8500203;Bettlach;Solothurn;Bettlach;Swiss Federal Railways SBB;7.42837301675;47.1949494147;441.0;600.0;730.0;320.0;True
+8500204;Selzach;Solothurn;Selzach;Swiss Federal Railways SBB;7.4566350402;47.20062403005;439.0;860.0;1000.0;490.0;True
+8500205;Bellach;Solothurn;Bellach;Swiss Federal Railways SBB;7.50782539624;47.20887878167;430.14;700.0;830.0;390.0;True
+8500206;Solothurn West;Solothurn;Solothurn;Swiss Federal Railways SBB;7.53194915011;47.20671728842;433.0;1400.0;1700.0;890.0;True
+8500207;Solothurn;Solothurn;Solothurn;Swiss Federal Railways SBB;7.54268921098;47.20419250288;432.0;15300.0;16900.0;11800.0;True
+8500208;Luterbach-Attisholz;Solothurn;Luterbach;Swiss Federal Railways SBB;7.58352345957;47.21714919274;430.0;660.0;710.0;540.0;True
+8500209;Deitingen;Solothurn;Deitingen;Swiss Federal Railways SBB;7.61891302482;47.21822579771;429.0;600.0;690.0;380.0;True
+8500210;Wangen an der Aare;Bern;Wangen an der Aare;Swiss Federal Railways SBB;7.6562344886;47.23195652524;423.0;730.0;780.0;630.0;True
+8500211;Niederbipp;Bern;Niederbipp;Swiss Federal Railways SBB;7.69481806732;47.27040173433;468.0;640.0;720.0;450.0;True
+8500212;Oensingen;Solothurn;Oensingen;Swiss Federal Railways SBB;7.709870322;47.28503510558;462.0;4900.0;5600.0;3300.0;True
+8500213;Oberbuchsiten;Solothurn;Oberbuchsiten;Swiss Federal Railways SBB;7.77172376414;47.30524722944;442.0;870.0;1000.0;520.0;True
+8500214;Egerkingen;Solothurn;Egerkingen;Swiss Federal Railways SBB;7.79896647346;47.31486483592;435.0;1400.0;1700.0;840.0;True
+8500215;Hägendorf;Solothurn;Hägendorf;Swiss Federal Railways SBB;7.84381639645;47.33026780298;428.0;1300.0;1600.0;760.0;True
+8500216;Wangen bei Olten;Solothurn;Wangen bei Olten;Swiss Federal Railways SBB;7.86836052;47.3414006731;417.0;800.0;930.0;500.0;True
+8500217;Olten Hammer;Solothurn;Olten;Swiss Federal Railways SBB;7.89772397198;47.34855515899;403.0;430.0;490.0;310.0;True
+8500218;Olten;Solothurn;Olten;Swiss Federal Railways SBB;7.90769964791;47.35193475927;396.0;76900.0;80900.0;67600.0;True
+8500220;Dotzigen;Bern;Dotzigen;Swiss Federal Railways SBB;7.33775428544;47.11867176922;433.53;350.0;410.0;210.0;True
+8500221;Büren an der Aare;Bern;Büren an der Aare;Swiss Federal Railways SBB;7.37124283051;47.1381571124;443.0;910.0;1100.0;590.0;True
+8500272;Solothurn Sternen;Solothurn;Solothurn;Aare Seeland mobil (snb);7.54536000468;47.21230000081;437.1;;;;False
+8500273;St. Katharinen;Solothurn;Feldbrunnen-St. Niklaus;Aare Seeland mobil (snb);7.5497899983;47.21610999772;437.6;;;;False
+8500274;Feldbrunnen;Solothurn;Feldbrunnen-St. Niklaus;Aare Seeland mobil (snb);7.5558600001;47.22066000112;453.4;;;;False
+8500275;Bei den Weihern;Solothurn;Riedholz;Aare Seeland mobil (snb);7.56659000007;47.22838999584;471.1;;;;False
+8500280;Solothurn Baseltor;Solothurn;Solothurn;Aare Seeland mobil (snb);7.54190000355;47.20998999524;442.7;;;;False
+8500283;Riedholz;Solothurn;Riedholz;Aare Seeland mobil (snb);7.57268000517;47.2310299944;470.6;;;;False
+8500285;Flumenthal;Solothurn;Flumenthal;Aare Seeland mobil (snb);7.5966800031;47.23915999537;463.5;;;;False
+8500286;Attiswil;Bern;Attiswil;Aare Seeland mobil (snb);7.61387999724;47.24639999474;463.4;;;;False
+8500287;Wiedlisbach;Bern;Wiedlisbach;Aare Seeland mobil (snb);7.6461000005;47.25288000136;469.7;;;;False
+8500288;Oberbipp;Bern;Oberbipp;Aare Seeland mobil (snb);7.6610129384;47.25973627133;487.0;;;;False
+8500289;Buchli;Bern;Oberbipp;Aare Seeland mobil (snb);7.67838999781;47.2636300009;464.7;;;;False
+8500292;Klus;Solothurn;Balsthal;Oensingen-Balsthal-Bahn;7.69379293637;47.3042635506;481.0;60.0;70.0;49.0;False
+8500293;Thalbrücke;Solothurn;Balsthal;Oensingen-Balsthal-Bahn;7.68827181596;47.30842205269;483.0;510.0;560.0;390.0;True
+8500294;Balsthal;Solothurn;Balsthal;Oensingen-Balsthal-Bahn;7.69466870824;47.31319313594;489.0;920.0;1000.0;640.0;True
+8500300;Kaiseraugst;Aargau;Kaiseraugst;Swiss Federal Railways SBB;7.72413554243;47.53849572666;274.3;2400.0;2800.0;1400.0;True
+8500301;Rheinfelden;Aargau;Rheinfelden;Swiss Federal Railways SBB;7.79216890116;47.5512140325;284.5;8600.0;9900.0;5800.0;True
+8500302;Möhlin;Aargau;Möhlin;Swiss Federal Railways SBB;7.83386265811;47.56185846601;307.7;3500.0;4100.0;2100.0;True
+8500303;Mumpf;Aargau;Mumpf;Swiss Federal Railways SBB;7.90962438937;47.54762608945;310.3;1100.0;1400.0;620.0;True
+8500304;Eiken;Aargau;Eiken;Swiss Federal Railways SBB;7.98979755315;47.5330442737;328.6;390.0;460.0;210.0;True
+8500305;Frick;Aargau;Frick;Swiss Federal Railways SBB;8.01309246283;47.50734852394;360.2;4900.0;5400.0;3800.0;True
+8500309;Brugg AG;Aargau;Brugg;Swiss Federal Railways SBB;8.20884455349;47.48085983498;352.1;22300.0;25200.0;15600.0;True
+8500313;Rheinfelden Augarten;Aargau;Rheinfelden;Swiss Federal Railways SBB;7.7680318743;47.54587823443;285.0;890.0;1000.0;610.0;True
+8500320;Stein-Säckingen;Aargau;Stein (AG);Swiss Federal Railways SBB;7.94884287334;47.54160826004;310.9;3000.0;3700.0;1600.0;True
+8500322;Laufenburg;Aargau;Laufenburg;Swiss Federal Railways SBB;8.06129613291;47.55976842294;317.9;830.0;910.0;640.0;True
+8500329;Koblenz;Aargau;Koblenz;Swiss Federal Railways SBB;8.22704969738;47.60033829869;320.3;3800.0;4300.0;2700.0;True
+8501000;Zimeysa;Genève;Meyrin;Swiss Federal Railways SBB;6.06598534857;46.22123959467;429.7;1700.0;2300.0;230.0;True
+8501001;La Plaine;Genève;Dardagny;Swiss Federal Railways SBB;5.99999277974;46.17866538711;355.85;1600.0;1900.0;900.0;True
+8501002;Russin;Genève;Russin;Swiss Federal Railways SBB;6.01803595662;46.18839513073;378.7;250.0;270.0;200.0;True
+8501003;Satigny;Genève;Satigny;Swiss Federal Railways SBB;6.0376652117;46.21422722553;414.0;2000.0;2500.0;1000.0;True
+8501006;Meyrin;Genève;Meyrin;Swiss Federal Railways SBB;6.07690079901;46.22233545184;433.37;760.0;960.0;280.0;True
+8501007;Vernier;Genève;Vernier;Swiss Federal Railways SBB;6.09389170749;46.2207186975;428.44;1100.0;1400.0;420.0;True
+8501008;Genève;Genève;Genève;Swiss Federal Railways SBB;6.14245159514;46.21021289876;392.01;79500.0;88500.0;59000.0;True
+8501011;Les Tuileries;Genève;Bellevue;Swiss Federal Railways SBB;6.14733745893;46.24994634594;388.79;1400.0;1700.0;870.0;True
+8501012;Creux-de-Genthod;Genève;Genthod;Swiss Federal Railways SBB;6.16131231072;46.26376775842;386.795;630.0;730.0;380.0;True
+8501013;Pont-Céard;Genève;Versoix;Swiss Federal Railways SBB;6.16277928503;46.28681738594;392.17;3800.0;4500.0;2200.0;True
+8501014;Mies;Vaud;Mies;Swiss Federal Railways SBB;6.16765465077;46.29848883328;396.0;840.0;1000.0;460.0;True
+8501015;Tannay;Vaud;Tannay;Swiss Federal Railways SBB;6.18112036456;46.30764514488;392.291;530.0;600.0;370.0;True
+8501020;Chambésy;Genève;Pregny-Chambésy;Swiss Federal Railways SBB;6.1473043207;46.24094485508;390.5;870.0;1000.0;600.0;True
+8501021;Genthod-Bellevue;Genève;Genthod;Swiss Federal Railways SBB;6.15396079257;46.25673767557;385.221;1800.0;2200.0;880.0;True
+8501022;Versoix;Genève;Versoix;Swiss Federal Railways SBB;6.16574129202;46.27972718493;387.741;4400.0;5100.0;2700.0;True
+8501023;Coppet;Vaud;Coppet;Swiss Federal Railways SBB;6.18782738095;46.31739357075;393.654;7800.0;9100.0;4900.0;True
+8501026;Genève-Aéroport;Genève;Le Grand-Saconnex;Swiss Federal Railways SBB;6.1119855726;46.23253853439;411.0;15100.0;14600.0;16200.0;True
+8501030;Nyon;Vaud;Nyon;Swiss Federal Railways SBB;6.23596613063;46.38441896753;405.612;18100.0;21400.0;10700.0;True
+8501031;Gland;Vaud;Gland;Swiss Federal Railways SBB;6.26913983363;46.41998647124;415.571;6700.0;8200.0;3300.0;True
+8501033;Rolle;Vaud;Rolle;Swiss Federal Railways SBB;6.33640380762;46.46274581604;402.349;4400.0;5200.0;2500.0;True
+8501035;Allaman;Vaud;Allaman;Swiss Federal Railways SBB;6.39969707975;46.4757535208;421.868;5000.0;5800.0;2900.0;True
+8501036;St-Prex;Vaud;Saint-Prex;Swiss Federal Railways SBB;6.4559060173;46.48231690631;395.19;1400.0;1700.0;910.0;True
+8501037;Morges;Vaud;Morges;Swiss Federal Railways SBB;6.49396950064;46.51110119787;381.55;21400.0;24200.0;14900.0;True
+8501042;Etoy;Vaud;Etoy;Swiss Federal Railways SBB;6.42713535556;46.47517274137;406.49;1600.0;1900.0;670.0;True
+8501045;Denges-Echandens;Vaud;Denges;Swiss Federal Railways SBB;6.54050548188;46.52912709915;398.281;320.0;380.0;200.0;True
+8501047;Morges-St-Jean;Vaud;Morges;Swiss Federal Railways SBB;6.50804403291;46.51819536285;380.161;490.0;580.0;270.0;True
+8501048;Lonay-Préverenges;Vaud;Lonay;Swiss Federal Railways SBB;6.51954473665;46.52313562905;386.707;270.0;310.0;180.0;True
+8501053;La Vuarpillière;Vaud;Nyon;Nyon-St-Cergue-Morez;6.21725000203;46.39891999377;463.5;;;;False
+8501054;La Gottaz;Vaud;Morges;Transports de la région Morges-Bière-Cossonay;6.48445999976;46.50654999458;397.0;;;;False
+8501055;Les Pralies;Vaud;Saint-Cergue;Nyon-St-Cergue-Morez;6.12687000389;46.4511800007;1178.2;;;;False
+8501056;Sus-Châtel;Vaud;Genolier;Nyon-St-Cergue-Morez;6.20585999782;46.43848999897;599.3;;;;False
+8501057;La Chèvrerie-Monterêt;Vaud;Arzier-Le Muids;Nyon-St-Cergue-Morez;6.18350999736;46.44847999763;972.3;;;;False
+8501058;La Joy-Clinique;Vaud;Genolier;Nyon-St-Cergue-Morez;6.21675999742;46.44635000202;660.9;;;;False
+8501059;Les Plantaz;Vaud;Nyon;Nyon-St-Cergue-Morez;6.22903000105;46.39115999398;422.2;;;;False
+8501060;La Cure;Vaud;Saint-Cergue;Nyon-St-Cergue-Morez;6.07357000523;46.46514999705;1154.3;;;;False
+8501061;La Givrine;Vaud;Saint-Cergue;Nyon-St-Cergue-Morez;6.11143999975;46.45459999366;1209.0;;;;False
+8501062;St-Cergue;Vaud;Saint-Cergue;Nyon-St-Cergue-Morez;6.16036000101;46.44861000061;1044.2;;;;False
+8501063;Arzier;Vaud;Arzier-Le Muids;Nyon-St-Cergue-Morez;6.21164999707;46.45863999466;839.0;;;;False
+8501064;Bassins;Vaud;Arzier-Le Muids;Nyon-St-Cergue-Morez;6.22230999899;46.46056999494;753.2;;;;False
+8501065;Le Muids;Vaud;Arzier-Le Muids;Nyon-St-Cergue-Morez;6.21542999395;46.45429999374;712.2;;;;False
+8501066;Genolier;Vaud;Genolier;Nyon-St-Cergue-Morez;6.21457000531;46.43624999981;560.1;;;;False
+8501067;Givrins;Vaud;Givrins;Nyon-St-Cergue-Morez;6.20522000491;46.42884999536;550.9;;;;False
+8501068;Trélex;Vaud;Trélex;Nyon-St-Cergue-Morez;6.20642000428;46.41371999489;497.7;;;;False
+8501069;L'Asse;Vaud;Nyon;Nyon-St-Cergue-Morez;6.21174999488;46.401819999;474.0;;;;False
+8501080;Le Marais;Vaud;Vufflens-le-Château;Transports de la région Morges-Bière-Cossonay;6.46259000093;46.52746999621;497.9;;;;False
+8501081;Chigny;Vaud;Chigny;Transports de la région Morges-Bière-Cossonay;6.47225000121;46.5160199935;432.5;;;;False
+8501082;Chardonney-Château;Vaud;Hautemorges;Transports de la région Morges-Bière-Cossonay;6.43256000327;46.53470000022;575.9;;;;False
+8501083;Reverolle;Vaud;Hautemorges;Transports de la région Morges-Bière-Cossonay;6.43097000017;46.54042999345;602.3;;;;False
+8501084;Le Manège;Vaud;Hautemorges;Transports de la région Morges-Bière-Cossonay;6.43217000067;46.55911999928;624.7;;;;False
+8501085;Ballens-Froideville;Vaud;Ballens;Transports de la région Morges-Bière-Cossonay;6.3902300012;46.54965999626;680.0;;;;False
+8501087;Mauraz;Vaud;Hautemorges;Transports de la région Morges-Bière-Cossonay;6.42971999911;46.58491999533;640.8;;;;False
+8501088;Tuilerie;Vaud;Hautemorges;Transports de la région Morges-Bière-Cossonay;6.41421999543;46.5927999954;668.8;;;;False
+8501089;Villars-Bozon;Vaud;L'Isle;Transports de la région Morges-Bière-Cossonay;6.40236000052;46.61045999581;662.9;;;;False
+8501090;Prélionne;Vaud;Morges;Transports de la région Morges-Bière-Cossonay;6.48027000096;46.50946999396;414.0;;;;False
+8501091;Vufflens-le-Château;Vaud;Vufflens-le-Château;Transports de la région Morges-Bière-Cossonay;6.47317999473;46.52480999369;468.4;;;;False
+8501092;Bussy-Chardonney;Vaud;Hautemorges;Transports de la région Morges-Bière-Cossonay;6.44650999784;46.52677999419;502.5;;;;False
+8501093;Yens;Vaud;Yens;Transports de la région Morges-Bière-Cossonay;6.42731999569;46.51996000102;523.5;;;;False
+8501094;Apples;Vaud;Hautemorges;Transports de la région Morges-Bière-Cossonay;6.42358000054;46.55087999466;639.0;;;;False
+8501095;Ballens;Vaud;Ballens;Transports de la région Morges-Bière-Cossonay;6.3744599981;46.55225999803;710.3;;;;False
+8501096;Bière;Vaud;Bière;Transports de la région Morges-Bière-Cossonay;6.33690999407;46.53743999364;691.7;;;;False
+8501097;Pampigny-Sévery;Vaud;Hautemorges;Transports de la région Morges-Bière-Cossonay;6.43216999862;46.576979999;625.4;;;;False
+8501098;Montricher;Vaud;Montricher;Transports de la région Morges-Bière-Cossonay;6.39305000296;46.59632999465;673.0;;;;False
+8501099;L'Isle;Vaud;L'Isle;Transports de la région Morges-Bière-Cossonay;6.41118000413;46.6172699941;662.6;;;;False
+8501100;Le Pont;Vaud;L'Abbaye;Swiss Federal Railways SBB;6.32471989242;46.6686674916;1007.86;350.0;350.0;350.0;True
+8501103;Vallorbe;Vaud;Vallorbe;Swiss Federal Railways SBB;6.37056563541;46.7124063243;806.91;830.0;980.0;500.0;True
+8501104;Le Day;Vaud;Vallorbe;Swiss Federal Railways SBB;6.39902378652;46.72003152823;787.13;870.0;1000.0;590.0;True
+8501105;Bretonnières;Vaud;Bretonnières;Swiss Federal Railways SBB;6.47473250427;46.71505532993;673.276;50.0;60.0;49.0;False
+8501106;Croy-Romainmôtier;Vaud;Romainmôtier-Envy;Swiss Federal Railways SBB;6.47811626855;46.6967123186;641.76;480.0;550.0;340.0;True
+8501107;Arnex;Vaud;Arnex-sur-Orbe;Swiss Federal Railways SBB;6.51890716329;46.69807765284;552.43;420.0;520.0;200.0;True
+8501108;La Sarraz;Vaud;La Sarraz;Swiss Federal Railways SBB;6.51736100453;46.65878497158;484.93;1200.0;1400.0;770.0;True
+8501110;Ependes VD;Vaud;Ependes (VD);Swiss Federal Railways SBB;6.60766187443;46.74641611111;439.95;110.0;120.0;70.0;True
+8501111;Essert-Pittet;Vaud;Chavornay;Swiss Federal Railways SBB;6.58065581845;46.72767332068;438.19;70.0;80.0;49.0;False
+8501112;Chavornay;Vaud;Chavornay;Swiss Federal Railways SBB;6.56816324702;46.71008452939;447.09;2200.0;2600.0;1300.0;True
+8501113;Bavois;Vaud;Bavois;Swiss Federal Railways SBB;6.55933485236;46.68767991039;441.6;170.0;200.0;100.0;True
+8501114;Eclépens;Vaud;Eclépens;Swiss Federal Railways SBB;6.55242112332;46.65719065799;454.77;230.0;290.0;80.0;True
+8501115;Cossonay-Penthalaz;Vaud;Penthalaz;Swiss Federal Railways SBB;6.52368916814;46.60601008529;427.95;3700.0;4100.0;2800.0;True
+8501116;Vufflens-la-Ville;Vaud;Vufflens-la-Ville;Swiss Federal Railways SBB;6.53076759961;46.5762449809;406.761;510.0;610.0;280.0;True
+8501117;Bussigny;Vaud;Bussigny;Swiss Federal Railways SBB;6.55182614923;46.54759036746;406.8;4700.0;5400.0;3000.0;True
+8501118;Renens VD;Vaud;Renens (VD);Swiss Federal Railways SBB;6.57893533809;46.5370424669;415.887;22600.0;26700.0;13200.0;True
+8501120;Lausanne;Vaud;Lausanne;Swiss Federal Railways SBB;6.6290923032;46.51679183546;447.09;96700.0;105900.0;75800.0;True
+8501121;Pully;Vaud;Pully;Swiss Federal Railways SBB;6.65946814021;46.51092362318;424.8;2700.0;3200.0;1700.0;True
+8501122;Lutry;Vaud;Lutry;Swiss Federal Railways SBB;6.69060943656;46.50378676836;402.06;1700.0;1800.0;1200.0;True
+8501123;Villette VD;Vaud;Bourg-en-Lavaux;Swiss Federal Railways SBB;6.70737729881;46.49542481881;387.487;130.0;130.0;150.0;True
+8501124;Cully;Vaud;Bourg-en-Lavaux;Swiss Federal Railways SBB;6.72715146685;46.48856179169;391.66;2100.0;2200.0;1800.0;True
+8501125;Epesses;Vaud;Bourg-en-Lavaux;Swiss Federal Railways SBB;6.74516603412;46.48932879519;383.09;200.0;170.0;260.0;True
+8501126;Rivaz;Vaud;Rivaz;Swiss Federal Railways SBB;6.78459498291;46.47420773608;377.04;260.0;230.0;320.0;True
+8501127;St-Saphorin;Vaud;Saint-Saphorin (Lavaux);Swiss Federal Railways SBB;6.79703368938;46.47259370775;376.93;240.0;210.0;310.0;True
+8501151;Les Charbonnières;Vaud;Le Lieu;Transports Vallée de Joux-Yverdon-Ste-Croix;6.31704477281;46.66429453984;1024.6;80.0;100.0;50.0;True
+8501152;Le Séchey;Vaud;Le Lieu;Transports Vallée de Joux-Yverdon-Ste-Croix;6.30601199608;46.65847612898;1045.0;49.0;49.0;49.0;False
+8501153;Le Lieu;Vaud;Le Lieu;Transports Vallée de Joux-Yverdon-Ste-Croix;6.2834072012;46.64689995822;1050.0;140.0;160.0;90.0;True
+8501154;Les Esserts-de-Rive;Vaud;Le Lieu;Transports Vallée de Joux-Yverdon-Ste-Croix;6.26036835372;46.63198425636;1036.0;49.0;49.0;49.0;False
+8501155;Le Rocheray;Vaud;Le Chenit;Transports Vallée de Joux-Yverdon-Ste-Croix;6.25026365958;46.62445724421;1026.2;49.0;49.0;50.0;False
+8501156;Le Solliat-La Golisse;Vaud;Le Chenit;Transports Vallée de Joux-Yverdon-Ste-Croix;6.23902295172;46.61440647573;1011.2;110.0;130.0;60.0;True
+8501157;Le Sentier-L'Orient;Vaud;Le Chenit;Transports Vallée de Joux-Yverdon-Ste-Croix;6.23142655342;46.60579116904;1013.0;540.0;620.0;340.0;True
+8501159;Le Brassus;Vaud;Le Chenit;Transports Vallée de Joux-Yverdon-Ste-Croix;6.21394488318;46.58554394143;1021.0;320.0;350.0;270.0;True
+8501160;Lausanne-Chauderon;Vaud;Lausanne;Lausanne-Echallens-Bercher;6.6260599947;46.52322999919;471.0;;;;False
+8501162;Union-Prilly;Vaud;Prilly;Lausanne-Echallens-Bercher;6.60984999577;46.5347200003;503.0;;;;False
+8501163;Prilly-Chasseur;Vaud;Prilly;Lausanne-Echallens-Bercher;6.6074299998;46.53965000109;520.9;;;;False
+8501164;Cery-Fleur-de-Lys;Vaud;Prilly;Lausanne-Echallens-Bercher;6.60501000535;46.54457999735;540.0;;;;False
+8501165;Jouxtens-Mézery;Vaud;Jouxtens-Mézery;Lausanne-Echallens-Bercher;6.60168999727;46.54833999864;551.9;;;;False
+8501166;Romanel-sur-Lausanne;Vaud;Romanel-sur-Lausanne;Lausanne-Echallens-Bercher;6.60316999713;46.56246999478;588.3;;;;False
+8501168;Vernand-Camarès;Vaud;Lausanne;Lausanne-Echallens-Bercher;6.60480000415;46.57094000031;596.9;;;;False
+8501169;Cheseaux;Vaud;Cheseaux-sur-Lausanne;Lausanne-Echallens-Bercher;6.60595999991;46.5843499999;605.2;;;;False
+8501170;Bel-Air LEB;Vaud;Lausanne;Lausanne-Echallens-Bercher;6.60553000026;46.578680001;603.8;;;;False
+8501171;Etagnières;Vaud;Etagnières;Lausanne-Echallens-Bercher;6.614630035;46.602673549;624.5;;;;False
+8501172;Assens;Vaud;Assens;Lausanne-Echallens-Bercher;6.6205300015;46.61314999604;622.2;;;;False
+8501173;Echallens;Vaud;Echallens;Lausanne-Echallens-Bercher;6.63254000187;46.63950999623;616.8;;;;False
+8501174;Sur Roche;Vaud;Echallens;Lausanne-Echallens-Bercher;6.63892000604;46.64045000113;623.7;;;;False
+8501175;Sugnens;Vaud;Montilliez;Lausanne-Echallens-Bercher;6.66576000245;46.65484999445;646.9;;;;False
+8501176;Fey;Vaud;Fey;Lausanne-Echallens-Bercher;6.68508000127;46.67431999616;646.1;;;;False
+8501177;Bercher;Vaud;Bercher;Lausanne-Echallens-Bercher;6.70365000286;46.69287999551;625.7;;;;False
+8501178;Grésaley;Vaud;Echallens;Lausanne-Echallens-Bercher;6.64217016024;46.64325269459;625.0;;;;False
+8501179;Pont-de-Drapel;Vaud;Aigle;Transports Publics du Chablais;6.98652000427;46.3198599997;613.7;;;;False
+8501181;Lausanne-Flon;Vaud;Lausanne;Lausanne-Echallens-Bercher;6.63033999676;46.52079999393;480.0;;;;False
+8501191;Orbe;Vaud;Orbe;Transports Vallée de Joux-Yverdon-Ste-Croix;6.53014301172;46.72440836623;473.0;;;;False
+8501194;Les Granges (Orbe);Vaud;Orbe;Transports Vallée de Joux-Yverdon-Ste-Croix;6.54146972734;46.72097096716;445.0;;;;False
+8501198;Château-d'Oex La Palaz;Vaud;Château-d'Oex;Montreux-Oberland Bernois;7.14383437141;46.4758999464;985.0;110.0;140.0;49.0;False
+8501199;La Roulaz;Vaud;Leysin;Transports Publics du Chablais;7.00148000014;46.33131999731;1022.2;;;;False
+8501200;Vevey;Vaud;Vevey;Swiss Federal Railways SBB;6.84344559824;46.46300181066;386.09;24200.0;26700.0;18600.0;True
+8501201;La Tour-de-Peilz;Vaud;La Tour-de-Peilz;Swiss Federal Railways SBB;6.85953267344;46.45545289156;390.41;2400.0;2800.0;1600.0;True
+8501202;Burier;Vaud;La Tour-de-Peilz;Swiss Federal Railways SBB;6.87712182481;46.44788647498;395.942;1400.0;1900.0;430.0;True
+8501203;Clarens;Vaud;Montreux;Swiss Federal Railways SBB;6.89577993661;46.44273829901;399.61;2100.0;2500.0;1400.0;True
+8501229;Monthey-En Place;Valais;Monthey;Transports Publics du Chablais;6.94590847349;46.25941127578;403.7;;;;False
+8501262;Hauteville;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.86088999656;46.46625999502;489.8;160.0;200.0;80.0;True
+8501263;Château-d'Hauteville;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.86529000427;46.46846999966;505.1;240.0;280.0;150.0;True
+8501264;St-Légier-Village;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.87656999507;46.47101999971;553.2;310.0;380.0;170.0;True
+8501265;La Chiésaz;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.88213000031;46.46950999821;576.0;540.0;650.0;270.0;True
+8501266;Château-de-Blonay;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.89174999729;46.46834999771;613.8;330.0;380.0;200.0;True
+8501280;St-Légier-Gare;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.87192999515;46.47052999791;533.1;330.0;390.0;190.0;True
+8501281;Blonay;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.89594000291;46.46568999527;619.7;960.0;1100.0;580.0;True
+8501282;Prélaz-sur-Blonay;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.89792999679;46.46881999529;670.8;49.0;49.0;49.0;False
+8501283;Tusinge;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.89625000078;46.47384999687;725.3;50.0;60.0;49.0;False
+8501284;Les Chevalleyres;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.89811999602;46.47559000215;773.6;60.0;70.0;49.0;False
+8501285;Fayaux;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.90763000585;46.46997999961;968.3;49.0;49.0;49.0;False
+8501286;Ondallaz-L'Alliaz;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.91396000084;46.47315999518;1085.9;49.0;49.0;49.0;False
+8501287;Lally;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.91402999521;46.47920999587;1231.6;80.0;70.0;110.0;True
+8501288;Les Pléiades;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.9099399964;46.48335999418;1347.6;140.0;120.0;200.0;True
+8501300;Montreux;Vaud;Montreux;Swiss Federal Railways SBB;6.91044012131;46.43588434112;395.389;17300.0;17600.0;16500.0;True
+8501301;Territet;Vaud;Montreux;Swiss Federal Railways SBB;6.92270695101;46.42638156554;386.186;320.0;340.0;260.0;True
+8501302;Veytaux-Chillon;Vaud;Veytaux;Swiss Federal Railways SBB;6.92786078229;46.41762119587;379.795;230.0;200.0;300.0;True
+8501303;Villeneuve VD;Vaud;Villeneuve (VD);Swiss Federal Railways SBB;6.92700310805;46.39837150642;374.754;3400.0;3900.0;2500.0;True
+8501304;Roche VD;Vaud;Roche (VD);Swiss Federal Railways SBB;6.92705283746;46.35869637211;379.617;400.0;450.0;290.0;True
+8501374;Fontanivent;Vaud;Montreux;Montreux-Oberland Bernois;6.90232999358;46.45272999776;555.9;300.0;360.0;140.0;True
+8501375;Chernex;Vaud;Montreux;Montreux-Oberland Bernois;6.91008000638;46.44591999611;600.5;510.0;610.0;290.0;True
+8501376;Chamby;Vaud;Montreux;Montreux-Oberland Bernois;6.91350000304;46.4491800024;748.6;130.0;140.0;110.0;True
+8501377;Les Avants;Vaud;Montreux;Montreux-Oberland Bernois;6.94332000102;46.45380999651;975.2;370.0;370.0;390.0;True
+8501378;Allières;Fribourg;Haut-Intyamon;Montreux-Oberland Bernois;7.00788999711;46.46981999616;1008.8;50.0;50.0;60.0;True
+8501379;Les Sciernes;Fribourg;Haut-Intyamon;Montreux-Oberland Bernois;7.03421999494;46.49145999964;885.2;60.0;70.0;49.0;False
+8501380;Montreux-Collège;Vaud;Montreux;Montreux-Oberland Bernois;6.91270999963;46.43609999704;424.5;90.0;120.0;49.0;False
+8501381;Vuarennes;Vaud;Montreux;Montreux-Oberland Bernois;6.91097000183;46.4391200023;441.4;49.0;49.0;49.0;False
+8501382;Châtelard VD;Vaud;Montreux;Montreux-Oberland Bernois;6.90113999575;46.44677999986;501.6;49.0;49.0;49.0;False
+8501383;Planchamp;Vaud;Montreux;Montreux-Oberland Bernois;6.90100000137;46.45117999712;527.3;49.0;49.0;49.0;False
+8501384;Sonzier;Vaud;Montreux;Montreux-Oberland Bernois;6.92120999726;46.43905000214;620.0;60.0;70.0;49.0;False
+8501385;Sendy-Sollard;Vaud;Montreux;Montreux-Oberland Bernois;6.92907000177;46.44663999832;875.1;49.0;49.0;49.0;False
+8501386;Jor;Vaud;Montreux;Montreux-Oberland Bernois;6.9651200062;46.45467000155;1080.6;49.0;49.0;49.0;False
+8501387;Les Cases;Fribourg;Haut-Intyamon;Montreux-Oberland Bernois;6.99771000643;46.45592000107;1116.7;49.0;49.0;50.0;False
+8501388;Les Combes;Vaud;Château-d'Oex;Montreux-Oberland Bernois;7.17182999571;46.47747000067;990.8;49.0;49.0;49.0;False
+8501390;Belmont-sur-Montreux;Vaud;Montreux;Montreux-Oberland Bernois;6.90611999469;46.44203999796;462.0;49.0;49.0;49.0;False
+8501391;La Tine;Vaud;Rossinière;Montreux-Oberland Bernois;7.04657000131;46.46716999525;849.7;49.0;49.0;49.0;False
+8501392;Rossinière;Vaud;Rossinière;Montreux-Oberland Bernois;7.08324000217;46.4648099967;891.3;210.0;230.0;150.0;True
+8501393;La Chaudanne-Les Moulins;Vaud;Rossinière;Montreux-Oberland Bernois;7.09673469953;46.46605207107;887.0;49.0;49.0;49.0;False
+8501394;Château-d'Oex;Vaud;Château-d'Oex;Montreux-Oberland Bernois;7.13140999894;46.47466999392;966.6;880.0;990.0;620.0;True
+8501395;Les Granges-Gérignoz;Vaud;Château-d'Oex;Montreux-Oberland Bernois;7.15495037098;46.47416521952;1002.0;70.0;80.0;49.0;False
+8501396;Flendruz;Vaud;Rougemont;Montreux-Oberland Bernois;7.18607000478;46.4820899946;978.6;49.0;60.0;49.0;False
+8501397;Rougemont;Vaud;Rougemont;Montreux-Oberland Bernois;7.20896000232;46.4886199988;992.2;350.0;390.0;240.0;True
+8501398;Saanen;Bern;Saanen;Montreux-Oberland Bernois;7.26026999777;46.48856999593;1010.4;640.0;740.0;410.0;True
+8501399;Gstaad;Bern;Saanen;Montreux-Oberland Bernois;7.28441000533;46.47479999935;1049.7;1800.0;1900.0;1500.0;True
+8501400;Aigle;Vaud;Aigle;Swiss Federal Railways SBB;6.96368321186;46.3168554186;403.908;10600.0;11400.0;8800.0;True
+8501402;Bex;Vaud;Bex;Swiss Federal Railways SBB;7.00066990236;46.25146458229;410.96;2400.0;2800.0;1700.0;True
+8501403;St-Maurice;Valais;Saint-Maurice;Swiss Federal Railways SBB;7.00204389825;46.21636950283;421.48;7100.0;8200.0;4500.0;True
+8501404;Evionnaz;Valais;Evionnaz;Swiss Federal Railways SBB;7.02551815271;46.16925438008;448.964;400.0;500.0;170.0;True
+8501405;Vernayaz;Valais;Vernayaz;Swiss Federal Railways SBB;7.03835858628;46.13854600815;452.18;390.0;470.0;220.0;True
+8501420;Massongex;Valais;Massongex;Swiss Federal Railways SBB;6.98566054246;46.24120667772;398.83;300.0;360.0;150.0;True
+8501421;Monthey;Valais;Monthey;Swiss Federal Railways SBB;6.95522666101;46.25565645124;405.97;2300.0;2900.0;1100.0;True
+8501422;Collombey;Valais;Collombey-Muraz;Swiss Federal Railways SBB;6.94875636846;46.27119293074;390.96;380.0;450.0;240.0;True
+8501423;Vionnaz;Valais;Collombey-Muraz;Swiss Federal Railways SBB;6.9162029673;46.31503283861;382.53;150.0;170.0;90.0;True
+8501424;Vouvry;Valais;Vouvry;Swiss Federal Railways SBB;6.89845022568;46.33649285999;381.044;570.0;720.0;240.0;True
+8501425;Les Evouettes;Valais;Port-Valais;Swiss Federal Railways SBB;6.87947022056;46.36286697325;377.73;150.0;170.0;90.0;True
+8501426;Bouveret;Valais;Port-Valais;Swiss Federal Railways SBB;6.8532438578;46.38581715889;373.96;730.0;810.0;530.0;True
+8501428;St-Gingolph (Suisse);Valais;Saint-Gingolph;Swiss Federal Railways SBB;6.80593200412;46.39219441816;392.12;460.0;510.0;340.0;True
+8501446;Villars-sur-Ollon Golf;Vaud;Ollon;Transports Publics du Chablais;7.07549000434;46.30911999816;1630.6;;;;False
+8501447;Roches Grises;Vaud;Ollon;Transports Publics du Chablais;7.06110000336;46.29375999793;1301.9;;;;False
+8501448;Champéry;Valais;Champéry;Transports Publics du Chablais;6.87148999808;46.17494999414;1035.3;;;;False
+8501452;St-Triphon-Gare;Vaud;Ollon;Transports Publics du Chablais;6.97371999602;46.27821999402;393.1;;;;False
+8501453;La Cour;Valais;Val-d'Illiez;Transports Publics du Chablais;6.88667999557;46.19423999751;919.7;;;;False
+8501454;Fayot;Valais;Val-d'Illiez;Transports Publics du Chablais;6.89950999534;46.21205999831;839.6;;;;False
+8501456;Chemex;Valais;Troistorrents;Transports Publics du Chablais;6.93004999397;46.24361999513;587.0;;;;False
+8501457;Monthey-Hôpital;Valais;Monthey;Transports Publics du Chablais;6.94074999848;46.25187999369;544.5;;;;False
+8501458;Villy;Vaud;Ollon;Transports Publics du Chablais;6.99440000409;46.28690000022;403.6;;;;False
+8501460;Croix-du-Nant;Valais;Troistorrents;Transports Publics du Chablais;6.92745000391;46.23966999844;600.0;;;;False
+8501461;Ollon VD;Vaud;Ollon;Transports Publics du Chablais;6.99310000364;46.29682999445;464.4;;;;False
+8501462;Collombey-Village;Valais;Collombey-Muraz;Transports Publics du Chablais;6.94596008085;46.26932044852;407.0;;;;False
+8501463;Monthey-Ville;Valais;Monthey;Transports Publics du Chablais;6.94749999941;46.25409999727;415.6;;;;False
+8501464;Troistorrents;Valais;Troistorrents;Transports Publics du Chablais;6.91581000304;46.22828999683;766.5;;;;False
+8501465;Val-d'Illiez;Valais;Val-d'Illiez;Transports Publics du Chablais;6.89321999734;46.20360999714;935.5;;;;False
+8501466;Champéry-Village;Valais;Champéry;Transports Publics du Chablais;6.87483999802;46.18147999948;1027.8;;;;False
+8501468;Aigle-Château;Vaud;Aigle;Transports Publics du Chablais;6.97892136109;46.31687170607;433.0;;;;False
+8501470;Verschiez;Vaud;Ollon;Transports Publics du Chablais;6.98366823237;46.30817402747;565.0;;;;False
+8501471;Plambuit;Vaud;Aigle;Transports Publics du Chablais;7.02396999353;46.3273499937;801.4;;;;False
+8501472;Exergillod;Vaud;Ollon;Transports Publics du Chablais;7.0384800042;46.33710999799;863.0;;;;False
+8501473;Les Planches (Aigle);Vaud;Ormont-Dessous;Transports Publics du Chablais;7.05526999728;46.35534000044;869.0;;;;False
+8501474;Le Sépey;Vaud;Ormont-Dessous;Transports Publics du Chablais;7.05279000022;46.36124000015;975.4;;;;False
+8501475;Les Echenards;Vaud;Ormont-Dessous;Transports Publics du Chablais;7.08506000544;46.3553499965;1077.3;;;;False
+8501476;Les Aviolats;Vaud;Ormont-Dessus;Transports Publics du Chablais;7.11316000512;46.35297000083;1090.9;;;;False
+8501477;Vers-l'Eglise;Vaud;Ormont-Dessus;Transports Publics du Chablais;7.13414000115;46.35362999354;1126.1;;;;False
+8501479;Les Diablerets;Vaud;Ormont-Dessus;Transports Publics du Chablais;7.15502000539;46.35115999853;1156.1;;;;False
+8501480;Rennaz (Leysin);Vaud;Leysin;Transports Publics du Chablais;7.00086999367;46.3273600015;917.1;;;;False
+8501481;Leysin-Village;Vaud;Leysin;Transports Publics du Chablais;7.00604999941;46.33926000111;1269.2;;;;False
+8501482;Leysin-Feydey;Vaud;Leysin;Transports Publics du Chablais;7.00836000611;46.34444000233;1389.0;;;;False
+8501483;Leysin-Grand-Hôtel;Vaud;Leysin;Transports Publics du Chablais;7.0064299966;46.34554999784;1448.0;;;;False
+8501484;Aigle-Dépôt;Vaud;Aigle;Transports Publics du Chablais;6.97537000141;46.31828999455;427.6;;;;False
+8501485;Fontanney;Vaud;Aigle;Transports Publics du Chablais;6.98229999955;46.3183199945;548.8;;;;False
+8501487;Bex-Place-du-Marché;Vaud;Bex;Transports Publics du Chablais;7.01442999428;46.25091000071;427.6;;;;False
+8501488;Bévieux;Vaud;Bex;Transports Publics du Chablais;7.03088000499;46.25898999609;482.7;;;;False
+8501490;Fontannaz-Seulaz;Vaud;Bex;Transports Publics du Chablais;7.05584999704;46.26759999975;808.7;;;;False
+8501491;Les Posses;Vaud;Bex;Transports Publics du Chablais;7.05089000334;46.27116999959;983.0;;;;False
+8501492;Gryon;Vaud;Gryon;Transports Publics du Chablais;7.05971000262;46.27357999523;1130.9;;;;False
+8501493;Gryon Barboleuse;Vaud;Gryon;Transports Publics du Chablais;7.07048999792;46.28274999476;1210.3;;;;False
+8501494;Arveyes;Vaud;Ollon;Transports Publics du Chablais;7.06268999751;46.29124999586;1231.2;;;;False
+8501495;Villars-sur-Ollon;Vaud;Ollon;Transports Publics du Chablais;7.05623000525;46.29625999729;1253.5;;;;False
+8501497;Col-de-Soud;Vaud;Ollon;Transports Publics du Chablais;7.06954000076;46.3049400011;1526.8;;;;False
+8501498;Bouquetins;Vaud;Ollon;Transports Publics du Chablais;7.07233999959;46.31640000233;1758.5;;;;False
+8501499;Col-de-Bretaye;Vaud;Ollon;Transports Publics du Chablais;7.07360999384;46.32192999944;1808.0;;;;False
+8501500;Martigny;Valais;Martigny;Swiss Federal Railways SBB;7.07912412849;46.10583120717;466.989;10100.0;10800.0;8500.0;True
+8501501;Charrat-Fully;Valais;Martigny;Swiss Federal Railways SBB;7.12647659794;46.12681287936;460.468;580.0;710.0;290.0;True
+8501502;Saxon;Valais;Saxon;Swiss Federal Railways SBB;7.17343599205;46.14938337843;465.204;1400.0;1700.0;740.0;True
+8501503;Riddes;Valais;Riddes;Swiss Federal Railways SBB;7.21785442217;46.17251115006;470.62;1000.0;1200.0;540.0;True
+8501504;Chamoson-St-Pierre-de-Clages;Valais;Chamoson;Swiss Federal Railways SBB;7.24109904693;46.18883638075;488.167;320.0;380.0;170.0;True
+8501505;Ardon;Valais;Ardon;Swiss Federal Railways SBB;7.27094677176;46.20859416924;487.89;770.0;950.0;360.0;True
+8501506;Sion;Valais;Sion;Swiss Federal Railways SBB;7.35919703457;46.2275531964;490.57;13300.0;14900.0;9700.0;True
+8501507;St-Léonard;Valais;Saint-Léonard;Swiss Federal Railways SBB;7.41956823287;46.25148857524;504.946;800.0;970.0;430.0;True
+8501509;Sierre/Siders;Valais;Sierre;Swiss Federal Railways SBB;7.53282555582;46.29212156382;533.1;7100.0;7800.0;5500.0;True
+8501510;Châteauneuf-Conthey;Valais;Conthey;Swiss Federal Railways SBB;7.30510219999;46.21610868974;488.706;960.0;1200.0;370.0;True
+8501554;Aigle-Place-du-Marché;Vaud;Aigle;Transports Publics du Chablais;6.97033999545;46.317239994;416.7;;;;False
+8501561;Vernayaz MC;Valais;Martigny;Transports de Martigny et Régions (mc);7.04460764789;46.13041418261;457.0;;;;False
+8501562;Salvan;Valais;Salvan;Transports de Martigny et Régions (mc);7.02104949376;46.12161239525;933.8;;;;False
+8501563;Les Marécottes;Valais;Salvan;Transports de Martigny et Régions (mc);7.01169182583;46.11231172628;1029.6;;;;False
+8501564;Le Trétien;Valais;Salvan;Transports de Martigny et Régions (mc);6.99772622088;46.10231762806;1060.0;;;;False
+8501565;Finhaut;Valais;Finhaut;Transports de Martigny et Régions (mc);6.97613107;46.08240442029;1224.0;;;;False
+8501566;Le Châtelard VS;Valais;Finhaut;Transports de Martigny et Régions (mc);6.95802138156;46.06028906704;1125.9;;;;False
+8501568;Le Châtelard-Frontière;Valais;Finhaut;Transports de Martigny et Régions (mc);6.94987904428;46.05325532519;1116.0;;;;False
+8501572;Martigny-Bourg;Valais;Martigny;Transports de Martigny et Régions (mo);7.06973576311;46.0930399272;484.323;;;;False
+8501573;Martigny-Croix;Valais;Martigny;Transports de Martigny et Régions (mo);7.05850036228;46.08670396384;503.845;;;;False
+8501575;Bovernier;Valais;Bovernier;Transports de Martigny et Régions (mo);7.08215513338;46.07869158237;613.918;;;;False
+8501576;Sembrancher;Valais;Sembrancher;Transports de Martigny et Régions (mo);7.14583205021;46.0769312804;716.939;;;;False
+8501577;La Douay;Valais;Orsières;Transports de Martigny et Régions (mo);7.1487384093;46.05249795648;819.183;;;;False
+8501578;Orsières;Valais;Orsières;Transports de Martigny et Régions (mo);7.14361780689;46.02803684312;902.116;;;;False
+8501579;Le Châble VS;Valais;Val de Bagnes;Transports de Martigny et Régions (mo);7.21486016547;46.07934236309;816.139;;;;False
+8501580;Etiez;Valais;Val de Bagnes;Transports de Martigny et Régions (mo);7.160582137;46.08294816376;751.2;;;;False
+8501600;Salgesch;Valais;Salgesch;Swiss Federal Railways SBB;7.57819435695;46.30919533661;575.9;410.0;440.0;330.0;True
+8501601;Leuk;Valais;Leuk;Swiss Federal Railways SBB;7.64493650277;46.31157951165;623.26;2300.0;2400.0;1800.0;True
+8501602;Turtmann;Valais;Turtmann-Unterems;Swiss Federal Railways SBB;7.69960496792;46.3093314147;624.21;340.0;380.0;250.0;True
+8501603;Gampel-Steg;Valais;Steg-Hohtenn;Swiss Federal Railways SBB;7.74758116307;46.30651548089;631.886;790.0;950.0;430.0;True
+8501604;Raron;Valais;Raron;Swiss Federal Railways SBB;7.80151060193;46.30627441464;638.777;870.0;1000.0;550.0;True
+8501605;Visp;Valais;Visp;Swiss Federal Railways SBB;7.88146547575;46.29402913539;650.903;25700.0;25300.0;26400.0;True
+8501609;Brig;Valais;Brig-Glis;Swiss Federal Railways SBB;7.9880947394;46.31942270578;677.74;20800.0;20700.0;21200.0;True
+8501636;Eyholz;Valais;Visp;Matterhorn Gotthard Bahn (bvz);7.91630428018;46.29678056686;653.012;260.0;260.0;250.0;True
+8501661;Oberwald;Valais;Obergoms;Matterhorn Gotthard Bahn (fo);8.34294481684;46.53085131294;1366.0;650.0;630.0;710.0;True
+8501662;Obergesteln;Valais;Obergoms;Matterhorn Gotthard Bahn (fo);8.32613402554;46.5132879717;1353.0;270.0;250.0;300.0;True
+8501663;Ulrichen;Valais;Obergoms;Matterhorn Gotthard Bahn (fo);8.30882061459;46.50501820989;1347.0;350.0;340.0;360.0;True
+8501664;Geschinen;Valais;Goms;Matterhorn Gotthard Bahn (fo);8.28210576169;46.49165333682;1340.0;170.0;160.0;190.0;True
+8501665;Münster VS;Valais;Goms;Matterhorn Gotthard Bahn (fo);8.26653194736;46.48536114533;1359.1;560.0;580.0;520.0;True
+8501666;Reckingen VS;Valais;Goms;Matterhorn Gotthard Bahn (fo);8.243888022;46.46822531574;1315.6;380.0;360.0;440.0;True
+8501667;Gluringen;Valais;Goms;Matterhorn Gotthard Bahn (fo);8.23390671443;46.46278231134;1310.6;130.0;120.0;160.0;True
+8501668;Biel (Goms);Valais;Goms;Matterhorn Gotthard Bahn (fo);8.21942861919;46.45505651108;1283.1;160.0;150.0;160.0;True
+8501669;Blitzingen;Valais;Goms;Matterhorn Gotthard Bahn (fo);8.2049670155;46.44466486792;1266.6;140.0;140.0;140.0;True
+8501670;Niederwald;Valais;Goms;Matterhorn Gotthard Bahn (fo);8.19021414942;46.43533101788;1243.5;180.0;150.0;250.0;True
+8501671;Fürgangen-Bellwald Talstation;Valais;Bellwald;Matterhorn Gotthard Bahn (fo);8.15231682297;46.41189742984;1201.9;360.0;320.0;460.0;True
+8501672;Fiesch;Valais;Fiesch;Matterhorn Gotthard Bahn (fo);8.1341917528;46.40628476913;1062.55;1600.0;1500.0;1800.0;True
+8501673;Lax;Valais;Lax;Matterhorn Gotthard Bahn (fo);8.11714779692;46.38700875138;1044.9;350.0;290.0;490.0;True
+8501674;Grengiols;Valais;Grengiols;Matterhorn Gotthard Bahn (fo);8.09168220563;46.37521116889;891.2;200.0;220.0;170.0;True
+8501675;Bettmeralp Talstation;Valais;Grengiols;Matterhorn Gotthard Bahn (fo);8.07651985296;46.37115787248;828.8;790.0;620.0;1200.0;True
+8501676;Mörel;Valais;Mörel-Filet;Matterhorn Gotthard Bahn (fo);8.04714048292;46.35620868375;759.3;1000.0;980.0;1200.0;True
+8501677;Bitsch;Valais;Bitsch;Matterhorn Gotthard Bahn (fo);8.01722378609;46.3360571686;696.1;360.0;340.0;410.0;True
+8501683;Stalden-Saas;Valais;Stalden (VS);Matterhorn Gotthard Bahn (bvz);7.87075460369;46.23197583166;799.567;870.0;860.0;900.0;True
+8501684;Kalpetran;Valais;Embd;Matterhorn Gotthard Bahn (bvz);7.83696109226;46.21406890043;897.15;210.0;220.0;200.0;True
+8501685;St. Niklaus VS;Valais;St. Niklaus;Matterhorn Gotthard Bahn (bvz);7.80208383825;46.17734145632;1127.0;1200.0;1200.0;1100.0;True
+8501686;Herbriggen;Valais;St. Niklaus;Matterhorn Gotthard Bahn (bvz);7.79163490263;46.13214787821;1254.55;360.0;370.0;360.0;True
+8501687;Randa;Valais;Randa;Matterhorn Gotthard Bahn (bvz);7.78146291592;46.09993078168;1406.35;820.0;820.0;810.0;True
+8501688;Täsch;Valais;Täsch;Matterhorn Gotthard Bahn (bvz);7.77450721429;46.06745579469;1438.1;820.0;810.0;850.0;True
+8501689;Zermatt;Valais;Zermatt;Matterhorn Gotthard Bahn (bvz);7.74783789838;46.02399988125;1605.324;5900.0;5500.0;6700.0;True
+8501725;Versmont;Vaud;Leysin;Transports Publics du Chablais;7.00694999814;46.34141999859;1327.7;;;;False
+8501726;Corbier;Valais;Collombey-Muraz;Transports Publics du Chablais;6.95143999583;46.27217999936;390.3;;;;False
+8501727;La Clairière;Vaud;Ollon;Transports Publics du Chablais;7.06799999698;46.28834000047;1219.7;;;;False
+8501729;Fiesch Feriendorf;Valais;Fiesch;Matterhorn Gotthard Bahn (fo);8.13077222768;46.39732521518;1048.8;290.0;320.0;200.0;True
+8501950;Preglia;;;Iselle transito-Domodossola;8.29304472633;46.14543107784;331.0;;;;False
+8501951;Varzo;;;Iselle transito-Domodossola;8.24514013395;46.20631012348;529.5;;;;False
+8501952;Iselle di Trasquera;;;Iselle transito-Domodossola;8.20701407234;46.20700858382;629.51;;;;False
+8502000;Aarburg-Oftringen;Aargau;Aarburg;Swiss Federal Railways SBB;7.90822260672;47.32026846949;412.0;2700.0;3200.0;1600.0;True
+8502001;Zofingen;Aargau;Zofingen;Swiss Federal Railways SBB;7.94311767398;47.28805253539;431.0;9600.0;10900.0;6900.0;True
+8502002;Brittnau-Wikon;Luzern;Wikon;Swiss Federal Railways SBB;7.95704084851;47.26266615496;444.0;170.0;200.0;100.0;True
+8502003;Reiden;Luzern;Reiden;Swiss Federal Railways SBB;7.96877438563;47.24146837212;458.0;1500.0;1800.0;920.0;True
+8502004;Dagmersellen;Luzern;Dagmersellen;Swiss Federal Railways SBB;7.97902592247;47.21755794081;472.0;1200.0;1300.0;830.0;True
+8502005;Nebikon;Luzern;Nebikon;Swiss Federal Railways SBB;7.9774494816;47.19238062097;487.0;1500.0;1700.0;970.0;True
+8502006;Wauwil;Luzern;Wauwil;Swiss Federal Railways SBB;8.01902005935;47.18385897475;505.0;910.0;1000.0;620.0;True
+8502007;Sursee;Luzern;Sursee;Swiss Federal Railways SBB;8.09789386466;47.17079504093;504.0;12900.0;14400.0;9600.0;True
+8502008;Nottwil;Luzern;Nottwil;Swiss Federal Railways SBB;8.13860102485;47.1388117477;507.0;1000.0;1100.0;730.0;True
+8502009;Sempach-Neuenkirch;Luzern;Neuenkirch;Swiss Federal Railways SBB;8.19597905819;47.11605321161;514.0;2300.0;2400.0;1900.0;True
+8502010;St. Erhard-Knutwil;Luzern;Knutwil;Swiss Federal Railways SBB;8.07458153471;47.18008191186;516.0;150.0;160.0;120.0;True
+8502011;Oberkirch LU;Luzern;Oberkirch;Swiss Federal Railways SBB;8.11423445965;47.15523762237;518.0;660.0;770.0;410.0;True
+8502012;Emmenbrücke Kapf;Luzern;Emmen;Swiss Federal Railways SBB;8.27319059247;47.09090997877;484.0;1400.0;1500.0;1100.0;True
+8502017;Waldibrücke;Luzern;Emmen;Swiss Federal Railways SBB;8.31971009182;47.10789934286;422.0;780.0;930.0;420.0;True
+8502019;Ermensee;Luzern;Ermensee;Swiss Federal Railways SBB;8.24231442358;47.22969061575;467.0;170.0;190.0;120.0;True
+8502020;Rothenburg Station;Luzern;Rothenburg;Swiss Federal Railways SBB;8.24756144538;47.08918367453;522.0;1200.0;1400.0;760.0;True
+8502021;Emmenbrücke;Luzern;Emmen;Swiss Federal Railways SBB;8.28256536801;47.07060149967;438.0;5400.0;6000.0;3900.0;True
+8502022;Eschenbach LU;Luzern;Eschenbach (LU);Swiss Federal Railways SBB;8.3227907318;47.13239599983;468.0;840.0;950.0;590.0;True
+8502023;Ballwil;Luzern;Ballwil;Swiss Federal Railways SBB;8.31689880205;47.15376765531;515.0;640.0;710.0;470.0;True
+8502024;Hochdorf;Luzern;Hochdorf;Swiss Federal Railways SBB;8.28869962431;47.16697518872;483.0;1900.0;2200.0;1200.0;True
+8502025;Baldegg;Luzern;Hochdorf;Swiss Federal Railways SBB;8.28023150834;47.18568895917;470.0;230.0;250.0;200.0;True
+8502026;Gelfingen;Luzern;Hitzkirch;Swiss Federal Railways SBB;8.26482492435;47.21355903877;469.0;320.0;350.0;250.0;True
+8502027;Hitzkirch;Luzern;Hitzkirch;Swiss Federal Railways SBB;8.25200102563;47.2226727348;470.0;920.0;1100.0;570.0;True
+8502028;Emmenbrücke Gersag;Luzern;Emmen;Swiss Federal Railways SBB;8.27682007954;47.07831417825;450.0;3300.0;3800.0;2300.0;True
+8502029;Mosen;Luzern;Hitzkirch;Swiss Federal Railways SBB;8.22415965131;47.24429231495;459.0;190.0;200.0;180.0;True
+8502030;Seon;Aargau;Seon;Swiss Federal Railways SBB;8.15880738978;47.34614895652;446.0;740.0;870.0;460.0;True
+8502031;Hallwil;Aargau;Hallwil;Swiss Federal Railways SBB;8.17594945533;47.32863875662;472.0;250.0;290.0;160.0;True
+8502032;Boniswil;Aargau;Boniswil;Swiss Federal Railways SBB;8.18456054926;47.3150387366;482.0;380.0;420.0;280.0;True
+8502033;Birrwil;Aargau;Birrwil;Swiss Federal Railways SBB;8.19901733189;47.28785660045;521.0;240.0;270.0;170.0;True
+8502034;Beinwil am See;Aargau;Beinwil am See;Swiss Federal Railways SBB;8.20223554454;47.26721985887;520.0;1200.0;1300.0;810.0;True
+8502042;Hochdorf Schönau;Luzern;Hochdorf;Swiss Federal Railways SBB;8.29873363509;47.16456932342;494.0;660.0;740.0;480.0;True
+8502043;Seon Nord;Aargau;Seon;Swiss Federal Railways SBB;8.16025310171;47.35315656567;447.635;350.0;420.0;200.0;True
+8502100;Safenwil;Aargau;Safenwil;Swiss Federal Railways SBB;7.98351823534;47.32175790242;471.0;670.0;790.0;380.0;True
+8502101;Kölliken;Aargau;Kölliken;Swiss Federal Railways SBB;8.02646054449;47.33730018641;428.0;740.0;870.0;450.0;True
+8502102;Oberentfelden;Aargau;Oberentfelden;Swiss Federal Railways SBB;8.04838712362;47.35648639545;415.0;920.0;1100.0;570.0;True
+8502103;Suhr;Aargau;Suhr;Swiss Federal Railways SBB;8.08229064021;47.37163547418;397.0;1800.0;2200.0;1100.0;True
+8502104;Hunzenschwil;Aargau;Hunzenschwil;Swiss Federal Railways SBB;8.12569323097;47.38828588616;399.0;680.0;810.0;380.0;True
+8502105;Othmarsingen;Aargau;Othmarsingen;Swiss Federal Railways SBB;8.21480549444;47.40743350791;419.0;1500.0;1800.0;890.0;True
+8502106;Mägenwil;Aargau;Mägenwil;Swiss Federal Railways SBB;8.2351552224;47.41450816824;416.0;890.0;1100.0;350.0;True
+8502110;Dulliken;Solothurn;Dulliken;Swiss Federal Railways SBB;7.94650133116;47.35427613722;394.0;540.0;590.0;410.0;True
+8502111;Däniken SO;Solothurn;Däniken;Swiss Federal Railways SBB;7.97877134475;47.35639008753;382.0;1100.0;1300.0;530.0;True
+8502112;Schönenwerd SO;Solothurn;Schönenwerd;Swiss Federal Railways SBB;8.00015839874;47.37142387061;379.0;2000.0;2300.0;1300.0;True
+8502113;Aarau;Aargau;Aarau;Swiss Federal Railways SBB;8.0512737187;47.39135951417;383.0;37700.0;43400.0;24700.0;True
+8502114;Rupperswil;Aargau;Rupperswil;Swiss Federal Railways SBB;8.12695636531;47.40329025075;374.0;1800.0;2000.0;1300.0;True
+8502115;Wildegg;Aargau;Möriken-Wildegg;Swiss Federal Railways SBB;8.16301990851;47.41527514475;354.0;1300.0;1500.0;810.0;True
+8502116;Schinznach Bad;Aargau;Brugg;Swiss Federal Railways SBB;8.16694860845;47.45178516429;351.8;530.0;600.0;360.0;True
+8502119;Lenzburg;Aargau;Lenzburg;Swiss Federal Railways SBB;8.17039288935;47.39119975544;406.0;26000.0;29500.0;18100.0;True
+8502120;Küngoldingen;Aargau;Oftringen;Swiss Federal Railways SBB;7.94179667102;47.30214150681;433.5;210.0;240.0;140.0;True
+8502121;Walterswil-Striegel;Aargau;Oftringen;Swiss Federal Railways SBB;7.963203602;47.31992356869;467.0;120.0;140.0;80.0;True
+8502122;Kölliken Oberdorf;Aargau;Kölliken;Swiss Federal Railways SBB;8.01909057757;47.32468319937;444.0;220.0;260.0;130.0;True
+8502123;Buchs AG;Aargau;Buchs (AG);Aargau Verkehr AG;8.06958833558;47.3897384092;381.0;;;;False
+8502128;Holderbank AG;Aargau;Holderbank (AG);Swiss Federal Railways SBB;8.16662236906;47.42864252972;355.0;290.0;340.0;160.0;True
+8502160;Gränichen;Aargau;Gränichen;Aargau Verkehr AG;8.09878988026;47.36166508224;411.0;;;;False
+8502161;Teufenthal AG;Aargau;Teufenthal (AG);Aargau Verkehr AG;8.11447827548;47.32940914981;447.0;;;;False
+8502162;Unterkulm;Aargau;Unterkulm;Aargau Verkehr AG;8.11513345191;47.31012929251;463.0;;;;False
+8502163;Oberkulm;Aargau;Oberkulm;Aargau Verkehr AG;8.1219020457;47.30148688903;476.0;;;;False
+8502164;Gontenschwil;Aargau;Gontenschwil;Aargau Verkehr AG;8.14445865463;47.28035419028;510.3;;;;False
+8502165;Zetzwil;Aargau;Zetzwil;Aargau Verkehr AG;8.1532503446;47.28222272822;509.1;;;;False
+8502166;Leimbach AG;Aargau;Leimbach (AG);Aargau Verkehr AG;8.16786689589;47.27271323222;519.0;;;;False
+8502167;Reinach AG Nord;Aargau;Reinach (AG);Aargau Verkehr AG;8.18165445489;47.25706659057;523.2;;;;False
+8502168;Reinach AG;Aargau;Reinach (AG);Aargau Verkehr AG;8.1845346613;47.25006233472;532.3;;;;False
+8502169;Menziken;Aargau;Menziken;Aargau Verkehr AG;8.18931877764;47.24092221719;547.4;;;;False
+8502174;Bleien Liebegg;Aargau;Gränichen;Aargau Verkehr AG;8.11354569017;47.34352728666;427.0;;;;False
+8502176;Reinach AG Mitte;Aargau;Reinach (AG);Aargau Verkehr AG;8.18339284404;47.25450709163;526.0;;;;False
+8502177;Schöftland Nordweg;Aargau;Schöftland;Aargau Verkehr AG;8.051227413;47.31110727556;457.0;;;;False
+8502178;Obermuhen;Aargau;Muhen;Aargau Verkehr AG;8.05448031511;47.3294031476;435.0;;;;False
+8502179;Mittelmuhen;Aargau;Muhen;Aargau Verkehr AG;8.05431455999;47.33453095453;431.5;;;;False
+8502180;Muhen Nord;Aargau;Muhen;Aargau Verkehr AG;8.05267481284;47.34348656022;424.65;;;;False
+8502181;Oberentfelden Uerkenbrücke;Aargau;Oberentfelden;Aargau Verkehr AG;8.04567290302;47.36107493755;412.0;;;;False
+8502182;Unterentfelden Oberdorf;Aargau;Unterentfelden;Aargau Verkehr AG;8.04202111604;47.36473683895;414.0;;;;False
+8502184;Gränichen Oberdorf;Aargau;Gränichen;Aargau Verkehr AG;8.10648282188;47.35653884892;414.0;;;;False
+8502185;Bremgarten Isenlauf;Aargau;Bremgarten (AG);Aargau Verkehr AG;8.3415255869;47.34606531932;385.95;;;;False
+8502186;Dietikon Stoffelbach;Zürich;Dietikon;Aargau Verkehr AG;8.39895722047;47.39332505843;429.25;;;;False
+8502187;Rudolfstetten Hofacker;Aargau;Rudolfstetten-Friedlisberg;Aargau Verkehr AG;8.37695598729;47.36466872381;501.45;;;;False
+8502188;Zufikon Hammergut;Aargau;Zufikon;Aargau Verkehr AG;8.35458862375;47.35595499022;446.46;;;;False
+8502189;Gränichen Töndler;Aargau;Gränichen;Aargau Verkehr AG;8.09204400884;47.36399014917;406.0;;;;False
+8502191;Binzenhof;Aargau;Aarau;Aargau Verkehr AG;8.05058639165;47.3832116659;411.0;;;;False
+8502192;Distelberg;Aargau;Aarau;Aargau Verkehr AG;8.04936488719;47.37599554567;435.0;;;;False
+8502194;Oberentfelden Engelplatz;Aargau;Oberentfelden;Aargau Verkehr AG;8.04662293806;47.3561678837;413.0;;;;False
+8502195;Muhen;Aargau;Muhen;Aargau Verkehr AG;8.0532653458;47.33878204666;428.2;;;;False
+8502196;Unterentfelden Post;Aargau;Unterentfelden;Aargau Verkehr AG;8.04444875497;47.36867272798;414.0;;;;False
+8502197;Hirschthal;Aargau;Hirschthal;Aargau Verkehr AG;8.05282289778;47.3198867289;444.0;;;;False
+8502199;Schöftland;Aargau;Schöftland;Aargau Verkehr AG;8.05001672412;47.30587863902;456.0;;;;False
+8502200;Ebikon;Luzern;Ebikon;Swiss Federal Railways SBB;8.34235825617;47.08426271808;421.0;2200.0;2400.0;1600.0;True
+8502201;Gisikon-Root;Luzern;Root;Swiss Federal Railways SBB;8.39478852665;47.12132766776;421.0;1400.0;1600.0;1100.0;True
+8502202;Rotkreuz;Zug;Risch;Swiss Federal Railways SBB;8.4304952639;47.14176416722;429.0;15000.0;17000.0;10400.0;True
+8502203;Cham;Zug;Cham;Swiss Federal Railways SBB;8.45750476373;47.17824387741;418.0;5800.0;6600.0;4000.0;True
+8502204;Zug;Zug;Zug;Swiss Federal Railways SBB;8.51504934096;47.17370697768;425.0;41200.0;45800.0;30700.0;True
+8502205;Walchwil;Zug;Walchwil;Swiss Federal Railways SBB;8.51693439376;47.09868699551;449.444;730.0;850.0;460.0;True
+8502206;Baar;Zug;Baar;Swiss Federal Railways SBB;8.52327153739;47.19536403757;444.0;8700.0;10100.0;5400.0;True
+8502208;Horgen Oberdorf;Zürich;Horgen;Swiss Federal Railways SBB;8.58981582093;47.2587498147;483.6;2200.0;2600.0;1200.0;True
+8502209;Oberrieden Dorf;Zürich;Oberrieden;Swiss Federal Railways SBB;8.57765278797;47.27673178898;460.1;1600.0;1900.0;1000.0;True
+8502211;Hendschiken;Aargau;Hendschiken;Swiss Federal Railways SBB;8.20738869937;47.38943108161;419.0;910.0;1100.0;540.0;True
+8502212;Dottikon-Dintikon;Aargau;Villmergen;Swiss Federal Railways SBB;8.23471026607;47.37364655616;423.0;1800.0;2100.0;870.0;True
+8502213;Wohlen AG;Aargau;Wohlen (AG);Swiss Federal Railways SBB;8.26979233871;47.34846403595;423.0;6000.0;7000.0;3800.0;True
+8502214;Boswil-Bünzen;Aargau;Boswil;Swiss Federal Railways SBB;8.31528358765;47.30518168342;446.0;790.0;910.0;520.0;True
+8502215;Muri AG;Aargau;Muri (AG);Swiss Federal Railways SBB;8.33982072726;47.2766662302;459.0;2700.0;3200.0;1700.0;True
+8502216;Benzenschwil;Aargau;Merenschwand;Swiss Federal Railways SBB;8.36561689491;47.2468515044;458.0;180.0;210.0;110.0;True
+8502217;Mühlau;Aargau;Mühlau;Swiss Federal Railways SBB;8.38852402748;47.22501998719;445.0;170.0;200.0;120.0;True
+8502218;Sins;Aargau;Sins;Swiss Federal Railways SBB;8.397830915;47.18831423671;406.0;1400.0;1600.0;890.0;True
+8502219;Oberrüti;Aargau;Oberrüti;Swiss Federal Railways SBB;8.40477945885;47.16592617211;403.0;400.0;440.0;300.0;True
+8502220;Urdorf;Zürich;Schlieren;Swiss Federal Railways SBB;8.43473069804;47.39088333689;442.0;2800.0;3200.0;1900.0;True
+8502221;Birmensdorf ZH;Zürich;Birmensdorf (ZH);Swiss Federal Railways SBB;8.43755514081;47.35743137499;488.0;5100.0;5700.0;3700.0;True
+8502222;Bonstetten-Wettswil;Zürich;Bonstetten;Swiss Federal Railways SBB;8.46819690043;47.32590133193;527.0;3600.0;4100.0;2600.0;True
+8502223;Hedingen;Zürich;Hedingen;Swiss Federal Railways SBB;8.44596555338;47.29878522812;496.8;2300.0;2600.0;1700.0;True
+8502224;Affoltern am Albis;Zürich;Affoltern am Albis;Swiss Federal Railways SBB;8.44659499502;47.27607036243;494.0;7400.0;8200.0;5400.0;True
+8502225;Mettmenstetten;Zürich;Mettmenstetten;Swiss Federal Railways SBB;8.45738217923;47.24407106505;461.0;2100.0;2300.0;1600.0;True
+8502226;Knonau;Zürich;Knonau;Swiss Federal Railways SBB;8.46673119008;47.22026434551;436.0;1600.0;1800.0;1200.0;True
+8502227;Steinhausen;Zug;Steinhausen;Swiss Federal Railways SBB;8.47843655924;47.19458148019;424.0;1400.0;1500.0;1100.0;True
+8502229;Urdorf Weihermatt;Zürich;Urdorf;Swiss Federal Railways SBB;8.43034251329;47.38096998247;456.2;1900.0;2100.0;1400.0;True
+8502230;Zug Chollermüli;Zug;Zug;Swiss Federal Railways SBB;8.48664570623;47.18023757776;418.0;630.0;710.0;450.0;True
+8502231;Zug Oberwil;Zug;Zug;Swiss Federal Railways SBB;8.50994051687;47.14768364169;430.44;310.0;350.0;200.0;True
+8502237;Lupfig;Aargau;Lupfig;Swiss Federal Railways SBB;8.2149898571;47.445184188;391.7;420.0;460.0;310.0;True
+8502247;Birr;Aargau;Birr;Swiss Federal Railways SBB;8.21766481836;47.43584669606;398.0;530.0;650.0;240.0;True
+8502248;Bremgarten Obertor;Aargau;Bremgarten (AG);Aargau Verkehr AG;8.34374932692;47.35056777061;386.12;;;;False
+8502268;Zufikon Belvédère;Aargau;Zufikon;Aargau Verkehr AG;8.35927821466;47.35767500448;525.54;;;;False
+8502269;Erdmannlistein;Aargau;Wohlen (AG);Aargau Verkehr AG;8.31262093326;47.34936784429;445.1;;;;False
+8502270;Bergfrieden;Zürich;Dietikon;Aargau Verkehr AG;8.39896102438;47.39746497082;412.5;;;;False
+8502271;Wohlen Oberdorf;Aargau;Wohlen (AG);Aargau Verkehr AG;8.28688663078;47.34685162282;433.0;;;;False
+8502272;Bremgarten West;Aargau;Bremgarten (AG);Aargau Verkehr AG;8.33711091194;47.34569056576;401.5;;;;False
+8502273;Bremgarten;Aargau;Bremgarten (AG);Aargau Verkehr AG;8.34648741256;47.3515177113;390.85;;;;False
+8502274;Zufikon;Aargau;Zufikon;Aargau Verkehr AG;8.35467942804;47.35258270238;421.92;;;;False
+8502275;Widen Heinrüti;Aargau;Widen;Aargau Verkehr AG;8.35487063387;47.3619252762;491.8;;;;False
+8502276;Berikon-Widen;Aargau;Berikon;Aargau Verkehr AG;8.36637059431;47.36192405883;549.92;;;;False
+8502277;Rudolfstetten;Aargau;Rudolfstetten-Friedlisberg;Aargau Verkehr AG;8.38153550812;47.36976256897;471.75;;;;False
+8502278;Reppischhof;Zürich;Dietikon;Aargau Verkehr AG;8.39617331569;47.3840017596;429.4;;;;False
+8502300;Zug Postplatz;Zug;Zug;Swiss Federal Railways SBB;8.51693737657;47.16827568221;427.0;200.0;240.0;130.0;True
+8502306;Hünenberg Chämleten;Zug;Hünenberg;Swiss Federal Railways SBB;8.44990853795;47.16915942018;423.249;230.0;240.0;210.0;True
+8502476;Vevey Vignerons;Vaud;Vevey;Montreux-Vevey-Riviera (cev);6.85282173365;46.46908300331;446.0;130.0;150.0;80.0;True
+8503000;Zürich HB;Zürich;Zürich;Swiss Federal Railways SBB;8.5402123491;47.37817667422;407.7;398300.0;419600.0;349700.0;True
+8503001;Zürich Altstetten;Zürich;Zürich;Swiss Federal Railways SBB;8.48896264996;47.39148307308;398.9;37800.0;44600.0;22100.0;True
+8503003;Zürich Stadelhofen;Zürich;Zürich;Swiss Federal Railways SBB;8.54848908845;47.36660976671;409.7;71100.0;80400.0;49900.0;True
+8503004;Zürich Tiefenbrunnen;Zürich;Zürich;Swiss Federal Railways SBB;8.56138984971;47.35012468262;408.0;4600.0;4800.0;4200.0;True
+8503006;Zürich Oerlikon;Zürich;Zürich;Swiss Federal Railways SBB;8.54413990999;47.4115300412;441.7;82200.0;94200.0;54900.0;True
+8503007;Zürich Seebach;Zürich;Zürich;Swiss Federal Railways SBB;8.54466021551;47.4187500471;441.9;1300.0;1400.0;990.0;True
+8503008;Zürich Affoltern;Zürich;Zürich;Swiss Federal Railways SBB;8.50858255772;47.4209089456;455.69;3800.0;4100.0;2900.0;True
+8503009;Zürich Wollishofen;Zürich;Zürich;Swiss Federal Railways SBB;8.53360101346;47.34744024475;409.3;5800.0;6200.0;4900.0;True
+8503010;Zürich Enge;Zürich;Zürich;Swiss Federal Railways SBB;8.53082057475;47.36409881802;409.0;14600.0;17500.0;7900.0;True
+8503011;Zürich Wiedikon;Zürich;Zürich;Swiss Federal Railways SBB;8.52348543973;47.37147722842;405.5;12200.0;13900.0;8200.0;True
+8503015;Zürich Wipkingen;Zürich;Zürich;Swiss Federal Railways SBB;8.52938237141;47.39303886876;424.6;2400.0;2700.0;1800.0;True
+8503016;Zürich Flughafen;Zürich;Kloten;Swiss Federal Railways SBB;8.56240182048;47.4503856299;413.0;48500.0;50000.0;45100.0;True
+8503020;Zürich Hardbrücke;Zürich;Zürich;Swiss Federal Railways SBB;8.51712620147;47.3851978915;405.0;51100.0;59100.0;32700.0;True
+8503051;Zürich Binz;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.51829736305;47.36276307407;421.6;;;;False
+8503052;Zürich Friesenberg;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.50750739155;47.36479941709;442.7;;;;False
+8503053;Zürich Schweighof;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.50353176389;47.36494152934;453.2;;;;False
+8503054;Zürich Triemli;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.49537993398;47.36499024689;480.2;;;;False
+8503055;Uitikon Waldegg;Zürich;Uitikon;Sihltal-Zürich-Uetliberg-Bahn;8.46592172744;47.36592215885;620.3;;;;False
+8503056;Ringlikon;Zürich;Uitikon;Sihltal-Zürich-Uetliberg-Bahn;8.47742770576;47.36029839401;684.3;;;;False
+8503057;Uetliberg;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.48755576067;47.3520743693;812.6;;;;False
+8503086;Zürich Brunau;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.52623535098;47.35164177902;422.4;;;;False
+8503087;Zürich Saalsporthalle;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.52196914528;47.35779536995;421.0;;;;False
+8503089;Wildpark-Höfli;Zürich;Langnau am Albis;Sihltal-Zürich-Uetliberg-Bahn;8.53564889324;47.2965419745;460.8;;;;False
+8503090;Zürich Selnau;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.53172495488;47.37223834348;398.3;;;;False
+8503091;Zürich Giesshübel;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.52201633411;47.3626111025;418.2;;;;False
+8503093;Zürich Manegg;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.51975117912;47.33800891998;430.0;;;;False
+8503094;Zürich Leimbach;Zürich;Zürich;Sihltal-Zürich-Uetliberg-Bahn;8.51856404602;47.33304432155;435.9;;;;False
+8503095;Sood-Oberleimbach;Zürich;Adliswil;Sihltal-Zürich-Uetliberg-Bahn;8.52151971545;47.31962241833;443.3;;;;False
+8503096;Adliswil;Zürich;Adliswil;Sihltal-Zürich-Uetliberg-Bahn;8.52425366798;47.31227447867;451.7;;;;False
+8503097;Langnau-Gattikon;Zürich;Langnau am Albis;Sihltal-Zürich-Uetliberg-Bahn;8.54383396105;47.28730650811;468.2;;;;False
+8503098;Sihlwald;Zürich;Horgen;Sihltal-Zürich-Uetliberg-Bahn;8.55750854775;47.26829377159;484.6;;;;False
+8503099;Sihlau;Zürich;Adliswil;Sihltal-Zürich-Uetliberg-Bahn;8.52516835662;47.303288555;456.6;;;;False
+8503100;Zollikon;Zürich;Zollikon;Swiss Federal Railways SBB;8.56974062583;47.33733459652;415.3;1300.0;1400.0;880.0;True
+8503101;Küsnacht ZH;Zürich;Küsnacht (ZH);Swiss Federal Railways SBB;8.58063781685;47.31915662746;415.2;5200.0;6000.0;3100.0;True
+8503102;Erlenbach ZH;Zürich;Erlenbach (ZH);Swiss Federal Railways SBB;8.59152235725;47.30579195922;419.0;3600.0;4100.0;2400.0;True
+8503103;Herrliberg-Feldmeilen;Zürich;Meilen;Swiss Federal Railways SBB;8.61273342225;47.28182660108;423.3;3900.0;4500.0;2700.0;True
+8503104;Meilen;Zürich;Meilen;Swiss Federal Railways SBB;8.64431191101;47.26981115115;420.2;7900.0;9100.0;5100.0;True
+8503105;Uetikon;Zürich;Uetikon am See;Swiss Federal Railways SBB;8.67878709851;47.25903013041;413.9;4600.0;5400.0;2700.0;True
+8503106;Männedorf;Zürich;Männedorf;Swiss Federal Railways SBB;8.69234611716;47.25342402768;419.4;4900.0;5700.0;3200.0;True
+8503107;Stäfa;Zürich;Stäfa;Swiss Federal Railways SBB;8.72165286994;47.24052719846;414.2;5300.0;6100.0;3500.0;True
+8503108;Uerikon;Zürich;Stäfa;Swiss Federal Railways SBB;8.75262520306;47.23586077472;425.8;1900.0;2200.0;1100.0;True
+8503109;Feldbach;Zürich;Hombrechtikon;Swiss Federal Railways SBB;8.78349776635;47.23920356137;426.0;1100.0;1300.0;770.0;True
+8503110;Rapperswil SG;St. Gallen;Rapperswil-Jona;Swiss Federal Railways SBB;8.8167448876;47.22488721232;408.6;23000.0;24400.0;19700.0;True
+8503111;Winkel am Zürichsee;Zürich;Erlenbach (ZH);Swiss Federal Railways SBB;8.59898830941;47.29720784525;425.2;1300.0;1500.0;890.0;True
+8503112;Kempraten;St. Gallen;Rapperswil-Jona;Swiss Federal Railways SBB;8.81431096018;47.23839772828;419.4;780.0;900.0;510.0;True
+8503113;Blumenau;St. Gallen;Rapperswil-Jona;Swiss Federal Railways SBB;8.84240509396;47.22367068252;413.8;500.0;610.0;260.0;True
+8503115;Schmerikon;St. Gallen;Schmerikon;Swiss Federal Railways SBB;8.94338195257;47.22516013057;407.9;1500.0;1600.0;1200.0;True
+8503116;Uznach;St. Gallen;Uznach;Swiss Federal Railways SBB;8.98069081394;47.22428279614;410.3;8700.0;9500.0;6900.0;True
+8503117;Kaltbrunn;St. Gallen;Kaltbrunn;Swiss Federal Railways SBB;9.02243102403;47.21798320842;469.6;270.0;300.0;200.0;True
+8503118;Benken SG;St. Gallen;Benken (SG);Swiss Federal Railways SBB;9.00865422185;47.20445814636;416.4;360.0;410.0;240.0;True
+8503119;Schänis;St. Gallen;Schänis;Swiss Federal Railways SBB;9.04397616792;47.15765714575;420.8;570.0;650.0;380.0;True
+8503120;Jona;St. Gallen;Rapperswil-Jona;Swiss Federal Railways SBB;8.83461805252;47.23097664151;425.2;5500.0;6200.0;3800.0;True
+8503121;Rüti ZH;Zürich;Rüti (ZH);Swiss Federal Railways SBB;8.85407946345;47.26048380429;481.8;11500.0;12800.0;8500.0;True
+8503122;Bubikon;Zürich;Bubikon;Swiss Federal Railways SBB;8.82271483906;47.27084101315;509.2;5300.0;6100.0;3700.0;True
+8503123;Wetzikon ZH;Zürich;Wetzikon (ZH);Swiss Federal Railways SBB;8.79228973378;47.31803163151;531.6;24700.0;28300.0;16500.0;True
+8503124;Aathal;Zürich;Seegräben;Swiss Federal Railways SBB;8.76562513535;47.33595913384;505.7;770.0;830.0;640.0;True
+8503125;Uster;Zürich;Uster;Swiss Federal Railways SBB;8.71870915949;47.35036900902;463.7;24300.0;27600.0;16900.0;True
+8503126;Nänikon-Greifensee;Zürich;Uster;Swiss Federal Railways SBB;8.68641362315;47.36936291678;449.5;4500.0;5300.0;2800.0;True
+8503127;Schwerzenbach ZH;Zürich;Schwerzenbach;Swiss Federal Railways SBB;8.6586736149;47.38438582356;443.1;9700.0;11500.0;5800.0;True
+8503128;Dübendorf;Zürich;Dübendorf;Swiss Federal Railways SBB;8.62342174423;47.40008035995;439.9;7900.0;9200.0;5100.0;True
+8503129;Wallisellen;Zürich;Wallisellen;Swiss Federal Railways SBB;8.59192819967;47.41272308615;430.9;12600.0;15200.0;6900.0;True
+8503130;Hinwil;Zürich;Hinwil;Swiss Federal Railways SBB;8.83971989441;47.30005695036;565.5;2700.0;3000.0;1900.0;True
+8503134;Bauma;Zürich;Bauma;Swiss Federal Railways SBB;8.87823304223;47.36883663689;639.3;730.0;760.0;640.0;True
+8503135;Steg;Zürich;Fischenthal;Swiss Federal Railways SBB;8.93237176855;47.35385246489;694.8;290.0;290.0;290.0;True
+8503136;Fischenthal;Zürich;Fischenthal;Swiss Federal Railways SBB;8.92329588574;47.33330268754;734.8;200.0;220.0;150.0;True
+8503137;Gibswil;Zürich;Fischenthal;Swiss Federal Railways SBB;8.91551055853;47.31372010488;756.8;370.0;430.0;250.0;True
+8503138;Wald ZH;Zürich;Wald (ZH);Swiss Federal Railways SBB;8.91399975334;47.27269050456;617.4;1300.0;1500.0;950.0;True
+8503139;Tann-Dürnten;Zürich;Dürnten;Swiss Federal Railways SBB;8.85272272553;47.26837759227;516.1;360.0;400.0;250.0;True
+8503141;Küsnacht Goldbach;Zürich;Küsnacht (ZH);Swiss Federal Railways SBB;8.57596418686;47.32685670592;417.3;1500.0;1800.0;830.0;True
+8503147;Stettbach;Zürich;Zürich;Swiss Federal Railways SBB;8.59614477854;47.39721540796;431.5;23400.0;26700.0;16100.0;True
+8503200;Kilchberg ZH;Zürich;Kilchberg (ZH);Swiss Federal Railways SBB;8.54801640459;47.32443156962;424.1;4200.0;4700.0;3000.0;True
+8503201;Rüschlikon;Zürich;Rüschlikon;Swiss Federal Railways SBB;8.55516265484;47.30713187461;433.0;3000.0;3500.0;1900.0;True
+8503202;Thalwil;Zürich;Thalwil;Swiss Federal Railways SBB;8.56476944907;47.29598140718;435.1;17300.0;18900.0;13500.0;True
+8503203;Oberrieden;Zürich;Oberrieden;Swiss Federal Railways SBB;8.5784605877;47.27967632115;424.5;1400.0;1600.0;970.0;True
+8503204;Horgen;Zürich;Horgen;Swiss Federal Railways SBB;8.59691699657;47.26148337461;408.7;8500.0;9900.0;5500.0;True
+8503205;Au ZH;Zürich;Wädenswil;Swiss Federal Railways SBB;8.64372590903;47.24681794442;409.9;1100.0;1200.0;860.0;True
+8503206;Wädenswil;Zürich;Wädenswil;Swiss Federal Railways SBB;8.67521627099;47.22930727742;408.2;17900.0;20000.0;13300.0;True
+8503207;Richterswil;Zürich;Richterswil;Swiss Federal Railways SBB;8.70748135504;47.20837499706;407.8;5000.0;5600.0;3700.0;True
+8503208;Bäch SZ;Schwyz;Freienbach;Swiss Federal Railways SBB;8.72717426861;47.20098164193;411.3;490.0;550.0;360.0;True
+8503209;Pfäffikon SZ;Schwyz;Freienbach;Swiss Federal Railways SBB;8.77812981895;47.20299744313;411.9;15700.0;17300.0;11900.0;True
+8503210;Freienbach SBB;Schwyz;Freienbach;Swiss Federal Railways SBB;8.75621859973;47.20731070802;409.6;470.0;510.0;360.0;True
+8503211;Altendorf;Schwyz;Altendorf;Swiss Federal Railways SBB;8.82290584821;47.19396706593;412.2;780.0;850.0;620.0;True
+8503220;Lachen SZ;Schwyz;Lachen;Swiss Federal Railways SBB;8.85271518942;47.19006843185;416.2;3200.0;3600.0;2200.0;True
+8503221;Siebnen-Wangen;Schwyz;Wangen (SZ);Swiss Federal Railways SBB;8.90071360394;47.18267069741;433.1;3100.0;3600.0;2100.0;True
+8503222;Schübelbach-Buttikon;Schwyz;Schübelbach;Swiss Federal Railways SBB;8.93878097396;47.17638983009;417.9;100.0;120.0;49.0;False
+8503223;Reichenburg;Schwyz;Reichenburg;Swiss Federal Railways SBB;8.98232264544;47.1726982176;419.9;150.0;190.0;50.0;True
+8503224;Bilten;Glarus;Glarus Nord;Swiss Federal Railways SBB;9.02991826857;47.15219293596;420.5;60.0;80.0;49.0;False
+8503225;Ziegelbrücke;St. Gallen;Schänis;Swiss Federal Railways SBB;9.06005166998;47.13615591159;425.0;11500.0;12100.0;10100.0;True
+8503226;Nieder- und Oberurnen;Glarus;Glarus Nord;Swiss Federal Railways SBB;9.0623937525;47.12236168864;428.0;320.0;390.0;170.0;True
+8503227;Näfels-Mollis;Glarus;Glarus Nord;Swiss Federal Railways SBB;9.06995693502;47.09871927367;437.6;1600.0;1800.0;1200.0;True
+8503228;Netstal;Glarus;Glarus;Swiss Federal Railways SBB;9.05943590574;47.06452902198;457.6;1100.0;1200.0;880.0;True
+8503230;Glarus;Glarus;Glarus;Swiss Federal Railways SBB;9.07156641336;47.0399241436;471.7;3000.0;3300.0;2200.0;True
+8503231;Ennenda;Glarus;Glarus;Swiss Federal Railways SBB;9.07719380509;47.03295954319;477.9;720.0;800.0;540.0;True
+8503232;Mitlödi;Glarus;Glarus Süd;Swiss Federal Railways SBB;9.08121194009;47.01013161304;503.2;350.0;400.0;240.0;True
+8503233;Schwanden GL;Glarus;Glarus Süd;Swiss Federal Railways SBB;9.07746572383;46.99685224025;521.4;1800.0;2000.0;1600.0;True
+8503234;Nidfurn-Haslen;Glarus;Glarus Süd;Swiss Federal Railways SBB;9.05927645697;46.98589452514;539.9;90.0;100.0;80.0;True
+8503235;Leuggelbach;Glarus;Glarus Süd;Swiss Federal Railways SBB;9.04694433718;46.97574286248;553.9;49.0;49.0;49.0;False
+8503236;Luchsingen-Hätzingen;Glarus;Glarus Süd;Swiss Federal Railways SBB;9.03902248684;46.96507069224;567.6;230.0;240.0;200.0;True
+8503237;Diesbach-Betschwanden;Glarus;Glarus Süd;Swiss Federal Railways SBB;9.02437338188;46.94618080685;596.8;70.0;80.0;70.0;True
+8503238;Rüti GL;Glarus;Glarus Süd;Swiss Federal Railways SBB;9.01303898247;46.9345459737;625.4;100.0;110.0;70.0;True
+8503239;Linthal;Glarus;Glarus Süd;Swiss Federal Railways SBB;8.99779486958;46.92556359068;648.0;280.0;300.0;250.0;True
+8503240;Linthal Braunwaldbahn;Glarus;Glarus Süd;Swiss Federal Railways SBB;9.00264326243;46.92831074864;644.471;240.0;200.0;350.0;True
+8503280;Steinerberg;Schwyz;Steinerberg;Schweizerische Südostbahn (sob);8.58527759304;47.05221228856;591.8;100.0;120.0;60.0;True
+8503282;Rothenthurm;Schwyz;Rothenthurm;Schweizerische Südostbahn (sob);8.67467329812;47.10579465185;923.0;540.0;590.0;410.0;True
+8503283;Einsiedeln;Schwyz;Einsiedeln;Schweizerische Südostbahn (sob);8.74447774656;47.12858171887;880.8;3900.0;4100.0;3600.0;True
+8503284;Biberbrugg;Schwyz;Feusisberg;Schweizerische Südostbahn (sob);8.72271471268;47.15637863864;829.53;3000.0;3300.0;2500.0;True
+8503285;Schindellegi-Feusisberg;Schwyz;Feusisberg;Schweizerische Südostbahn (sob);8.70937781615;47.17640928429;754.82;750.0;850.0;500.0;True
+8503286;Samstagern;Zürich;Richterswil;Schweizerische Südostbahn (sob);8.68598711615;47.1915524925;628.55;990.0;1200.0;570.0;True
+8503287;Burghalden;Zürich;Richterswil;Schweizerische Südostbahn (sob);8.69271907699;47.20867389935;529.32;850.0;980.0;550.0;True
+8503288;Wollerau;Schwyz;Freienbach;Schweizerische Südostbahn (sob);8.72500984767;47.19543759071;504.51;570.0;650.0;380.0;True
+8503289;Freienbach SOB;Schwyz;Freienbach;Schweizerische Südostbahn (sob);8.75939896054;47.20420368646;413.77;410.0;480.0;260.0;True
+8503290;Biberegg;Schwyz;Rothenthurm;Schweizerische Südostbahn (sob);8.66944317767;47.09360991035;933.0;49.0;49.0;49.0;False
+8503292;Altmatt;Schwyz;Rothenthurm;Schweizerische Südostbahn (sob);8.69614675957;47.13165202434;920.2;49.0;49.0;49.0;False
+8503293;Grüenfeld;Zürich;Richterswil;Schweizerische Südostbahn (sob);8.68728884259;47.19829526328;591.91;180.0;200.0;120.0;True
+8503294;Riedmatt SZ;Schwyz;Wollerau;Schweizerische Südostbahn (sob);8.71210210165;47.1967053453;544.0;340.0;430.0;140.0;True
+8503295;Wilen bei Wollerau;Schwyz;Freienbach;Schweizerische Südostbahn (sob);8.73433286443;47.19758432312;493.6;390.0;430.0;270.0;True
+8503299;Hurden;Schwyz;Freienbach;Schweizerische Südostbahn (sob);8.80074572761;47.21414634563;408.0;160.0;150.0;180.0;True
+8503300;Kempten;Zürich;Wetzikon (ZH);Swiss Federal Railways SBB;8.8047206925;47.33204311533;552.5;1700.0;1900.0;1100.0;True
+8503301;Pfäffikon ZH;Zürich;Pfäffikon;Swiss Federal Railways SBB;8.78479969848;47.36708623786;547.5;5500.0;6300.0;3700.0;True
+8503302;Fehraltorf;Zürich;Fehraltorf;Swiss Federal Railways SBB;8.75028811504;47.3851228052;531.3;3100.0;3500.0;2000.0;True
+8503303;Illnau;Zürich;Illnau-Effretikon;Swiss Federal Railways SBB;8.72272752143;47.40881918966;517.0;2000.0;2300.0;1300.0;True
+8503304;Kemptthal;Zürich;Lindau;Swiss Federal Railways SBB;8.70558624821;47.45283885428;469.2;690.0;850.0;320.0;True
+8503305;Effretikon;Zürich;Illnau-Effretikon;Swiss Federal Railways SBB;8.68667914444;47.42581205991;509.6;16900.0;19400.0;11100.0;True
+8503306;Dietlikon;Zürich;Dietlikon;Swiss Federal Railways SBB;8.61927640456;47.42020206401;444.9;7800.0;8900.0;5500.0;True
+8503307;Bassersdorf;Zürich;Bassersdorf;Swiss Federal Railways SBB;8.6262209443;47.4385705616;454.8;4600.0;5200.0;3300.0;True
+8503308;Kloten;Zürich;Kloten;Swiss Federal Railways SBB;8.58380969746;47.44860728557;446.6;5000.0;5600.0;3700.0;True
+8503309;Kloten Balsberg;Zürich;Kloten;Swiss Federal Railways SBB;8.57071849285;47.44229037023;440.1;1200.0;1400.0;790.0;True
+8503310;Glattbrugg;Zürich;Opfikon;Swiss Federal Railways SBB;8.55885414875;47.43082671563;431.4;6300.0;7500.0;3600.0;True
+8503311;Rümlang;Zürich;Rümlang;Swiss Federal Railways SBB;8.5327673226;47.45406560881;429.6;4700.0;5200.0;3300.0;True
+8503312;Oberglatt ZH;Zürich;Oberglatt;Swiss Federal Railways SBB;8.51061883625;47.47020461158;430.2;6900.0;8000.0;4400.0;True
+8503313;Niederglatt ZH;Zürich;Niederglatt;Swiss Federal Railways SBB;8.50331557555;47.48747102012;424.3;1300.0;1500.0;870.0;True
+8503314;Niederhasli;Zürich;Niederhasli;Swiss Federal Railways SBB;8.48870740845;47.4783308835;423.6;1900.0;2200.0;1200.0;True
+8503315;Dielsdorf;Zürich;Dielsdorf;Swiss Federal Railways SBB;8.45944375321;47.48242050549;428.6;3000.0;3500.0;1800.0;True
+8503316;Steinmaur;Zürich;Steinmaur;Swiss Federal Railways SBB;8.44685777449;47.48998675874;450.7;1300.0;1500.0;810.0;True
+8503317;Schöfflisdorf-Oberweningen;Zürich;Schöfflisdorf;Swiss Federal Railways SBB;8.41181230231;47.49797136026;461.4;1200.0;1400.0;780.0;True
+8503318;Niederweningen Dorf;Zürich;Niederweningen;Swiss Federal Railways SBB;8.38107348439;47.50591365394;452.5;920.0;1100.0;600.0;True
+8503319;Niederweningen;Zürich;Niederweningen;Swiss Federal Railways SBB;8.36963061177;47.51120059646;444.2;1400.0;1600.0;1000.0;True
+8503340;Opfikon;Zürich;Opfikon;Swiss Federal Railways SBB;8.56179479491;47.42995484385;427.3;2100.0;2400.0;1500.0;True
+8503400;Bülach;Zürich;Bülach;Swiss Federal Railways SBB;8.53620919891;47.52394992292;427.5;15100.0;17600.0;9400.0;True
+8503401;Glattfelden;Zürich;Bülach;Swiss Federal Railways SBB;8.52405519018;47.54855798112;410.0;1000.0;1200.0;680.0;True
+8503402;Eglisau;Zürich;Eglisau;Swiss Federal Railways SBB;8.51655801586;47.572374547;390.2;1800.0;2000.0;1400.0;True
+8503403;Hüntwangen-Wil;Zürich;Hüntwangen;Swiss Federal Railways SBB;8.51284804974;47.58126889888;393.2;1400.0;1600.0;980.0;True
+8503404;Rafz;Zürich;Rafz;Swiss Federal Railways SBB;8.54345141156;47.60379679512;423.5;1600.0;1900.0;1100.0;True
+8503405;Zweidlen;Zürich;Glattfelden;Swiss Federal Railways SBB;8.46791893705;47.5704481598;368.2;100.0;120.0;70.0;True
+8503408;Rekingen AG;Aargau;Zurzach;Swiss Federal Railways SBB;8.32712567861;47.56997139138;338.2;140.0;160.0;90.0;True
+8503409;Bad Zurzach;Aargau;Zurzach;Swiss Federal Railways SBB;8.29558779478;47.58831339399;338.0;1400.0;1600.0;1000.0;True
+8503410;Rietheim;Aargau;Zurzach;Swiss Federal Railways SBB;8.27732794608;47.60075009475;332.4;210.0;230.0;140.0;True
+8503411;Koblenz Dorf;Aargau;Koblenz;Swiss Federal Railways SBB;8.24016389696;47.60938608467;324.0;440.0;520.0;260.0;True
+8503413;Kaiserstuhl AG;Aargau;Zurzach;Swiss Federal Railways SBB;8.41916248796;47.56644670041;368.2;200.0;210.0;180.0;True
+8503414;Mellikon;Aargau;Mellikon;Swiss Federal Railways SBB;8.35251071538;47.56848468008;348.0;50.0;60.0;49.0;False
+8503415;Rümikon AG;Aargau;Zurzach;Swiss Federal Railways SBB;8.37366691787;47.56538384977;353.7;100.0;130.0;49.0;False
+8503420;Lottstetten;;;Swiss Federal Railways SBB;8.56682293918;47.62573558158;448.3;360.0;420.0;240.0;True
+8503421;Jestetten;;;Swiss Federal Railways SBB;8.57329995032;47.65440178175;437.9;1100.0;1300.0;730.0;True
+8503423;Neuhausen;Schaffhausen;Neuhausen am Rheinfall;Swiss Federal Railways SBB;8.62493454562;47.68313341197;397.2;1700.0;1900.0;1400.0;True
+8503424;Schaffhausen;Schaffhausen;Schaffhausen;Swiss Federal Railways SBB;8.63275578013;47.69828151482;403.8;23100.0;25200.0;18200.0;True
+8503425;Feuerthalen;Zürich;Feuerthalen;Swiss Federal Railways SBB;8.64596842886;47.69216947827;408.7;350.0;370.0;310.0;True
+8503426;Langwiesen;Zürich;Feuerthalen;Swiss Federal Railways SBB;8.66232019933;47.68345097023;408.7;270.0;280.0;240.0;True
+8503427;Schlatt TG;Thurgau;Schlatt (TG);Swiss Federal Railways SBB;8.68751082255;47.67949978635;404.2;310.0;340.0;230.0;True
+8503428;Diessenhofen;Thurgau;Diessenhofen;Swiss Federal Railways SBB;8.75229939789;47.68546822382;412.9;1000.0;1100.0;820.0;True
+8503429;Schlattingen;Thurgau;Basadingen-Schlattingen;Swiss Federal Railways SBB;8.77043371755;47.66662433182;426.5;210.0;220.0;170.0;True
+8503462;Herblingen;Schaffhausen;Schaffhausen;Deutsche Bahnhöfe im Kt. Schaffhausen;8.66428877792;47.71721015582;455.0;;;;False
+8503463;Neuhausen Bad Bf;Schaffhausen;Neuhausen am Rheinfall;Deutsche Bahnhöfe im Kt. Schaffhausen;8.61287811288;47.68212366184;440.0;;;;False
+8503464;Beringen Bad Bf;Schaffhausen;Beringen;Deutsche Bahnhöfe im Kt. Schaffhausen;8.574448442;47.69498961162;441.0;;;;False
+8503465;Neunkirch;Schaffhausen;Neunkirch;Deutsche Bahnhöfe im Kt. Schaffhausen;8.49481000249;47.68916000063;426.4;;;;False
+8503466;Wilchingen-Hallau;Schaffhausen;Wilchingen;Deutsche Bahnhöfe im Kt. Schaffhausen;8.46400999625;47.67948999651;413.7;;;;False
+8503467;Trasadingen;Schaffhausen;Trasadingen;Deutsche Bahnhöfe im Kt. Schaffhausen;8.43739999714;47.66560000019;404.0;;;;False
+8503501;Döttingen;Aargau;Döttingen;Swiss Federal Railways SBB;8.25636467328;47.57526982038;325.4;2400.0;2800.0;1600.0;True
+8503502;Siggenthal-Würenlingen;Aargau;Würenlingen;Swiss Federal Railways SBB;8.24065999621;47.52068999387;350.8;1600.0;1900.0;790.0;True
+8503503;Turgi;Aargau;Baden;Swiss Federal Railways SBB;8.25345864571;47.49175731953;341.7;6600.0;7700.0;4100.0;True
+8503504;Baden;Aargau;Baden;Swiss Federal Railways SBB;8.30770947404;47.47642428462;385.1;32700.0;35700.0;25900.0;True
+8503505;Wettingen;Aargau;Wettingen;Swiss Federal Railways SBB;8.31600617145;47.45963817593;388.3;5000.0;5700.0;3400.0;True
+8503506;Killwangen-Spreitenbach;Aargau;Killwangen;Swiss Federal Railways SBB;8.3542140006;47.43332885837;393.15;4300.0;5000.0;2700.0;True
+8503508;Dietikon;Zürich;Dietikon;Swiss Federal Railways SBB;8.40498818789;47.40578380657;388.3;20900.0;23700.0;14700.0;True
+8503509;Schlieren;Zürich;Schlieren;Swiss Federal Railways SBB;8.44724506334;47.39917636824;392.6;13000.0;15200.0;8000.0;True
+8503511;Neuenhof;Aargau;Neuenhof;Swiss Federal Railways SBB;8.331255318;47.4506642331;389.1;1400.0;1500.0;1100.0;True
+8503512;Glanzenberg;Zürich;Dietikon;Swiss Federal Railways SBB;8.4204418766;47.39887872505;389.175;3700.0;4100.0;2600.0;True
+8503525;Otelfingen Golfpark;Zürich;Otelfingen;Swiss Federal Railways SBB;8.40211345491;47.4558216436;422.1;610.0;730.0;340.0;True
+8503526;Regensdorf-Watt;Zürich;Regensdorf;Swiss Federal Railways SBB;8.47208492696;47.43656352579;441.2;6500.0;7600.0;3900.0;True
+8503527;Buchs-Dällikon;Zürich;Buchs (ZH);Swiss Federal Railways SBB;8.43560174397;47.45340531179;424.2;2600.0;3100.0;1500.0;True
+8503528;Otelfingen;Zürich;Otelfingen;Swiss Federal Railways SBB;8.38753243209;47.45493620253;427.0;1400.0;1600.0;890.0;True
+8503529;Würenlos;Aargau;Würenlos;Swiss Federal Railways SBB;8.35766780632;47.44575947163;420.2;1100.0;1200.0;740.0;True
+8504000;Pully-Nord;Vaud;Pully;Swiss Federal Railways SBB;6.6579876066;46.51468146449;473.38;970.0;1100.0;730.0;True
+8504003;Bossière;Vaud;Lutry;Swiss Federal Railways SBB;6.69932176237;46.50974851438;524.17;130.0;140.0;100.0;True
+8504007;Moreillon;Vaud;Puidoux;Swiss Federal Railways SBB;6.78564542808;46.50839811665;657.24;50.0;60.0;49.0;False
+8504010;La Conversion;Vaud;Lutry;Swiss Federal Railways SBB;6.67832359677;46.51308449749;501.042;950.0;1100.0;630.0;True
+8504011;Grandvaux;Vaud;Bourg-en-Lavaux;Swiss Federal Railways SBB;6.72265018612;46.49694824047;565.065;660.0;730.0;510.0;True
+8504012;Puidoux;Vaud;Puidoux;Swiss Federal Railways SBB;6.76568648465;46.49384122879;617.56;1900.0;2200.0;1100.0;True
+8504013;Chexbres-Village;Vaud;Chexbres;Swiss Federal Railways SBB;6.77853779056;46.48105723604;559.646;500.0;540.0;410.0;True
+8504014;Palézieux;Vaud;Oron;Swiss Federal Railways SBB;6.83787527681;46.54276359358;668.75;6900.0;7800.0;4700.0;True
+8504020;Oron;Vaud;Oron;Swiss Federal Railways SBB;6.837104144;46.57254560973;700.1;49.0;49.0;49.0;False
+8504021;Vauderens;Fribourg;Ursy;Swiss Federal Railways SBB;6.85003757732;46.62145538042;757.28;50.0;80.0;49.0;False
+8504023;Romont FR;Fribourg;Romont (FR);Swiss Federal Railways SBB;6.91181142012;46.69350826123;707.2;5100.0;5700.0;3800.0;True
+8504024;Villaz-St-Pierre;Fribourg;Villaz;Swiss Federal Railways SBB;6.96064288147;46.72058040504;706.25;290.0;360.0;120.0;True
+8504025;Chénens;Fribourg;Chénens;Swiss Federal Railways SBB;7.00042964473;46.74921078897;722.02;220.0;270.0;110.0;True
+8504026;Cottens FR;Fribourg;Cottens (FR);Swiss Federal Railways SBB;7.03479432111;46.75121262863;712.58;500.0;650.0;180.0;True
+8504027;Neyruz FR;Fribourg;Neyruz (FR);Swiss Federal Railways SBB;7.06502743208;46.76604906189;687.04;490.0;640.0;180.0;True
+8504028;Rosé;Fribourg;Avry;Swiss Federal Railways SBB;7.06196862435;46.78263344944;667.62;700.0;920.0;210.0;True
+8504030;Villars-sur-Glâne;Fribourg;Villars-sur-Glâne;Swiss Federal Railways SBB;7.11638562388;46.78982981876;639.72;210.0;260.0;90.0;True
+8504040;Corseaux-Cornalles;Vaud;Corseaux;Swiss Federal Railways SBB;6.82478080292;46.47045139364;419.939;90.0;100.0;70.0;True
+8504060;Bossonnens;Fribourg;Bossonnens;Transports publics fribourgeois;6.85324187226;46.52570379879;730.0;;;;False
+8504061;Remaufens;Fribourg;Remaufens;Transports publics fribourgeois;6.87651365613;46.52373911814;758.3;;;;False
+8504062;Châtel-St-Denis;Fribourg;Châtel-Saint-Denis;Transports publics fribourgeois;6.89579575561;46.52780591641;807.6;;;;False
+8504063;Semsales;Fribourg;Semsales;Transports publics fribourgeois;6.92692999639;46.57334999363;859.7;;;;False
+8504064;La Verrerie;Fribourg;Semsales;Transports publics fribourgeois;6.92488000651;46.5875199956;835.9;;;;False
+8504065;Vaulruz-Sud;Fribourg;Vaulruz;Transports publics fribourgeois;6.98997000092;46.61920999774;815.9;;;;False
+8504066;Vuadens-Sud;Fribourg;Vuadens;Transports publics fribourgeois;7.02017000447;46.61795999434;803.9;;;;False
+8504067;La Tour-de-Trême;Fribourg;Bulle;Transports publics fribourgeois;7.06424000647;46.60853000021;746.2;;;;False
+8504070;Montbovon;Fribourg;Haut-Intyamon;Transports publics fribourgeois;7.04214049001;46.48542610355;797.2;820.0;840.0;760.0;True
+8504071;Lessoc;Fribourg;Haut-Intyamon;Transports publics fribourgeois;7.052550004;46.50738000195;778.6;;;;False
+8504072;Albeuve;Fribourg;Haut-Intyamon;Transports publics fribourgeois;7.05542000318;46.51793000122;766.9;;;;False
+8504073;Neirivue;Fribourg;Haut-Intyamon;Transports publics fribourgeois;7.0615600054;46.52829000139;754.7;;;;False
+8504074;Villars-sous-Mont;Fribourg;Bas-Intyamon;Transports publics fribourgeois;7.07293999423;46.54379999475;739.0;;;;False
+8504075;Enney;Fribourg;Bas-Intyamon;Transports publics fribourgeois;7.08523999577;46.5654000009;713.2;;;;False
+8504077;Gruyères;Fribourg;Gruyères;Transports publics fribourgeois;7.07325000243;46.58260999347;746.2;;;;False
+8504078;Le Pâquier-Montbarry;Fribourg;Le Pâquier (FR);Transports publics fribourgeois;7.05968999782;46.5946800024;731.4;;;;False
+8504079;La Tour-de-Trême Ronclina;Fribourg;Bulle;Transports publics fribourgeois;7.06143999969;46.60561999721;750.4;;;;False
+8504086;Bulle;Fribourg;Bulle;Transports publics fribourgeois;7.05300172867;46.61922510286;771.0;;;;False
+8504088;Broc-Village;Fribourg;Broc;Transports publics fribourgeois;7.09873999895;46.60405000133;720.1;;;;False
+8504089;Broc-Chocolaterie;Fribourg;Broc;Transports publics fribourgeois;7.10933902374;46.60541552428;689.0;;;;False
+8504100;Fribourg/Freiburg;Fribourg;Fribourg;Swiss Federal Railways SBB;7.15104688334;46.80314817218;629.33;29600.0;33400.0;20900.0;True
+8504101;Düdingen;Fribourg;Düdingen;Swiss Federal Railways SBB;7.18975321001;46.85105245534;595.77;3500.0;4100.0;2200.0;True
+8504102;Schmitten FR;Fribourg;Schmitten (FR);Swiss Federal Railways SBB;7.25392039782;46.86294135797;606.35;1300.0;1600.0;790.0;True
+8504103;Flamatt;Fribourg;Wünnewil-Flamatt;Swiss Federal Railways SBB;7.31957081153;46.88849135728;552.68;1400.0;1600.0;880.0;True
+8504104;Thörishaus Station;Bern;Köniz;Swiss Federal Railways SBB;7.35702880474;46.90462573785;585.35;270.0;330.0;130.0;True
+8504105;Niederwangen;Bern;Köniz;Swiss Federal Railways SBB;7.3764635312;46.92550708;568.5;1900.0;2200.0;1300.0;True
+8504106;Bern Bümpliz Süd;Bern;Bern;Swiss Federal Railways SBB;7.3952379525;46.93748747604;561.8;2700.0;3300.0;1600.0;True
+8504108;Bern Europaplatz;Bern;Bern;Swiss Federal Railways SBB;7.40611755507;46.94420983292;556.39;5600.0;6700.0;3100.0;True
+8504113;Wünnewil;Fribourg;Wünnewil-Flamatt;Swiss Federal Railways SBB;7.28065414643;46.87186094449;588.17;730.0;830.0;480.0;True
+8504115;Thörishaus Dorf;Bern;Köniz;Swiss Federal Railways SBB;7.35186662436;46.89356923704;575.34;1500.0;1800.0;850.0;True
+8504117;Oberwangen;Bern;Köniz;Swiss Federal Railways SBB;7.36219565525;46.91457108568;575.24;570.0;660.0;350.0;True
+8504123;Corcelles-Nord;Vaud;Corcelles-près-Payerne;Swiss Federal Railways SBB;6.96029447415;46.83526211171;448.16;180.0;210.0;120.0;True
+8504124;Dompierre FR;Fribourg;Belmont-Broye;Swiss Federal Railways SBB;6.98536880348;46.85440276234;442.35;150.0;170.0;90.0;True
+8504125;Domdidier;Fribourg;Belmont-Broye;Swiss Federal Railways SBB;7.01138257529;46.86851205897;439.05;560.0;660.0;320.0;True
+8504126;Avenches;Vaud;Avenches;Swiss Federal Railways SBB;7.04092532366;46.88460159766;437.75;910.0;1000.0;620.0;True
+8504127;Faoug;Vaud;Faoug;Swiss Federal Railways SBB;7.07454622978;46.90831034782;433.567;200.0;220.0;150.0;True
+8504128;Murten/Morat;Fribourg;Murten;Swiss Federal Railways SBB;7.11528264747;46.9253466912;447.94;3400.0;3600.0;2900.0;True
+8504129;Galmiz;Fribourg;Murten;Swiss Federal Railways SBB;7.15320734383;46.95087062613;437.3;150.0;170.0;110.0;True
+8504130;Yvonand;Vaud;Yvonand;Swiss Federal Railways SBB;6.74668733336;46.80087548918;433.96;860.0;980.0;580.0;True
+8504131;Cheyres;Fribourg;Cheyres-Châbles;Swiss Federal Railways SBB;6.7863937067;46.81694583079;435.5;460.0;510.0;350.0;True
+8504132;Estavayer-le-Lac;Fribourg;Estavayer;Swiss Federal Railways SBB;6.84296723341;46.84449884868;462.72;1500.0;1700.0;940.0;True
+8504133;Cugy FR;Fribourg;Cugy (FR);Swiss Federal Railways SBB;6.88916458987;46.81602827918;468.94;590.0;740.0;250.0;True
+8504134;Payerne;Vaud;Payerne;Swiss Federal Railways SBB;6.9398849232;46.81964995918;451.96;5900.0;6900.0;3500.0;True
+8504135;Corcelles-Sud;Vaud;Corcelles-près-Payerne;Swiss Federal Railways SBB;6.95719217694;46.8288473733;451.88;490.0;590.0;260.0;True
+8504136;Cousset;Fribourg;Montagny (FR);Swiss Federal Railways SBB;6.97749113071;46.81860488055;484.334;350.0;430.0;180.0;True
+8504137;Léchelles;Fribourg;Belmont-Broye;Swiss Federal Railways SBB;7.01162700494;46.82845973329;551.723;290.0;360.0;140.0;True
+8504138;Grolley;Fribourg;Grolley-Ponthaux;Swiss Federal Railways SBB;7.06605254437;46.83197884478;612.28;740.0;910.0;350.0;True
+8504139;Belfaux CFF;Fribourg;Belfaux;Swiss Federal Railways SBB;7.10623013611;46.81692461024;612.88;560.0;680.0;280.0;True
+8504140;Muntelier-Löwenberg;Fribourg;Murten;Swiss Federal Railways SBB;7.13326152062;46.93797415143;438.522;440.0;490.0;310.0;True
+8504181;Givisiez;Fribourg;Givisiez;Swiss Federal Railways SBB;7.12996152131;46.81675594802;615.5;850.0;1000.0;470.0;True
+8504182;Belfaux-Village;Fribourg;Belfaux;Transports publics fribourgeois;7.11023000315;46.82269999442;587.5;;;;False
+8504183;Pensier;Fribourg;Courtepin;Transports publics fribourgeois;7.13529000092;46.84160999868;551.1;;;;False
+8504184;Courtepin;Fribourg;Courtepin;Transports publics fribourgeois;7.12270999353;46.86711999649;576.3;;;;False
+8504185;Cressier FR;Fribourg;Cressier (FR);Transports publics fribourgeois;7.14971999811;46.90017999743;540.0;;;;False
+8504186;Münchenwiler-Courgevaux;Bern;Münchenwiler;Transports publics fribourgeois;7.1162299945;46.91089999961;481.5;;;;False
+8504188;Sugiez;Fribourg;Mont-Vully;Transports publics fribourgeois;7.11934999568;46.96413000107;432.6;;;;False
+8504191;Flamatt Dorf;Fribourg;Wünnewil-Flamatt;Swiss Federal Railways SBB;7.31052000648;46.88990000217;532.1;230.0;250.0;190.0;True
+8504192;Neuenegg;Bern;Neuenegg;Swiss Federal Railways SBB;7.29986000009;46.89414000008;523.1;730.0;840.0;470.0;True
+8504194;Laupen BE;Bern;Laupen;Swiss Federal Railways SBB;7.24201523966;46.90129246337;491.142;1300.0;1400.0;920.0;True
+8504200;Yverdon-les-Bains;Vaud;Yverdon-les-Bains;Swiss Federal Railways SBB;6.64094400151;46.78154518698;434.37;18600.0;20900.0;13300.0;True
+8504201;Grandson;Vaud;Grandson;Swiss Federal Railways SBB;6.6419437403;46.80628338338;435.59;910.0;1000.0;610.0;True
+8504203;Concise;Vaud;Concise;Swiss Federal Railways SBB;6.72315740917;46.85088154377;429.5;49.0;60.0;49.0;False
+8504205;Gorgier-St-Aubin;Neuchâtel;La Grande Béroche;Swiss Federal Railways SBB;6.78102596556;46.89907614599;451.1;690.0;770.0;490.0;True
+8504206;Bevaix;Neuchâtel;La Grande Béroche;Swiss Federal Railways SBB;6.81168026788;46.92969622607;489.29;510.0;600.0;330.0;True
+8504208;Boudry;Neuchâtel;Boudry;Swiss Federal Railways SBB;6.83504762399;46.95945708723;491.37;430.0;470.0;350.0;True
+8504209;Colombier NE;Neuchâtel;Milvignes;Swiss Federal Railways SBB;6.84886974332;46.9676523895;489.62;370.0;420.0;240.0;True
+8504215;Travers;Neuchâtel;Val-de-Travers;Swiss Federal Railways SBB;6.67656165588;46.94241153501;748.86;370.0;440.0;210.0;True
+8504216;Noiraigue;Neuchâtel;Val-de-Travers;Swiss Federal Railways SBB;6.72179914436;46.95491961211;727.9;390.0;370.0;440.0;True
+8504217;Champ-du-Moulin;Neuchâtel;Rochefort;Swiss Federal Railways SBB;6.77498896578;46.95991175631;649.12;90.0;80.0;120.0;True
+8504218;Bôle;Neuchâtel;Milvignes;Swiss Federal Railways SBB;6.83837449666;46.96942291832;542.3;350.0;400.0;240.0;True
+8504219;Auvernier;Neuchâtel;Milvignes;Swiss Federal Railways SBB;6.87770804418;46.97964166884;492.23;560.0;610.0;450.0;True
+8504220;Neuchâtel-Serrières;Neuchâtel;Neuchâtel;Swiss Federal Railways SBB;6.90336268357;46.98396232538;475.66;770.0;910.0;450.0;True
+8504221;Neuchâtel;Neuchâtel;Neuchâtel;Swiss Federal Railways SBB;6.93570169412;46.99672679256;479.22;28200.0;31200.0;21500.0;True
+8504222;St-Blaise CFF;Neuchâtel;Laténa;Swiss Federal Railways SBB;6.98211019495;47.01457594594;463.8;450.0;520.0;280.0;True
+8504223;Cornaux NE;Neuchâtel;Cornaux;Swiss Federal Railways SBB;7.02336566239;47.03857203126;435.01;500.0;620.0;240.0;True
+8504224;Cressier NE;Neuchâtel;Cressier (NE);Swiss Federal Railways SBB;7.03953207221;47.05195280516;435.7;400.0;490.0;210.0;True
+8504225;Le Landeron;Neuchâtel;Le Landeron;Swiss Federal Railways SBB;7.06633533378;47.05663638587;437.39;1100.0;1300.0;660.0;True
+8504226;La Neuveville;Bern;La Neuveville;Swiss Federal Railways SBB;7.09523241202;47.06283278734;433.32;1300.0;1500.0;820.0;True
+8504228;Twann;Bern;Twann-Tüscherz;Swiss Federal Railways SBB;7.15649750354;47.09366406559;433.8;490.0;420.0;660.0;True
+8504229;Tüscherz;Bern;Twann-Tüscherz;Swiss Federal Railways SBB;7.19731836547;47.11500775261;434.55;100.0;100.0;110.0;True
+8504231;Les Deurres;Neuchâtel;Neuchâtel;Swiss Federal Railways SBB;6.89914842881;46.98552471175;509.63;510.0;580.0;350.0;True
+8504232;Corcelles-Peseux;Neuchâtel;Neuchâtel;Swiss Federal Railways SBB;6.88381355417;46.98335097242;530.49;720.0;810.0;510.0;True
+8504234;Chambrelien;Neuchâtel;Rochefort;Swiss Federal Railways SBB;6.81225676542;46.96710900772;684.74;680.0;810.0;400.0;True
+8504236;Les Geneveys-sur-Coffrane;Neuchâtel;Val-de-Ruz;Swiss Federal Railways SBB;6.85321763217;47.01509638874;849.52;790.0;920.0;480.0;True
+8504237;Les Hauts-Geneveys;Neuchâtel;Val-de-Ruz;Swiss Federal Railways SBB;6.87467312928;47.0471765631;953.88;1100.0;1300.0;540.0;True
+8504291;La Brinaz;Vaud;Montagny-près-Yverdon;Transports Vallée de Joux-Yverdon-Ste-Croix;6.62021608837;46.79444902594;440.7;;;;False
+8504292;Valeyres-sous-Montagny;Vaud;Valeyres-sous-Montagny;Transports Vallée de Joux-Yverdon-Ste-Croix;6.61133901842;46.79682308619;450.3;;;;False
+8504293;Essert-sous-Champvent;Vaud;Champvent;Transports Vallée de Joux-Yverdon-Ste-Croix;6.58015642214;46.79535565453;507.0;;;;False
+8504294;Vuiteboeuf;Vaud;Vuiteboeuf;Transports Vallée de Joux-Yverdon-Ste-Croix;6.55374087334;46.80376241729;589.6;;;;False
+8504295;Baulmes;Vaud;Baulmes;Transports Vallée de Joux-Yverdon-Ste-Croix;6.52428177918;46.78874869496;631.2;;;;False
+8504296;Six-Fontaines;Vaud;Baulmes;Transports Vallée de Joux-Yverdon-Ste-Croix;6.49876860178;46.77422433176;705.1;;;;False
+8504298;Ste-Croix;Vaud;Sainte-Croix;Transports Vallée de Joux-Yverdon-Ste-Croix;6.50070486274;46.8194350554;1065.8;;;;False
+8504300;Biel/Bienne;Bern;Biel/Bienne;Swiss Federal Railways SBB;7.24291060323;47.13289787086;437.08;46100.0;50800.0;35400.0;True
+8504301;Frinvillier-Taubenloch;Bern;Sauge;Swiss Federal Railways SBB;7.25752927622;47.16945779659;554.921;220.0;220.0;230.0;True
+8504302;Reuchenette-Péry;Bern;Péry-La Heutte;Swiss Federal Railways SBB;7.24702472889;47.18973910147;595.775;670.0;750.0;500.0;True
+8504303;La Heutte;Bern;Péry-La Heutte;Swiss Federal Railways SBB;7.22539578099;47.1894918077;607.429;150.0;160.0;110.0;True
+8504304;Sonceboz-Sombeval;Bern;Sonceboz-Sombeval;Swiss Federal Railways SBB;7.16876357856;47.19514835718;653.328;2500.0;3100.0;1200.0;True
+8504305;Corgémont;Bern;Corgémont;Swiss Federal Railways SBB;7.14466145967;47.19339876796;660.15;400.0;490.0;200.0;True
+8504306;Cortébert;Bern;Cortébert;Swiss Federal Railways SBB;7.10730920432;47.18933714818;677.43;140.0;160.0;100.0;True
+8504307;Courtelary;Bern;Courtelary;Swiss Federal Railways SBB;7.06880326998;47.17563154331;700.84;510.0;590.0;320.0;True
+8504308;Cormoret;Bern;Cormoret;Swiss Federal Railways SBB;7.05412356821;47.17294709932;710.41;70.0;80.0;50.0;True
+8504309;Villeret;Bern;Villeret;Swiss Federal Railways SBB;7.0196751732;47.16020368341;763.25;120.0;130.0;100.0;True
+8504310;St-Imier;Bern;Saint-Imier;Swiss Federal Railways SBB;7.00122388741;47.15171108116;792.47;1900.0;2300.0;950.0;True
+8504311;Sonvilier;Bern;Sonvilier;Swiss Federal Railways SBB;6.96935277867;47.14134211864;835.8;170.0;190.0;110.0;True
+8504312;Renan BE;Bern;Renan (BE);Swiss Federal Railways SBB;6.92538209047;47.12572045674;907.22;190.0;230.0;110.0;True
+8504314;La Chaux-de-Fonds;Neuchâtel;La Chaux-de-Fonds;Swiss Federal Railways SBB;6.82598272105;47.09837435548;994.23;9900.0;11500.0;6200.0;True
+8504315;Le Crêt-du-Locle;Neuchâtel;La Chaux-de-Fonds;Swiss Federal Railways SBB;6.78458129083;47.07723272268;1016.4;530.0;730.0;80.0;True
+8504316;Le Locle;Neuchâtel;Le Locle;Swiss Federal Railways SBB;6.74615327632;47.05786104193;945.57;2500.0;3000.0;1500.0;True
+8504317;Le Locle-Col-des-Roches;Neuchâtel;Le Locle;Swiss Federal Railways SBB;6.72607086935;47.04988555625;915.43;340.0;430.0;120.0;True
+8504321;La Chaux-de-Fonds Les Forges;Neuchâtel;La Chaux-de-Fonds;Swiss Federal Railways SBB;6.81278026047;47.0913353232;1001.164;220.0;260.0;130.0;True
+8504325;Colombier NE Littorail;Neuchâtel;Milvignes;Transports Publics Neuchâtelois SA (tn);6.86541904665;46.96587081705;440.0;;;;False
+8504381;La Chaux-de-Fonds-Grenier;Neuchâtel;La Chaux-de-Fonds;Transports Publics Neuchâtelois SA (cmn);6.83368279478;47.09975182017;1010.3;;;;False
+8504382;Le Reymond;Neuchâtel;La Chaux-de-Fonds;Transports Publics Neuchâtelois SA (cmn);6.84407240513;47.08707794729;1063.1;;;;False
+8504383;La Corbatière;Neuchâtel;La Sagne;Transports Publics Neuchâtelois SA (cmn);6.83491925403;47.0695517812;1111.2;;;;False
+8504384;La Sagne-Eglise;Neuchâtel;La Sagne;Transports Publics Neuchâtelois SA (cmn);6.81852014854;47.05089739404;1042.0;;;;False
+8504385;La Sagne;Neuchâtel;La Sagne;Transports Publics Neuchâtelois SA (cmn);6.80208107226;47.03988674628;1027.2;;;;False
+8504386;Les Coeudres;Neuchâtel;La Sagne;Transports Publics Neuchâtelois SA (cmn);6.78015812884;47.02285100168;1009.8;;;;False
+8504387;Petit-Martel;Neuchâtel;Les Ponts-de-Martel;Transports Publics Neuchâtelois SA (cmn);6.75518258076;47.01009266741;1006.5;;;;False
+8504388;Les Ponts-de-Martel;Neuchâtel;Les Ponts-de-Martel;Transports Publics Neuchâtelois SA (cmn);6.73527168184;46.99907835012;1005.4;;;;False
+8504391;Les Frêtes;Neuchâtel;Le Locle;Transports Publics Neuchâtelois SA (cmn);6.72578795785;47.05857958938;932.5;;;;False
+8504392;Les Brenets;Neuchâtel;Le Locle;Transports Publics Neuchâtelois SA (cmn);6.70738999802;47.06720999675;872.8;;;;False
+8504398;Neuchâtel Place Pury Littorail;Neuchâtel;Neuchâtel;Transports Publics Neuchâtelois SA (tn);6.92818815883;46.98941220474;435.0;;;;False
+8504400;Kerzers;Fribourg;Kerzers;Swiss Federal Railways SBB;7.19281016807;46.97507896331;442.83;4500.0;4900.0;3700.0;True
+8504401;Fräschels;Fribourg;Fräschels;Swiss Federal Railways SBB;7.20604006145;46.99912608812;440.8;70.0;80.0;60.0;True
+8504402;Kallnach;Bern;Kallnach;Swiss Federal Railways SBB;7.23519647573;47.0255233907;444.96;280.0;310.0;200.0;True
+8504403;Bargen BE;Bern;Bargen (BE);Swiss Federal Railways SBB;7.26118041111;47.040161668;448.66;140.0;160.0;100.0;True
+8504404;Aarberg;Bern;Aarberg;Swiss Federal Railways SBB;7.27869256566;47.04454127725;448.72;580.0;620.0;460.0;True
+8504410;Zollikofen;Bern;Münchenbuchsee;Swiss Federal Railways SBB;7.46291119582;47.00182593544;559.999;4000.0;4800.0;2100.0;True
+8504411;Münchenbuchsee;Bern;Münchenbuchsee;Swiss Federal Railways SBB;7.45194766971;47.02137578561;553.67;3500.0;4200.0;1900.0;True
+8504412;Schüpfen;Bern;Schüpfen;Swiss Federal Railways SBB;7.38600196021;47.04185959245;519.516;1400.0;1600.0;900.0;True
+8504413;Suberg-Grossaffoltern;Bern;Grossaffoltern;Swiss Federal Railways SBB;7.3390048549;47.05878211487;476.162;570.0;660.0;380.0;True
+8504414;Lyss;Bern;Lyss;Swiss Federal Railways SBB;7.30630154849;47.07632350393;444.481;10100.0;11500.0;6800.0;True
+8504415;Busswil BE;Bern;Lyss;Swiss Federal Railways SBB;7.31862288564;47.09868485099;437.589;1600.0;1900.0;1000.0;True
+8504416;Brügg BE;Bern;Brügg;Swiss Federal Railways SBB;7.27822199136;47.12363952549;435.897;1000.0;1100.0;690.0;True
+8504419;Biel Mett;Bern;Biel/Bienne;Swiss Federal Railways SBB;7.27248725632;47.14472528387;442.758;770.0;920.0;430.0;True
+8504441;Studen BE;Bern;Studen (BE);Swiss Federal Railways SBB;7.30081358676;47.11158452574;436.594;850.0;980.0;550.0;True
+8504461;Nidau;Bern;Nidau;Aare Seeland mobil (bti);7.24218997142;47.12385145793;433.3;;;;False
+8504462;Lattrigen;Bern;Sutz-Lattrigen;Aare Seeland mobil (bti);7.21443046539;47.09695055603;455.0;;;;False
+8504463;Täuffelen;Bern;Täuffelen;Aare Seeland mobil (bti);7.19855000115;47.06650999553;491.3;;;;False
+8504464;Hagneck;Bern;Hagneck;Aare Seeland mobil (bti);7.18807000415;47.0582800006;453.2;;;;False
+8504465;Lüscherz;Bern;Lüscherz;Aare Seeland mobil (bti);7.17735000486;47.04802999769;445.7;;;;False
+8504466;Siselen-Finsterhennen;Bern;Finsterhennen;Aare Seeland mobil (bti);7.18039000589;47.03114999428;439.9;;;;False
+8504467;Brüttelen;Bern;Brüttelen;Aare Seeland mobil (bti);7.1483000045;47.02060000005;446.6;;;;False
+8504468;Ins Dorf;Bern;Ins;Aare Seeland mobil (bti);7.10680999772;47.00558000061;476.1;;;;False
+8504469;Nidau Beunden;Bern;Nidau;Aare Seeland mobil (bti);7.24031999956;47.11982000197;431.2;;;;False
+8504470;Ipsach Herdi;Bern;Ipsach;Aare Seeland mobil (bti);7.22893000113;47.11237000119;436.7;;;;False
+8504471;Ipsach;Bern;Ipsach;Aare Seeland mobil (bti);7.23547999392;47.11736999967;434.5;;;;False
+8504472;Sutz;Bern;Sutz-Lattrigen;Aare Seeland mobil (bti);7.21941999365;47.10186999634;448.9;;;;False
+8504474;Mörigen;Bern;Mörigen;Aare Seeland mobil (bti);7.21222999865;47.0856499963;479.6;;;;False
+8504475;Gerolfingen;Bern;Täuffelen;Aare Seeland mobil (bti);7.20125000457;47.07497999791;501.8;;;;False
+8504480;St-Blaise-Lac;Neuchâtel;Laténa;BLS AG (bn);6.98468647064;47.01210430057;432.3;550.0;600.0;460.0;True
+8504481;Marin-Epagnier;Neuchâtel;Laténa;BLS AG (bn);7.01059479053;47.00910688854;449.8;780.0;890.0;530.0;True
+8504482;Gampelen;Bern;Gampelen;BLS AG (bn);7.05644227051;47.00936362683;432.6;160.0;160.0;130.0;True
+8504483;Ins;Bern;Ins;BLS AG (bn);7.09956100561;46.999831409;436.95;2400.0;2600.0;1800.0;True
+8504484;Müntschemier;Bern;Müntschemier;BLS AG (bn);7.14243887714;46.9933230356;435.6;270.0;310.0;170.0;True
+8504486;Gümmenen;Bern;Ferenbalm;BLS AG (bn);7.23440939756;46.94218219729;494.2;740.0;840.0;500.0;True
+8504487;Rosshäusern;Bern;Mühleberg;BLS AG (bn);7.29686992927;46.934341776;579.4;280.0;320.0;190.0;True
+8504488;Bern Riedbach;Bern;Bern;BLS AG (bn);7.33404996475;46.94115430246;568.3;200.0;210.0;150.0;True
+8504489;Bern Bümpliz Nord;Bern;Bern;BLS AG (bn);7.38975568783;46.94582923827;555.35;2900.0;3400.0;1800.0;True
+8504490;Zihlbrücke;Bern;Gampelen;BLS AG (bn);7.03057315632;47.00927707757;435.9;90.0;80.0;100.0;True
+8504495;Bern Stöckacker;Bern;Bern;BLS AG (bn);7.40117854444;46.94636031683;551.0;880.0;970.0;670.0;True
+8504509;Neuchâtel Port-de-Serrières;Neuchâtel;Neuchâtel;Transports Publics Neuchâtelois SA (tn);6.90483085247;46.98088976262;432.8;;;;False
+8504510;Auvernier Littorail;Neuchâtel;Milvignes;Transports Publics Neuchâtelois SA (tn);6.87889217938;46.97424029729;432.0;;;;False
+8504511;Boudry Littorail;Neuchâtel;Boudry;Transports Publics Neuchâtelois SA (tn);6.83914771164;46.94948454823;445.8;;;;False
+8505000;Luzern;Luzern;Luzern;Swiss Federal Railways SBB;8.31018320694;47.05017782809;436.0;99400.0;104400.0;88000.0;True
+8505001;Meggen;Luzern;Meggen;Swiss Federal Railways SBB;8.38306144388;47.0501477958;472.0;100.0;120.0;70.0;True
+8505002;Küssnacht am Rigi;Schwyz;Küssnacht (SZ);Swiss Federal Railways SBB;8.43351745732;47.08359415522;457.0;2700.0;3000.0;2200.0;True
+8505003;Immensee;Schwyz;Küssnacht (SZ);Swiss Federal Railways SBB;8.46267203625;47.0916186591;460.0;350.0;400.0;230.0;True
+8505004;Arth-Goldau;Schwyz;Arth;Swiss Federal Railways SBB;8.54944630067;47.04904488341;510.0;19200.0;18500.0;20900.0;True
+8505005;Steinen;Schwyz;Steinen;Swiss Federal Railways SBB;8.60744931426;47.04766863926;468.0;580.0;680.0;370.0;True
+8505006;Schwyz;Schwyz;Schwyz;Swiss Federal Railways SBB;8.63215170839;47.02639719104;455.0;2500.0;2700.0;2000.0;True
+8505007;Brunnen;Schwyz;Ingenbohl;Swiss Federal Railways SBB;8.61006766101;46.99917491314;439.0;2900.0;3000.0;2500.0;True
+8505011;Merlischachen;Schwyz;Küssnacht (SZ);Swiss Federal Railways SBB;8.40905814694;47.06765998438;465.0;190.0;210.0;150.0;True
+8505018;Meggen Zentrum;Luzern;Meggen;Swiss Federal Railways SBB;8.37439305684;47.04519444665;469.0;490.0;530.0;400.0;True
+8505111;Sisikon;Uri;Sisikon;Swiss Federal Railways SBB;8.62074872767;46.94925401457;446.0;210.0;200.0;230.0;True
+8505112;Flüelen;Uri;Flüelen;Swiss Federal Railways SBB;8.62430265309;46.90173016546;436.0;1000.0;920.0;1200.0;True
+8505113;Altdorf UR;Uri;Altdorf (UR);Swiss Federal Railways SBB;8.63157541744;46.87573871328;447.0;2200.0;2200.0;2100.0;True
+8505114;Erstfeld;Uri;Erstfeld;Swiss Federal Railways SBB;8.65045464023;46.82033940886;472.0;1100.0;1100.0;1200.0;True
+8505119;Göschenen;Uri;Göschenen;Swiss Federal Railways SBB;8.58880822548;46.66581493943;1106.0;2500.0;2200.0;3100.0;True
+8505163;Realp;Uri;Realp;Matterhorn Gotthard Bahn (fo);8.50345851647;46.59862575939;1537.8;330.0;300.0;410.0;True
+8505164;Hospental;Uri;Hospental;Matterhorn Gotthard Bahn (fo);8.57096435385;46.62108226605;1452.2;120.0;100.0;160.0;True
+8505165;Andermatt;Uri;Andermatt;Matterhorn Gotthard Bahn (fo);8.59328041694;46.63689008768;1435.9;3100.0;2900.0;3700.0;True
+8505170;Nätschen;Uri;Andermatt;Matterhorn Gotthard Bahn (fo);8.60960018321;46.6421964132;1825.314;180.0;140.0;290.0;True
+8505172;Oberalppass;Uri;Andermatt;Matterhorn Gotthard Bahn (fo);8.67050236226;46.66023006057;2033.2;530.0;470.0;680.0;True
+8505173;Tschamut-Selva;Graubünden;Tujetsch;Matterhorn Gotthard Bahn (fo);8.70908419369;46.65674442039;1701.3;120.0;130.0;90.0;True
+8505174;Dieni;Graubünden;Tujetsch;Matterhorn Gotthard Bahn (fo);8.74286499978;46.66993163349;1455.4;400.0;450.0;280.0;True
+8505175;Rueras;Graubünden;Tujetsch;Matterhorn Gotthard Bahn (fo);8.75490784354;46.67822767918;1447.0;160.0;180.0;120.0;True
+8505176;Sedrun;Graubünden;Tujetsch;Matterhorn Gotthard Bahn (fo);8.76978098878;46.68106715123;1441.5;620.0;670.0;500.0;True
+8505177;Bugnei;Graubünden;Tujetsch;Matterhorn Gotthard Bahn (fo);8.78646678543;46.68234743304;1438.7;70.0;60.0;110.0;True
+8505178;Mumpé Tujetsch;Graubünden;Disentis/Mustér;Matterhorn Gotthard Bahn (fo);8.82655852087;46.68211727821;1338.0;49.0;49.0;49.0;False
+8505179;Segnas;Graubünden;Disentis/Mustér;Matterhorn Gotthard Bahn (fo);8.82981823972;46.69099747485;1275.5;50.0;50.0;50.0;True
+8505180;Acla da Fontauna;Graubünden;Disentis/Mustér;Matterhorn Gotthard Bahn (fo);8.84579085043;46.69717382256;1201.6;140.0;150.0;130.0;True
+8505201;Airolo;Ticino;Airolo;Swiss Federal Railways SBB;8.6086197556;46.52752595779;1142.0;540.0;500.0;630.0;True
+8505202;Ambrì-Piotta;Ticino;Quinto;Swiss Federal Railways SBB;8.68992789884;46.51076379041;988.0;280.0;290.0;260.0;True
+8505204;Faido;Ticino;Faido;Swiss Federal Railways SBB;8.79071010682;46.48307550406;755.0;280.0;280.0;260.0;True
+8505205;Lavorgo;Ticino;Faido;Swiss Federal Railways SBB;8.83974741803;46.44090172513;615.0;190.0;190.0;190.0;True
+8505207;Bodio TI;Ticino;Bodio;Swiss Federal Railways SBB;8.90656798528;46.38025452036;331.0;250.0;280.0;170.0;True
+8505209;Biasca;Ticino;Biasca;Swiss Federal Railways SBB;8.97417921686;46.35198415241;293.0;2500.0;2800.0;1800.0;True
+8505212;Castione-Arbedo;Ticino;Arbedo-Castione;Swiss Federal Railways SBB;9.04146180622;46.22292165314;240.7;2600.0;2900.0;1900.0;True
+8505213;Bellinzona;Ticino;Bellinzona;Swiss Federal Railways SBB;9.02951851227;46.19543179221;241.0;19300.0;20300.0;17100.0;True
+8505214;Giubiasco;Ticino;Bellinzona;Swiss Federal Railways SBB;9.00360008896;46.17381273154;230.0;5100.0;6100.0;3000.0;True
+8505216;Rivera-Bironico;Ticino;Monteceneri;Swiss Federal Railways SBB;8.92528619655;46.12397655314;471.0;1100.0;1200.0;750.0;True
+8505217;Mezzovico;Ticino;Mezzovico-Vira;Swiss Federal Railways SBB;8.92859030457;46.09427595995;416.0;520.0;670.0;170.0;True
+8505218;Taverne-Torricella;Ticino;Torricella-Taverne;Swiss Federal Railways SBB;8.93033042594;46.05668555744;335.0;770.0;940.0;370.0;True
+8505219;Lamone-Cadempino;Ticino;Lamone;Swiss Federal Railways SBB;8.9321250232;46.03971861507;318.0;1800.0;2200.0;750.0;True
+8505226;Grindelwald Terminal;Bern;Grindelwald;Berner Oberland-Bahnen;8.01710555135;46.62550800404;947.03;;;;False
+8505300;Lugano;Ticino;Lugano;Swiss Federal Railways SBB;8.94699530851;46.00550054991;335.0;30500.0;33300.0;24000.0;True
+8505301;Paradiso;Ticino;Paradiso;Swiss Federal Railways SBB;8.94688975243;45.98937263977;302.0;2200.0;2500.0;1600.0;True
+8505302;Melide;Ticino;Melide;Swiss Federal Railways SBB;8.94835919512;45.95571350204;274.0;1100.0;1200.0;1000.0;True
+8505303;Maroggia-Melano;Ticino;Val Mara;Swiss Federal Railways SBB;8.97393980179;45.93243507652;279.0;920.0;1000.0;660.0;True
+8505304;Capolago-Riva S. Vitale;Ticino;Mendrisio;Swiss Federal Railways SBB;8.97890525715;45.90283729575;274.0;1000.0;1200.0;710.0;True
+8505305;Mendrisio;Ticino;Mendrisio;Swiss Federal Railways SBB;8.97861091962;45.86910860803;328.0;9700.0;11600.0;5300.0;True
+8505306;Balerna;Ticino;Balerna;Swiss Federal Railways SBB;9.00503560941;45.84674505679;269.0;660.0;790.0;360.0;True
+8505307;Chiasso;Ticino;Chiasso;Swiss Federal Railways SBB;9.03144956231;45.83216802637;237.0;8600.0;9600.0;6100.0;True
+8505350;Sattel;Schwyz;Sattel;Schweizerische Südostbahn (sob);8.63394335401;47.08161915834;792.8;;;;False
+8505390;Serocca;Ticino;Agno;Lugano-Ponte Tresa;8.90457000364;46.00851999695;286.0;;;;False
+8505392;Magliaso Paese;Ticino;Magliaso;Lugano-Ponte Tresa;8.89058000477;45.9834099984;279.3;;;;False
+8505393;Cappella-Agnuzzo;Ticino;Collina d'Oro;Lugano-Ponte Tresa;8.92444999754;45.99325999356;341.3;;;;False
+8505394;Bioggio;Ticino;Bioggio;Lugano-Ponte Tresa;8.90889000394;46.01210999847;292.4;;;;False
+8505395;Agno;Ticino;Agno;Lugano-Ponte Tresa;8.90091999379;45.99592999525;273.2;;;;False
+8505396;Magliaso;Ticino;Magliaso;Lugano-Ponte Tresa;8.88411999657;45.98163999782;289.8;;;;False
+8505397;Caslano;Ticino;Caslano;Lugano-Ponte Tresa;8.87629000197;45.97773999722;290.1;;;;False
+8505398;Ponte Tresa;Ticino;Tresa;Lugano-Ponte Tresa;8.8604800058;45.96998999538;275.6;;;;False
+8505399;Sorengo;Ticino;Sorengo;Lugano-Ponte Tresa;8.93483000231;46.0003899939;349.8;;;;False
+8505400;Locarno;Ticino;Muralto;Swiss Federal Railways SBB;8.80136089926;46.17242018944;205.0;9400.0;9900.0;8300.0;True
+8505401;Tenero;Ticino;Tenero-Contra;Swiss Federal Railways SBB;8.85022618523;46.17746745869;203.0;3300.0;3600.0;2500.0;True
+8505402;Gordola;Ticino;Gordola;Swiss Federal Railways SBB;8.86577329008;46.17904027239;203.0;730.0;820.0;520.0;True
+8505404;Cadenazzo;Ticino;Cadenazzo;Swiss Federal Railways SBB;8.94169889979;46.15261998874;208.0;2500.0;2800.0;1800.0;True
+8505405;Quartino;Ticino;Gambarogno;Swiss Federal Railways SBB;8.88733121459;46.15129808924;202.0;49.0;49.0;49.0;False
+8505406;Magadino-Vira;Ticino;Gambarogno;Swiss Federal Railways SBB;8.85018904333;46.14531571778;215.0;49.0;49.0;49.0;False
+8505407;S. Nazzaro;Ticino;Gambarogno;Swiss Federal Railways SBB;8.80705868101;46.13515769041;211.4;49.0;49.0;49.0;False
+8505408;Ranzo-S. Abbondio;Ticino;Gambarogno;Swiss Federal Railways SBB;8.77653770945;46.11699781418;220.0;49.0;49.0;49.0;False
+8505410;Gerra (Gambarogno);Ticino;Gambarogno;Swiss Federal Railways SBB;8.7849697706;46.12204096046;222.4;49.0;49.0;49.0;False
+8505412;Riazzino;Ticino;Locarno;Swiss Federal Railways SBB;8.88639737366;46.17533630315;201.0;990.0;1100.0;710.0;True
+8505415;S. Antonino;Ticino;Sant'Antonino;Swiss Federal Railways SBB;8.96952064604;46.15904913855;211.272;1200.0;1300.0;740.0;True
+8505417;Minusio;Ticino;Minusio;Swiss Federal Railways SBB;8.81956634223;46.17400592476;202.268;;;;False
+8505467;Solduno S. Martino;Ticino;Locarno;Ferrovie Autolinee Regionali Ticinesi;8.77036999387;46.171999996;223.4;;;;False
+8505472;Solduno;Ticino;Locarno;Ferrovie Autolinee Regionali Ticinesi;8.77760932104;46.16947235109;222.0;;;;False
+8505473;Ponte Brolla;Ticino;Locarno;Ferrovie Autolinee Regionali Ticinesi;8.75331000243;46.18563999895;254.5;;;;False
+8505491;Tegna;Ticino;Terre di Pedemonte;Ferrovie Autolinee Regionali Ticinesi;8.74276367116;46.18602415806;255.0;;;;False
+8505492;Verscio;Ticino;Terre di Pedemonte;Ferrovie Autolinee Regionali Ticinesi;8.72947758811;46.18456262446;274.0;;;;False
+8505493;Cavigliano;Ticino;Terre di Pedemonte;Ferrovie Autolinee Regionali Ticinesi;8.72120410435;46.18376031928;296.0;;;;False
+8505494;Intragna;Ticino;Centovalli;Ferrovie Autolinee Regionali Ticinesi;8.70227000635;46.17765999614;338.4;;;;False
+8505495;Corcapolo;Ticino;Centovalli;Ferrovie Autolinee Regionali Ticinesi;8.67583019935;46.16876936438;463.0;;;;False
+8505496;Verdasio;Ticino;Centovalli;Ferrovie Autolinee Regionali Ticinesi;8.64919999683;46.16520999515;530.8;;;;False
+8505497;Palagnedra;Ticino;Centovalli;Ferrovie Autolinee Regionali Ticinesi;8.63080663731;46.1611043599;544.0;;;;False
+8505499;Camedo;Ticino;Centovalli;Ferrovie Autolinee Regionali Ticinesi;8.61094488637;46.15475130258;549.0;;;;False
+8505578;Zornasco;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.49080420027;46.12970527413;752.0;;;;False
+8505580;Re;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.53888203428;46.12728969694;677.0;;;;False
+8505581;S. Maria Maggiore;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.46059385727;46.13644716234;828.0;;;;False
+8505584;Malesco;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.49889802098;46.12918854874;745.0;;;;False
+8505585;Druogno;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.4336533819;46.13309810959;822.0;;;;False
+8505588;Creggio;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.32455299064;46.12466232519;392.0;;;;False
+8505589;Folsogno-Dissimo;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.55810598136;46.13437425965;662.0;;;;False
+8505590;Gagnone-Orcesco;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.41961271401;46.12860956152;814.0;;;;False
+8505593;Masera;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.32380206352;46.13190289778;297.0;;;;False
+8505594;Prestinone;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.47951237715;46.13304208281;780.0;;;;False
+8505597;Trontano;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.33399428428;46.12260765808;514.0;;;;False
+8505599;Verigo;;;Società Subalpina di Imprese Ferroviare (Centovalli);8.35151679238;46.12174139491;591.0;;;;False
+8505861;Maccagno;;;Pino transito-Luino;8.73558497831;46.04540850516;218.0;;;;False
+8505862;Pino-Tronzano;;;Pino transito-Luino;8.73695159928;46.09892755521;220.0;;;;False
+8505874;Colmegna;;;Pino transito-Luino;8.75188301965;46.02476186247;210.0;;;;False
+8506000;Winterthur;Zürich;Winterthur;Swiss Federal Railways SBB;8.72382105541;47.50033381047;438.9;99100.0;110900.0;72100.0;True
+8506001;Winterthur Grüze;Zürich;Winterthur;Swiss Federal Railways SBB;8.75105520262;47.49875471416;452.1;1900.0;2100.0;1300.0;True
+8506002;Winterthur Seen;Zürich;Winterthur;Swiss Federal Railways SBB;8.76681349078;47.48743541944;467.8;2400.0;2700.0;1700.0;True
+8506003;Sennhof-Kyburg;Zürich;Winterthur;Swiss Federal Railways SBB;8.76034626042;47.46517688453;483.6;940.0;1000.0;740.0;True
+8506004;Kollbrunn;Zürich;Zell (ZH);Swiss Federal Railways SBB;8.77401693565;47.45832420329;493.0;1700.0;1900.0;1100.0;True
+8506005;Rikon;Zürich;Zell (ZH);Swiss Federal Railways SBB;8.79633214905;47.44500981889;512.5;940.0;1100.0;620.0;True
+8506006;Rämismühle-Zell;Zürich;Zell (ZH);Swiss Federal Railways SBB;8.81913732453;47.44153899481;529.8;650.0;750.0;440.0;True
+8506007;Turbenthal;Zürich;Turbenthal;Swiss Federal Railways SBB;8.84381988884;47.43738455437;550.2;1400.0;1600.0;890.0;True
+8506008;Wila;Zürich;Wila;Swiss Federal Railways SBB;8.84849088989;47.41777446991;569.2;610.0;680.0;450.0;True
+8506009;Saland;Zürich;Bauma;Swiss Federal Railways SBB;8.85422136063;47.39421140867;600.8;230.0;260.0;180.0;True
+8506010;Sirnach;Thurgau;Sirnach;Swiss Federal Railways SBB;9.00047425934;47.46199710408;549.4;950.0;1100.0;680.0;True
+8506011;Eschlikon TG;Thurgau;Eschlikon;Swiss Federal Railways SBB;8.95853620191;47.46149105903;566.8;1300.0;1500.0;880.0;True
+8506012;Guntershausen;Thurgau;Aadorf;Swiss Federal Railways SBB;8.9170321041;47.47412135575;546.2;350.0;380.0;270.0;True
+8506013;Aadorf;Thurgau;Aadorf;Swiss Federal Railways SBB;8.90330135169;47.48811815646;527.6;1600.0;1900.0;1100.0;True
+8506014;Elgg;Zürich;Elgg;Swiss Federal Railways SBB;8.86341158621;47.49852908813;507.0;1700.0;2000.0;1200.0;True
+8506015;Räterschen;Zürich;Elsau;Swiss Federal Railways SBB;8.79501712952;47.49868192255;475.7;640.0;730.0;440.0;True
+8506016;Oberwinterthur;Zürich;Winterthur;Swiss Federal Railways SBB;8.76038919617;47.5079223325;457.0;3600.0;4100.0;2300.0;True
+8506017;Wiesendangen;Zürich;Wiesendangen;Swiss Federal Railways SBB;8.77603800127;47.52554303727;470.0;960.0;1100.0;590.0;True
+8506018;Rickenbach-Attikon;Zürich;Rickenbach (ZH);Swiss Federal Railways SBB;8.78917503852;47.53535737473;471.8;1200.0;1400.0;820.0;True
+8506019;Islikon;Thurgau;Gachnang;Swiss Federal Railways SBB;8.84619703019;47.54783491707;422.7;920.0;1100.0;610.0;True
+8506020;Seuzach;Zürich;Seuzach;Swiss Federal Railways SBB;8.73888343051;47.53576697593;455.2;1300.0;1400.0;890.0;True
+8506021;Dinhard;Zürich;Dinhard;Swiss Federal Railways SBB;8.75298088739;47.55334514795;462.2;200.0;220.0;160.0;True
+8506022;Thalheim-Altikon;Zürich;Thalheim an der Thur;Swiss Federal Railways SBB;8.75764323585;47.56962135084;445.9;190.0;210.0;150.0;True
+8506023;Ossingen;Zürich;Ossingen;Swiss Federal Railways SBB;8.72411655179;47.61461396494;427.5;400.0;430.0;310.0;True
+8506024;Stammheim;Zürich;Stammheim;Swiss Federal Railways SBB;8.78875014082;47.6348812953;433.2;450.0;490.0;370.0;True
+8506025;Etzwilen;Thurgau;Wagenhausen;Swiss Federal Railways SBB;8.81861734532;47.66114467977;438.2;160.0;170.0;140.0;True
+8506035;Schottikon;Zürich;Elsau;Swiss Federal Railways SBB;8.81171907243;47.50011749863;486.1;350.0;390.0;270.0;True
+8506036;Reutlingen;Zürich;Winterthur;Swiss Federal Railways SBB;8.75214807518;47.52965937846;454.3;260.0;290.0;210.0;True
+8506038;Winterthur Wallrüti;Zürich;Winterthur;Swiss Federal Railways SBB;8.76088216732;47.51672166353;457.8;1300.0;1500.0;970.0;True
+8506039;Schloss Laufen am Rheinfall;Zürich;Laufen-Uhwiesen;Swiss Federal Railways SBB;8.61426904409;47.67656565236;389.0;670.0;580.0;860.0;True
+8506041;Embrach-Rorbas;Zürich;Embrach;Swiss Federal Railways SBB;8.58706884873;47.52059024023;423.3;1700.0;2000.0;960.0;True
+8506042;Pfungen;Zürich;Pfungen;Swiss Federal Railways SBB;8.64663394225;47.51603840485;412.2;1700.0;2000.0;960.0;True
+8506043;Winterthur Wülflingen;Zürich;Winterthur;Swiss Federal Railways SBB;8.68092954434;47.50643584992;422.0;680.0;800.0;410.0;True
+8506044;Winterthur Töss;Zürich;Winterthur;Swiss Federal Railways SBB;8.70930994344;47.4898063841;435.2;640.0;730.0;430.0;True
+8506045;Hettlingen;Zürich;Hettlingen;Swiss Federal Railways SBB;8.69483415306;47.54544144647;425.1;1100.0;1200.0;800.0;True
+8506046;Henggart;Zürich;Henggart;Swiss Federal Railways SBB;8.68507523533;47.56425724372;433.6;1400.0;1500.0;1200.0;True
+8506047;Andelfingen;Zürich;Andelfingen;Swiss Federal Railways SBB;8.67800161121;47.59376618474;402.5;2500.0;2900.0;1700.0;True
+8506048;Marthalen;Zürich;Marthalen;Swiss Federal Railways SBB;8.65606285065;47.63137974671;413.96;1800.0;2000.0;1300.0;True
+8506049;Dachsen;Zürich;Dachsen;Swiss Federal Railways SBB;8.61382274063;47.66709049852;394.0;870.0;940.0;700.0;True
+8506100;Frauenfeld;Thurgau;Frauenfeld;Swiss Federal Railways SBB;8.89655967341;47.55816340457;404.6;10200.0;11300.0;7600.0;True
+8506101;Felben-Wellhausen;Thurgau;Felben-Wellhausen;Swiss Federal Railways SBB;8.9431748232;47.57710212729;398.8;540.0;620.0;350.0;True
+8506102;Hüttlingen-Mettendorf;Thurgau;Hüttlingen;Swiss Federal Railways SBB;8.97455500758;47.58234363611;403.7;160.0;180.0;120.0;True
+8506103;Müllheim-Wigoltingen;Thurgau;Wigoltingen;Swiss Federal Railways SBB;9.01552205517;47.58816457357;411.5;480.0;540.0;340.0;True
+8506104;Märstetten;Thurgau;Märstetten;Swiss Federal Railways SBB;9.06219347751;47.58282055676;418.2;360.0;400.0;280.0;True
+8506105;Weinfelden;Thurgau;Weinfelden;Swiss Federal Railways SBB;9.10636822199;47.56622426323;429.3;15500.0;17400.0;11100.0;True
+8506106;Bürglen TG;Thurgau;Bürglen (TG);Swiss Federal Railways SBB;9.14987658921;47.54909842869;439.7;710.0;820.0;460.0;True
+8506107;Erlen;Thurgau;Erlen;Swiss Federal Railways SBB;9.22620198059;47.55146027649;448.7;660.0;790.0;370.0;True
+8506108;Oberaach;Thurgau;Amriswil;Swiss Federal Railways SBB;9.27106226685;47.55331937375;443.82;170.0;200.0;120.0;True
+8506109;Amriswil;Thurgau;Amriswil;Swiss Federal Railways SBB;9.30222720093;47.55044972122;437.2;3200.0;3600.0;2300.0;True
+8506118;Triboltingen;Thurgau;Ermatingen;Swiss Federal Railways SBB;9.10876054082;47.66289596057;401.3;70.0;70.0;60.0;True
+8506119;Kurzrickenbach Seepark;Thurgau;Kreuzlingen;Swiss Federal Railways SBB;9.19635937071;47.64308083611;403.6;490.0;550.0;360.0;True
+8506121;Romanshorn;Thurgau;Romanshorn;Swiss Federal Railways SBB;9.37937129226;47.56552286487;398.5;11100.0;12000.0;9100.0;True
+8506122;Uttwil;Thurgau;Uttwil;Swiss Federal Railways SBB;9.3397029742;47.58602380175;405.8;460.0;480.0;400.0;True
+8506123;Kesswil;Thurgau;Kesswil;Swiss Federal Railways SBB;9.31742725076;47.59549777964;405.0;240.0;240.0;230.0;True
+8506124;Güttingen;Thurgau;Güttingen;Swiss Federal Railways SBB;9.29224305111;47.60875297248;409.7;400.0;420.0;350.0;True
+8506125;Altnau;Thurgau;Altnau;Swiss Federal Railways SBB;9.26591795856;47.6213679323;409.0;400.0;400.0;380.0;True
+8506126;Münsterlingen-Scherzingen;Thurgau;Münsterlingen;Swiss Federal Railways SBB;9.22701176471;47.63342663952;404.8;310.0;330.0;270.0;True
+8506127;Bottighofen;Thurgau;Bottighofen;Swiss Federal Railways SBB;9.21310411429;47.64070724442;405.15;330.0;350.0;290.0;True
+8506128;Kreuzlingen Hafen;Thurgau;Kreuzlingen;Swiss Federal Railways SBB;9.18198226764;47.64916395657;402.1;2100.0;2300.0;1500.0;True
+8506131;Kreuzlingen;Thurgau;Kreuzlingen;Swiss Federal Railways SBB;9.16908041834;47.65255276654;403.3;7400.0;7900.0;6200.0;True
+8506132;Tägerwilen-Gottlieben;Thurgau;Tägerwilen;Swiss Federal Railways SBB;9.13297928203;47.65961479081;403.5;650.0;750.0;440.0;True
+8506133;Ermatingen;Thurgau;Ermatingen;Swiss Federal Railways SBB;9.08567252782;47.66999916787;402.1;730.0;800.0;590.0;True
+8506134;Mannenbach-Salenstein;Thurgau;Salenstein;Swiss Federal Railways SBB;9.05280407791;47.6736494796;399.4;220.0;220.0;210.0;True
+8506135;Berlingen;Thurgau;Berlingen;Swiss Federal Railways SBB;9.02202296306;47.67321378502;402.6;260.0;270.0;250.0;True
+8506136;Steckborn;Thurgau;Steckborn;Swiss Federal Railways SBB;8.98103307719;47.66450457418;403.7;910.0;960.0;790.0;True
+8506137;Mammern;Thurgau;Mammern;Swiss Federal Railways SBB;8.91400063279;47.64416020054;411.7;280.0;290.0;260.0;True
+8506138;Eschenz;Thurgau;Eschenz;Swiss Federal Railways SBB;8.87656172053;47.64541208382;417.2;270.0;300.0;220.0;True
+8506139;Stein am Rhein;Schaffhausen;Stein am Rhein;Swiss Federal Railways SBB;8.85502005429;47.65611096497;413.1;1700.0;1700.0;1700.0;True
+8506143;Münsterlingen Spital;Thurgau;Münsterlingen;Swiss Federal Railways SBB;9.23611687217;47.63204610328;404.9;610.0;730.0;350.0;True
+8506148;St. Katharinental;Thurgau;Diessenhofen;Swiss Federal Railways SBB;8.73204004435;47.68756345629;414.4;180.0;190.0;150.0;True
+8506168;Tägerschen;Thurgau;Tobel-Tägerschen;Swiss Federal Railways SBB;9.02479327434;47.509363876;534.205;140.0;170.0;70.0;True
+8506169;Wiesengrund;Thurgau;Wängi;Appenzeller Bahnen (ab);8.94875272001;47.50219286055;465.7;;;;False
+8506170;Münchwilen Pflegeheim;Thurgau;Münchwilen (TG);Appenzeller Bahnen (ab);8.99194804999;47.48148904713;508.8;;;;False
+8506171;Frauenfeld Marktplatz;Thurgau;Frauenfeld;Appenzeller Bahnen (ab);8.89872734757;47.55420159415;417.25;;;;False
+8506173;Weberei Matzingen;Thurgau;Matzingen;Appenzeller Bahnen (ab);8.9219561221;47.52728984145;439.95;;;;False
+8506174;Matzingen;Thurgau;Matzingen;Appenzeller Bahnen (ab);8.9327574406;47.52047441267;447.05;;;;False
+8506175;Jakobstal;Thurgau;Wängi;Appenzeller Bahnen (ab);8.94408984731;47.50828752203;460.75;;;;False
+8506176;Wängi;Thurgau;Wängi;Appenzeller Bahnen (ab);8.95328812945;47.4963083858;470.65;;;;False
+8506177;Rosental;Thurgau;Wängi;Appenzeller Bahnen (ab);8.97515234165;47.49234229793;485.65;;;;False
+8506178;Münchwilen TG;Thurgau;Münchwilen (TG);Appenzeller Bahnen (ab);8.99921721383;47.47690891892;515.4;;;;False
+8506179;Lüdem;Thurgau;Frauenfeld;Appenzeller Bahnen (ab);8.90244616768;47.5418817973;424.0;;;;False
+8506181;Bronschhofen;St. Gallen;Wil (SG);Swiss Federal Railways SBB;9.03467787496;47.47544437918;566.317;130.0;170.0;60.0;True
+8506182;Bettwiesen;Thurgau;Bettwiesen;Swiss Federal Railways SBB;9.02077963331;47.49862133115;545.96;180.0;210.0;120.0;True
+8506183;Tobel-Affeltrangen;Thurgau;Tobel-Tägerschen;Swiss Federal Railways SBB;9.03370938358;47.52130135182;511.064;250.0;290.0;150.0;True
+8506184;Märwil;Thurgau;Affeltrangen;Swiss Federal Railways SBB;9.0692390399;47.53313069079;505.886;230.0;270.0;140.0;True
+8506185;Oppikon;Thurgau;Bussnang;Swiss Federal Railways SBB;9.06210341128;47.55206426158;488.195;49.0;49.0;49.0;False
+8506188;Bronschhofen AMP;St. Gallen;Wil (SG);Swiss Federal Railways SBB;9.03092805218;47.48126713287;556.105;150.0;180.0;70.0;True
+8506190;Bussnang;Thurgau;Bussnang;Swiss Federal Railways SBB;9.08416306615;47.55608405274;444.113;470.0;640.0;70.0;True
+8506193;Kehlhof;Thurgau;Berg (TG);Swiss Federal Railways SBB;9.16974849674;47.5722560325;508.358;130.0;140.0;120.0;True
+8506194;Berg;Thurgau;Berg (TG);Swiss Federal Railways SBB;9.17392192891;47.58248913048;554.04;310.0;340.0;240.0;True
+8506195;Siegershausen;Thurgau;Kemmental;Swiss Federal Railways SBB;9.16826001807;47.61091699723;545.794;140.0;150.0;120.0;True
+8506196;Lengwil;Thurgau;Lengwil;Swiss Federal Railways SBB;9.19028316548;47.62559776429;508.47;200.0;220.0;150.0;True
+8506197;Kreuzlingen Bernrain;Thurgau;Kreuzlingen;Swiss Federal Railways SBB;9.16320412695;47.64211449785;461.319;380.0;440.0;240.0;True
+8506198;Tägerwilen Dorf;Thurgau;Tägerwilen;Swiss Federal Railways SBB;9.13955959957;47.65372117539;416.2;290.0;320.0;220.0;True
+8506200;Wattwil;St. Gallen;Wattwil;Schweizerische Südostbahn (bt);9.08648237238;47.29947726414;613.6;7200.0;7900.0;5700.0;True
+8506201;Lichtensteig;St. Gallen;Wattwil;Schweizerische Südostbahn (bt);9.08318877166;47.31969658644;615.5;940.0;1000.0;790.0;True
+8506202;Dietfurt;St. Gallen;Bütschwil-Ganterschwil;Swiss Federal Railways SBB;9.07832028969;47.34455188311;610.9;260.0;300.0;170.0;True
+8506203;Bütschwil;St. Gallen;Bütschwil-Ganterschwil;Swiss Federal Railways SBB;9.07515106362;47.35959125215;610.8;1200.0;1400.0;840.0;True
+8506204;Lütisburg;St. Gallen;Lütisburg;Swiss Federal Railways SBB;9.07110049465;47.38482629654;599.207;200.0;220.0;150.0;True
+8506205;Bazenheid;St. Gallen;Kirchberg (SG);Swiss Federal Railways SBB;9.06905980245;47.41012653734;597.3;1100.0;1200.0;710.0;True
+8506206;Wil SG;St. Gallen;Wil (SG);Swiss Federal Railways SBB;9.04099305047;47.46241324274;570.8;17500.0;19200.0;13700.0;True
+8506208;Uzwil;St. Gallen;Uzwil;Swiss Federal Railways SBB;9.1309918193;47.43644399908;563.8;5100.0;5800.0;3700.0;True
+8506209;Flawil;St. Gallen;Flawil;Swiss Federal Railways SBB;9.18978559141;47.41518938374;610.7;3600.0;4000.0;2500.0;True
+8506210;Gossau SG;St. Gallen;Gossau (SG);Swiss Federal Railways SBB;9.25305069333;47.41183157855;637.9;7200.0;7600.0;6100.0;True
+8506211;Arnegg;St. Gallen;Gossau (SG);Swiss Federal Railways SBB;9.25202500196;47.44200164727;621.23;530.0;630.0;300.0;True
+8506212;Hauptwil;Thurgau;Hauptwil-Gottshaus;Swiss Federal Railways SBB;9.2515915338;47.47686659343;561.5;240.0;270.0;150.0;True
+8506213;Bischofszell Stadt;Thurgau;Bischofszell;Swiss Federal Railways SBB;9.24147856207;47.49214090871;506.35;910.0;1000.0;680.0;True
+8506214;Sitterdorf;Thurgau;Zihlschlacht-Sitterdorf;Swiss Federal Railways SBB;9.24899690821;47.50521844689;485.12;210.0;230.0;150.0;True
+8506215;Bischofszell Nord;Thurgau;Bischofszell;Swiss Federal Railways SBB;9.23403527651;47.50041521493;476.3;250.0;300.0;130.0;True
+8506216;Kradolf;Thurgau;Kradolf-Schönenberg;Swiss Federal Railways SBB;9.20157506049;47.52472243741;456.5;490.0;550.0;350.0;True
+8506217;Sulgen;Thurgau;Sulgen;Swiss Federal Railways SBB;9.18369443891;47.53880402552;449.2;1100.0;1300.0;650.0;True
+8506270;St. Gallen Marktplatz;St. Gallen;St. Gallen;Appenzeller Bahnen (ab);9.37672698881;47.42636247818;668.0;;;;False
+8506271;Gontenbad;Appenzell Innerrhoden;Gonten;Appenzeller Bahnen (ab);9.37243690816;47.33166360932;886.8;;;;False
+8506275;Steinegg;Appenzell Innerrhoden;Schwende-Rüte;Appenzeller Bahnen (ab);9.43078567256;47.32011135913;800.5;;;;False
+8506276;Strahlholz;Appenzell Ausserrhoden;Gais;Appenzeller Bahnen (ab);9.43186429663;47.36655307986;875.7;;;;False
+8506277;Schwende;Appenzell Innerrhoden;Schwende-Rüte;Appenzeller Bahnen (ab);9.43558806552;47.30005262452;838.6;;;;False
+8506278;Seebleiche;St. Gallen;Rorschacherberg;Appenzeller Bahnen (ab);9.51699126812;47.47737009952;417.25;;;;False
+8506280;Herisau Wilen;Appenzell Ausserrhoden;Herisau;Appenzeller Bahnen (ab);9.27925620557;47.37567821809;758.8;;;;False
+8506281;Waldstatt;Appenzell Ausserrhoden;Waldstatt;Appenzeller Bahnen (ab);9.28610992275;47.35751465127;813.6;;;;False
+8506282;Zürchersmühle;Appenzell Ausserrhoden;Urnäsch;Appenzeller Bahnen (ab);9.29282385827;47.33017980569;807.4;;;;False
+8506283;Urnäsch;Appenzell Ausserrhoden;Urnäsch;Appenzeller Bahnen (ab);9.28546301968;47.31783095247;823.7;;;;False
+8506284;Jakobsbad;Appenzell Innerrhoden;Gonten;Appenzeller Bahnen (ab);9.32817511877;47.32007866225;873.25;;;;False
+8506285;Gonten;Appenzell Innerrhoden;Gonten;Appenzeller Bahnen (ab);9.34732850087;47.32817888788;899.6;;;;False
+8506286;Appenzell;Appenzell Innerrhoden;Appenzell;Appenzeller Bahnen (ab);9.40952979938;47.32853478003;785.8;;;;False
+8506288;Weissbad;Appenzell Innerrhoden;Schwende-Rüte;Appenzeller Bahnen (ab);9.43570140352;47.31044491481;816.5;;;;False
+8506289;Wasserauen;Appenzell Innerrhoden;Schwende-Rüte;Appenzeller Bahnen (ab);9.42861497161;47.28556074969;868.65;;;;False
+8506290;Herisau;Appenzell Ausserrhoden;Herisau;Schweizerische Südostbahn (bt);9.27681223562;47.39016520866;744.75;5100.0;5800.0;3300.0;True
+8506291;Schachen (Herisau);Appenzell Ausserrhoden;Herisau;Schweizerische Südostbahn (bt);9.24320213894;47.38513574255;788.7;130.0;150.0;90.0;True
+8506292;Degersheim;St. Gallen;Degersheim;Schweizerische Südostbahn (bt);9.20011957075;47.37257810175;798.7;1200.0;1300.0;790.0;True
+8506293;Mogelsberg;St. Gallen;Neckertal;Schweizerische Südostbahn (bt);9.1420293335;47.36372793067;714.7;240.0;250.0;210.0;True
+8506294;Brunnadern-Neckertal;St. Gallen;Neckertal;Schweizerische Südostbahn (bt);9.13059538196;47.33782748621;654.4;490.0;550.0;370.0;True
+8506297;Ebnat-Kappel;St. Gallen;Ebnat-Kappel;Schweizerische Südostbahn (bt);9.12098748225;47.26366641071;630.0;410.0;440.0;340.0;True
+8506298;Krummenau;St. Gallen;Nesslau;Schweizerische Südostbahn (bt);9.1681546902;47.24883505755;713.0;150.0;160.0;140.0;True
+8506299;Nesslau-Neu St. Johann;St. Gallen;Nesslau;Schweizerische Südostbahn (bt);9.19756603921;47.22682621714;758.5;850.0;880.0;780.0;True
+8506300;St. Gallen Winkeln;St. Gallen;St. Gallen;Swiss Federal Railways SBB;9.30086029135;47.40392941106;654.7;1500.0;1600.0;1200.0;True
+8506301;St. Gallen Bruggen;St. Gallen;St. Gallen;Swiss Federal Railways SBB;9.32965492815;47.40720285207;651.6;690.0;790.0;470.0;True
+8506302;St. Gallen;St. Gallen;St. Gallen;Swiss Federal Railways SBB;9.36989666272;47.4231789499;669.6;43700.0;48200.0;33500.0;True
+8506303;St. Gallen St. Fiden;St. Gallen;St. Gallen;Swiss Federal Railways SBB;9.39344380222;47.43454038247;645.5;2700.0;3200.0;1700.0;True
+8506304;Mörschwil;St. Gallen;Mörschwil;Swiss Federal Railways SBB;9.41438354158;47.47477145735;542.4;350.0;380.0;300.0;True
+8506305;Goldach;St. Gallen;Goldach;Swiss Federal Railways SBB;9.46699692736;47.47379815015;447.3;1700.0;1900.0;1200.0;True
+8506306;Rorschach Hafen;St. Gallen;Rorschach;Swiss Federal Railways SBB;9.49292329362;47.47858991838;397.9;1100.0;1200.0;890.0;True
+8506307;Horn;Thurgau;Horn;Swiss Federal Railways SBB;9.46338788334;47.49317998028;402.5;600.0;650.0;500.0;True
+8506308;Arbon;Thurgau;Arbon;Swiss Federal Railways SBB;9.43335858262;47.51058773298;398.7;1900.0;2100.0;1400.0;True
+8506309;Egnach;Thurgau;Egnach;Swiss Federal Railways SBB;9.3830174841;47.54399130383;400.9;330.0;350.0;280.0;True
+8506311;Rorschach;St. Gallen;Rorschach;Swiss Federal Railways SBB;9.5051412874;47.47800197543;399.0;6000.0;6200.0;5500.0;True
+8506312;Staad SG;St. Gallen;Thal;Swiss Federal Railways SBB;9.53552881334;47.48068852573;402.1;740.0;820.0;560.0;True
+8506313;Rheineck;St. Gallen;Rheineck;Swiss Federal Railways SBB;9.59091263503;47.4668859339;399.9;1700.0;1900.0;1100.0;True
+8506314;St. Margrethen SG;St. Gallen;St. Margrethen;Swiss Federal Railways SBB;9.63826192024;47.45321599373;402.1;4200.0;4600.0;3400.0;True
+8506316;Au SG;St. Gallen;Au (SG);Swiss Federal Railways SBB;9.64125910752;47.43611582045;405.0;460.0;520.0;320.0;True
+8506317;Heerbrugg;St. Gallen;Au (SG);Swiss Federal Railways SBB;9.6272488282;47.41039250658;405.6;3700.0;4400.0;2300.0;True
+8506318;Rebstein-Marbach;St. Gallen;Rebstein;Swiss Federal Railways SBB;9.58675409445;47.39264002116;409.8;410.0;470.0;270.0;True
+8506319;Altstätten SG;St. Gallen;Altstätten;Swiss Federal Railways SBB;9.55651988356;47.37423480706;429.7;4300.0;4900.0;2800.0;True
+8506322;Rorschach Stadt;St. Gallen;Rorschach;Swiss Federal Railways SBB;9.48936370848;47.47559232616;413.2;2500.0;2900.0;1600.0;True
+8506350;Walzenhausen;Appenzell Ausserrhoden;Walzenhausen;Appenzeller Bahnen (ab);9.60135321138;47.4512676255;660.7;;;;False
+8506351;Ruderbach;St. Gallen;St. Margrethen;Appenzeller Bahnen (ab);9.59516309646;47.46158887795;402.65;;;;False
+8506352;Wartensee;St. Gallen;Thal;Appenzeller Bahnen (ab);9.5336150188;47.47176130251;546.1;;;;False
+8506353;Wienacht-Tobel;Appenzell Ausserrhoden;Lutzenberg;Appenzeller Bahnen (ab);9.54067015762;47.46623821328;615.7;;;;False
+8506354;Schwendi bei Heiden;Appenzell Ausserrhoden;Heiden;Appenzeller Bahnen (ab);9.53065115348;47.45946972523;669.9;;;;False
+8506355;Heiden;Appenzell Ausserrhoden;Heiden;Appenzeller Bahnen (ab);9.53648870616;47.44599774492;790.95;;;;False
+8506358;St. Gallen Spisertor;St. Gallen;St. Gallen;Appenzeller Bahnen (ab);9.37962508364;47.42473118759;667.8;;;;False
+8506359;St. Gallen Schülerhaus;St. Gallen;St. Gallen;Appenzeller Bahnen (ab);9.38742086388;47.42500738908;695.7;;;;False
+8506361;St. Gallen Notkersegg;St. Gallen;St. Gallen;Appenzeller Bahnen (ab);9.40403882058;47.42522807955;783.9;;;;False
+8506362;Schwarzer Bären;St. Gallen;St. Gallen;Appenzeller Bahnen (ab);9.41536910826;47.42258878706;850.2;;;;False
+8506364;Vögelinsegg;Appenzell Ausserrhoden;Speicher;Appenzeller Bahnen (ab);9.43638893312;47.41609019137;943.7;;;;False
+8506365;Schützengarten;Appenzell Ausserrhoden;Speicher;Appenzeller Bahnen (ab);9.43825391293;47.41272383083;935.45;;;;False
+8506366;Speicher;Appenzell Ausserrhoden;Speicher;Appenzeller Bahnen (ab);9.4427148624;47.41099893269;926.2;;;;False
+8506367;Bendlehn;Appenzell Ausserrhoden;Speicher;Appenzeller Bahnen (ab);9.45051000044;47.40695686699;926.6;;;;False
+8506368;Gfeld;Appenzell Ausserrhoden;Trogen;Appenzeller Bahnen (ab);9.45575878004;47.40503205886;912.8;;;;False
+8506369;Trogen;Appenzell Ausserrhoden;Trogen;Appenzeller Bahnen (ab);9.46141375435;47.4072645187;915.4;;;;False
+8506371;St. Gallen Riethüsli;St. Gallen;St. Gallen;Appenzeller Bahnen (ab);9.3672713878;47.41137989865;748.75;;;;False
+8506372;Lustmühle;Appenzell Ausserrhoden;Teufen (AR);Appenzeller Bahnen (ab);9.35915115543;47.4003360406;770.8;;;;False
+8506373;Niederteufen;Appenzell Ausserrhoden;Teufen (AR);Appenzeller Bahnen (ab);9.36761450542;47.39221009036;830.9;;;;False
+8506374;Sternen bei Teufen;Appenzell Ausserrhoden;Teufen (AR);Appenzeller Bahnen (ab);9.37483175793;47.38948606137;831.75;;;;False
+8506375;Teufen AR;Appenzell Ausserrhoden;Teufen (AR);Appenzeller Bahnen (ab);9.38979624746;47.39044761742;833.6;;;;False
+8506376;Steigbach;Appenzell Ausserrhoden;Bühler;Appenzeller Bahnen (ab);9.40491015596;47.37701525268;812.15;;;;False
+8506377;Bühler;Appenzell Ausserrhoden;Bühler;Appenzeller Bahnen (ab);9.42109131824;47.37297497601;824.9;;;;False
+8506378;Gais;Appenzell Ausserrhoden;Gais;Appenzeller Bahnen (ab);9.45115444121;47.36092357277;915.25;;;;False
+8506379;Altstätten Stadt;St. Gallen;Altstätten;Appenzeller Bahnen (ab);9.53749174071;47.3768361543;465.7;;;;False
+8506380;Hirschberg;Appenzell Innerrhoden;Schwende-Rüte;Appenzeller Bahnen (ab);9.42285686815;47.33138255034;820.15;;;;False
+8506381;Sammelplatz;Appenzell Innerrhoden;Appenzell;Appenzeller Bahnen (ab);9.43244953291;47.34827152232;928.55;;;;False
+8506382;Zweibrücken;Appenzell Ausserrhoden;Gais;Appenzeller Bahnen (ab);9.44441793126;47.36016245985;907.8;;;;False
+8506383;Hebrig;Appenzell Ausserrhoden;Gais;Appenzeller Bahnen (ab);9.46482871526;47.36214953018;970.1;;;;False
+8506384;Schachen (Gais);Appenzell Ausserrhoden;Gais;Appenzeller Bahnen (ab);9.47736411085;47.36155053911;960.6;;;;False
+8506385;Rietli;Appenzell Ausserrhoden;Gais;Appenzeller Bahnen (ab);9.48713004052;47.36069929559;945.5;;;;False
+8506386;Stoss AR;Appenzell Ausserrhoden;Gais;Appenzeller Bahnen (ab);9.49511843028;47.3607900954;942.75;;;;False
+8506387;Kreuzstrasse;St. Gallen;Altstätten;Appenzeller Bahnen (ab);9.5052375488;47.36562343706;820.0;;;;False
+8506388;Warmesberg;St. Gallen;Altstätten;Appenzeller Bahnen (ab);9.51322056716;47.36534372293;724.8;;;;False
+8506389;Alter Zoll;St. Gallen;Altstätten;Appenzeller Bahnen (ab);9.52203865106;47.36858086033;615.15;;;;False
+8506392;St. Gallen Haggen;St. Gallen;St. Gallen;Schweizerische Südostbahn (bt);9.33814644334;47.40775703236;676.5;670.0;770.0;430.0;True
+8506393;Wittenbach;St. Gallen;Wittenbach;Schweizerische Südostbahn (bt);9.3885482761;47.46284902116;603.5;1300.0;1600.0;760.0;True
+8506394;Roggwil-Berg;Thurgau;Roggwil (TG);Schweizerische Südostbahn (bt);9.39202280327;47.48559031015;560.2;320.0;350.0;240.0;True
+8506395;Häggenschwil-Winden;Thurgau;Egnach;Schweizerische Südostbahn (bt);9.3587225775;47.50386331927;512.1;260.0;290.0;200.0;True
+8506396;Muolen;St. Gallen;Muolen;Schweizerische Südostbahn (bt);9.33709297806;47.51762435932;478.9;510.0;590.0;330.0;True
+8506397;Steinebrunn;Thurgau;Egnach;Schweizerische Südostbahn (bt);9.34985854135;47.53153294112;448.1;310.0;350.0;210.0;True
+8506398;Neukirch-Egnach;Thurgau;Egnach;Schweizerische Südostbahn (bt);9.37585331411;47.53879809979;412.0;310.0;340.0;240.0;True
+8506400;Sandbüchel;St. Gallen;Rorschacherberg;Appenzeller Bahnen (ab);9.52166897805;47.47536586007;454.9;;;;False
+8506470;Teufen AR Stofel;Appenzell Ausserrhoden;Teufen (AR);Appenzeller Bahnen (ab);9.37998433903;47.39099921327;836.25;;;;False
+8507000;Bern;Bern;Bern;Swiss Federal Railways SBB;7.43913088992;46.9488322905;540.2;175400.0;189200.0;143800.0;True
+8507002;Ostermundigen;Bern;Ostermundigen;Swiss Federal Railways SBB;7.48149788168;46.95680242645;557.954;3700.0;4300.0;2200.0;True
+8507003;Gümligen;Bern;Muri bei Bern;Swiss Federal Railways SBB;7.50550479629;46.93432191879;561.496;4200.0;4800.0;2700.0;True
+8507005;Rubigen;Bern;Rubigen;Swiss Federal Railways SBB;7.54536836042;46.89916973798;549.016;1700.0;2000.0;1200.0;True
+8507006;Münsingen;Bern;Münsingen;Swiss Federal Railways SBB;7.55944239602;46.87335414993;530.587;6400.0;7300.0;4300.0;True
+8507007;Wichtrach;Bern;Wichtrach;Swiss Federal Railways SBB;7.56885580683;46.84161208605;530.889;1600.0;1800.0;1100.0;True
+8507008;Kiesen;Bern;Kiesen;Swiss Federal Railways SBB;7.5755012849;46.81894382308;539.03;650.0;730.0;480.0;True
+8507009;Uttigen;Bern;Uttigen;Swiss Federal Railways SBB;7.58263043754;46.79431051786;545.176;900.0;950.0;800.0;True
+8507063;Worb Dorf;Bern;Worb;Regionalverkehr Bern-Solothurn;7.56247000137;46.92997999992;581.8;;;;False
+8507064;Vechigen;Bern;Vechigen;Regionalverkehr Bern-Solothurn;7.55640080867;46.94643563808;581.7;;;;False
+8507065;Boll-Utzigen;Bern;Vechigen;Regionalverkehr Bern-Solothurn;7.54677286673;46.95302053549;561.0;;;;False
+8507066;Stettlen;Bern;Stettlen;Regionalverkehr Bern-Solothurn;7.524099998;46.95681999737;551.9;;;;False
+8507067;Deisswil;Bern;Stettlen;Regionalverkehr Bern-Solothurn;7.51326853887;46.95822821577;549.0;;;;False
+8507068;Bolligen;Bern;Bolligen;Regionalverkehr Bern-Solothurn;7.49742000217;46.96953999764;539.2;;;;False
+8507069;Ittigen bei Bern;Bern;Ittigen;Regionalverkehr Bern-Solothurn;7.48413000646;46.97330999908;526.3;;;;False
+8507070;Uetendorf;Bern;Uetendorf;BLS AG (gbs);7.57284692281;46.77492419018;553.8;1200.0;1300.0;800.0;True
+8507071;Seftigen;Bern;Seftigen;BLS AG (gbs);7.5402889299;46.78684668918;578.1;1100.0;1200.0;830.0;True
+8507072;Burgistein;Bern;Burgistein;BLS AG (gbs);7.52122672531;46.78943768492;566.7;470.0;530.0;330.0;True
+8507073;Thurnen;Bern;Thurnen;BLS AG (gbs);7.51387770203;46.81356097558;549.0;1000.0;1100.0;840.0;True
+8507074;Kaufdorf;Bern;Kaufdorf;BLS AG (gbs);7.50185670291;46.83788683246;534.2;610.0;690.0;430.0;True
+8507075;Toffen;Bern;Toffen;BLS AG (gbs);7.49603327961;46.85847127981;527.3;1200.0;1400.0;840.0;True
+8507076;Belp;Bern;Belp;BLS AG (gbs);7.49863571343;46.88888326683;522.6;5100.0;5700.0;3500.0;True
+8507077;Kehrsatz;Bern;Kehrsatz;BLS AG (gbs);7.47236023762;46.90882299248;570.0;1300.0;1500.0;880.0;True
+8507078;Wabern bei Bern;Bern;Köniz;BLS AG (gbs);7.44588875523;46.92866277717;559.7;1400.0;1600.0;990.0;True
+8507079;Bern Weissenbühl;Bern;Bern;BLS AG (gbs);7.43001881112;46.93577935626;550.1;1200.0;1400.0;570.0;True
+8507083;Köniz;Bern;Köniz;BLS AG (gbs);7.4149120576;46.92460655557;571.786;1500.0;1800.0;1000.0;True
+8507084;Moos;Bern;Köniz;BLS AG (gbs);7.40102637084;46.90998593902;627.793;250.0;280.0;190.0;True
+8507085;Gasel;Bern;Köniz;BLS AG (gbs);7.40069191182;46.90092801328;649.507;370.0;410.0;270.0;True
+8507086;Niederscherli;Bern;Köniz;BLS AG (gbs);7.38807012176;46.88643697907;655.664;900.0;1000.0;610.0;True
+8507087;Mittelhäusern;Bern;Köniz;BLS AG (gbs);7.36772084355;46.87640211375;668.645;510.0;560.0;380.0;True
+8507088;Lanzenhäusern;Bern;Schwarzenburg;BLS AG (gbs);7.34706898115;46.84193113527;741.037;280.0;320.0;190.0;True
+8507089;Schwarzenburg;Bern;Schwarzenburg;BLS AG (gbs);7.34256155547;46.81910977831;791.799;1800.0;2000.0;1400.0;True
+8507091;Liebefeld;Bern;Köniz;BLS AG (gbs);7.41898786959;46.93001116122;562.782;850.0;1000.0;450.0;True
+8507092;Belp Steinbach;Bern;Belp;BLS AG (gbs);7.49309180319;46.89516463406;525.3;1200.0;1400.0;690.0;True
+8507093;Kehrsatz Nord;Bern;Kehrsatz;BLS AG (gbs);7.46610906448;46.91583636834;566.8;1100.0;1300.0;670.0;True
+8507094;Uetendorf Allmend;Bern;Uetendorf;BLS AG (gbs);7.59488399227;46.77312117929;555.5;440.0;490.0;320.0;True
+8507095;Schwarzwasserbrücke;Bern;Schwarzenburg;BLS AG (gbs);7.36237505488;46.86279414457;645.532;160.0;130.0;220.0;True
+8507096;Papiermühle;Bern;Ittigen;Regionalverkehr Bern-Solothurn;7.47658551009;46.97425730891;520.9;;;;False
+8507100;Thun;Bern;Thun;BLS AG (bls);7.62960582867;46.75485273059;559.75;31600.0;34000.0;26100.0;True
+8507270;Gruben;Bern;Saanen;Montreux-Oberland Bernois;7.28012999758;46.49053999641;1141.0;49.0;49.0;49.0;False
+8507271;Schönried;Bern;Saanen;Montreux-Oberland Bernois;7.29109999409;46.50453999895;1230.9;610.0;670.0;480.0;True
+8507272;Saanenmöser;Bern;Saanen;Montreux-Oberland Bernois;7.31172000155;46.51760999701;1271.2;480.0;520.0;390.0;True
+8507273;Oeschseite;Bern;Zweisimmen;Montreux-Oberland Bernois;7.3522899959;46.53136999853;1150.8;60.0;70.0;49.0;False
+8507274;Blankenburg;Bern;Zweisimmen;Montreux-Oberland Bernois;7.38532000532;46.54109999551;957.7;50.0;50.0;60.0;True
+8507275;Stöckli;Bern;St. Stephan;Montreux-Oberland Bernois;7.38839999438;46.51680999851;967.7;110.0;120.0;100.0;True
+8507276;St. Stephan;Bern;St. Stephan;Montreux-Oberland Bernois;7.40051999556;46.50512999478;993.6;110.0;130.0;90.0;True
+8507277;Matten i.S.;Bern;St. Stephan;Montreux-Oberland Bernois;7.42163999847;46.49370999571;1023.4;90.0;90.0;80.0;True
+8507278;Boden;Bern;Lenk;Montreux-Oberland Bernois;7.43537999785;46.47077000187;1036.7;60.0;60.0;50.0;True
+8507279;Lenk im Simmental;Bern;Lenk;Montreux-Oberland Bernois;7.44351999363;46.45857999928;1068.6;670.0;640.0;730.0;True
+8507281;Grubenwald;Bern;Zweisimmen;BLS AG (sez);7.38296877947;46.57981057434;910.1;49.0;49.0;49.0;False
+8507284;Enge im Simmental;Bern;Oberwil im Simmental;BLS AG (sez);7.41762444441;46.64753323787;814.5;49.0;49.0;49.0;False
+8507286;Ringoldingen;Bern;Erlenbach im Simmental;BLS AG (sez);7.52457394915;46.65755860027;712.1;49.0;49.0;49.0;False
+8507287;Burgholz;Bern;Diemtigen;BLS AG (sez);7.60322933488;46.66575114055;645.3;50.0;60.0;49.0;False
+8507288;Eifeld;Bern;Wimmis;BLS AG (sez);7.64227313036;46.68386875529;624.5;80.0;100.0;50.0;True
+8507290;Zweisimmen;Bern;Zweisimmen;BLS AG (sez);7.37486190719;46.55348255133;941.6;4600.0;4600.0;4600.0;True
+8507291;Weissenbach;Bern;Boltigen;BLS AG (sez);7.37429580948;46.60356559482;842.8;49.0;49.0;49.0;False
+8507292;Boltigen;Bern;Boltigen;BLS AG (sez);7.39007365616;46.62736825552;814.3;250.0;250.0;240.0;True
+8507293;Oberwil im Simmental;Bern;Oberwil im Simmental;BLS AG (sez);7.43548334739;46.6561356285;781.8;140.0;150.0;110.0;True
+8507294;Weissenburg;Bern;Därstetten;BLS AG (sez);7.47592043324;46.65929523621;781.9;50.0;50.0;50.0;True
+8507295;Därstetten;Bern;Därstetten;BLS AG (sez);7.4956915095;46.65871875618;757.8;150.0;170.0;110.0;True
+8507296;Erlenbach im Simmental;Bern;Erlenbach im Simmental;BLS AG (sez);7.55523519614;46.65909177832;681.4;410.0;430.0;370.0;True
+8507297;Oey-Diemtigen;Bern;Diemtigen;BLS AG (sez);7.57915212949;46.65988776864;669.9;450.0;480.0;400.0;True
+8507298;Wimmis;Bern;Wimmis;BLS AG (sez);7.6355974518;46.67572219594;627.7;500.0;530.0;440.0;True
+8507299;Lattigen bei Spiez;Bern;Spiez;BLS AG (sez);7.65026894498;46.69114124417;626.3;110.0;120.0;90.0;True
+8507378;Grütschalp;Bern;Lauterbrunnen;Lauterbrunnen-Mürren;7.89087366856;46.59651556444;1481.0;;;;False
+8507379;Mürren BLM;Bern;Lauterbrunnen;Lauterbrunnen-Mürren;7.89724173424;46.56410551693;1639.0;;;;False
+8507380;Grindelwald;Bern;Grindelwald;Berner Oberland-Bahnen;8.03331000504;46.62435999526;1034.6;;;;False
+8507381;Schwendi bei Grindelwald;Bern;Grindelwald;Berner Oberland-Bahnen;8.00307000236;46.63047000025;919.4;;;;False
+8507382;Burglauenen;Bern;Grindelwald;Berner Oberland-Bahnen;7.97533000304;46.63590999915;896.4;;;;False
+8507383;Lütschental;Bern;Lütschental;Berner Oberland-Bahnen;7.94898999822;46.63709999431;713.0;;;;False
+8507384;Lauterbrunnen;Bern;Lauterbrunnen;Berner Oberland-Bahnen;7.90809000214;46.59842999974;796.0;;;;False
+8507388;Wilderswil;Bern;Wilderswil;Berner Oberland-Bahnen;7.86947000551;46.66569999869;584.1;;;;False
+8507389;Zweilütschinen;Bern;Gündlischwand;Berner Oberland-Bahnen;7.89969999842;46.63269999573;651.7;;;;False
+8507470;Lalden;Valais;Lalden;BLS AG (bls);7.90959226355;46.30107286663;852.7;49.0;49.0;49.0;False
+8507471;Eggerberg;Valais;Eggerberg;BLS AG (bls);7.88103271919;46.30654629812;850.9;60.0;60.0;70.0;True
+8507472;Ausserberg;Valais;Ausserberg;BLS AG (bls);7.8441670281;46.31234824494;991.3;170.0;160.0;200.0;True
+8507473;Hohtenn;Valais;Steg-Hohtenn;BLS AG (bls);7.76408688742;46.32245880492;1078.0;60.0;49.0;80.0;False
+8507474;Goppenstein;Valais;Ferden;BLS AG (bls);7.75492126836;46.36770714811;1216.95;670.0;620.0;790.0;True
+8507475;Kandersteg;Bern;Kandersteg;BLS AG (bls);7.6714125588;46.49539665054;1176.0;1400.0;1200.0;1700.0;True
+8507478;Frutigen;Bern;Frutigen;BLS AG (bls);7.65141831454;46.58890754281;779.52;2500.0;2600.0;2200.0;True
+8507480;Reichenbach im Kandertal;Bern;Reichenbach im Kandertal;BLS AG (bls);7.69006267569;46.62512156007;706.36;580.0;610.0;530.0;True
+8507481;Mülenen;Bern;Reichenbach im Kandertal;BLS AG (bls);7.69131664681;46.63802803845;692.3;280.0;280.0;300.0;True
+8507483;Spiez;Bern;Spiez;BLS AG (bls);7.6801030578;46.68639566835;627.82;17700.0;17900.0;17300.0;True
+8507492;Interlaken Ost;Bern;Interlaken;Berner Oberland-Bahnen;7.86900000435;46.69049999619;567.3;14900.0;14500.0;15700.0;True
+8507493;Interlaken West;Bern;Interlaken;BLS AG (bls);7.8514531376;46.68262798036;563.35;6300.0;6500.0;5900.0;True
+8507560;Winteregg;Bern;Lauterbrunnen;Lauterbrunnen-Mürren;7.89604778029;46.58180491089;1578.0;;;;False
+8508001;Schönbühl SBB;Bern;Urtenen-Schönbühl;Swiss Federal Railways SBB;7.49892786502;47.01894216935;527.877;640.0;730.0;420.0;True
+8508003;Hindelbank;Bern;Hindelbank;Swiss Federal Railways SBB;7.54541060076;47.04956376076;516.478;1200.0;1300.0;920.0;True
+8508004;Lyssach;Bern;Lyssach;Swiss Federal Railways SBB;7.58132358183;47.06376091545;517.366;560.0;630.0;420.0;True
+8508005;Burgdorf;Bern;Burgdorf;Swiss Federal Railways SBB;7.62169447355;47.06070072639;533.0;15200.0;17200.0;10900.0;True
+8508006;Wynigen;Bern;Wynigen;Swiss Federal Railways SBB;7.6635068635;47.10517483138;528.0;870.0;980.0;620.0;True
+8508008;Herzogenbuchsee;Bern;Herzogenbuchsee;Swiss Federal Railways SBB;7.70095826853;47.18808612826;464.0;3500.0;4000.0;2400.0;True
+8508051;Bern Felsenau;Bern;Bern;Regionalverkehr Bern-Solothurn;7.44424999405;46.96849999565;528.8;;;;False
+8508052;Bern Tiefenau;Bern;Bern;Regionalverkehr Bern-Solothurn;7.45019999681;46.9727399978;531.7;;;;False
+8508053;Steinibach;Bern;Zollikofen;Regionalverkehr Bern-Solothurn;7.45740186432;46.98441739694;529.0;;;;False
+8508054;Worblaufen;Bern;Ittigen;Regionalverkehr Bern-Solothurn;7.45763000019;46.97883999852;520.2;;;;False
+8508055;Unterzollikofen;Bern;Zollikofen;Regionalverkehr Bern-Solothurn;7.45700991104;46.99173048303;543.1;;;;False
+8508056;Moosseedorf;Bern;Moosseedorf;Regionalverkehr Bern-Solothurn;7.48484999391;47.01614000096;530.1;;;;False
+8508057;Schönbühl RBS;Bern;Urtenen-Schönbühl;Regionalverkehr Bern-Solothurn;7.49780999929;47.02047999824;525.6;;;;False
+8508058;Urtenen;Bern;Urtenen-Schönbühl;Regionalverkehr Bern-Solothurn;7.50064999877;47.02888999983;528.9;;;;False
+8508059;Jegenstorf;Bern;Jegenstorf;Regionalverkehr Bern-Solothurn;7.50777999617;47.04760999399;522.2;;;;False
+8508060;Grafenried;Bern;Fraubrunnen;Regionalverkehr Bern-Solothurn;7.51160999717;47.08012000053;517.3;;;;False
+8508061;Fraubrunnen;Bern;Fraubrunnen;Regionalverkehr Bern-Solothurn;7.52221594389;47.08658155126;496.0;;;;False
+8508062;Büren zum Hof;Bern;Fraubrunnen;Regionalverkehr Bern-Solothurn;7.51880999629;47.09594999394;505.8;;;;False
+8508063;Schalunen;Bern;Fraubrunnen;Regionalverkehr Bern-Solothurn;7.52417000108;47.1101600016;501.3;;;;False
+8508064;Bätterkinden;Bern;Bätterkinden;Regionalverkehr Bern-Solothurn;7.53440000642;47.13001999472;472.4;;;;False
+8508066;Lohn-Lüterkofen;Solothurn;Lohn-Ammannsegg;Regionalverkehr Bern-Solothurn;7.52695999344;47.16299000153;464.1;;;;False
+8508068;Biberist RBS;Solothurn;Biberist;Regionalverkehr Bern-Solothurn;7.55583057208;47.18386000659;458.3;;;;False
+8508070;Oberzollikofen;Bern;Zollikofen;Regionalverkehr Bern-Solothurn;7.46162999571;46.99694999428;557.6;;;;False
+8508071;Schönbühl Shoppyland;Bern;Moosseedorf;Regionalverkehr Bern-Solothurn;7.49362999456;47.01861999567;526.7;;;;False
+8508080;Oberburg;Bern;Burgdorf;BLS AG (ebt);7.6293428672;47.03960954324;546.85;1100.0;1300.0;660.0;True
+8508081;Burgdorf Steinhof;Bern;Burgdorf;BLS AG (ebt);7.61953942949;47.05119989377;544.4;1500.0;1800.0;850.0;True
+8508083;Burgdorf Buchmatt;Bern;Burgdorf;BLS AG (ebt);7.60827597482;47.06545797084;525.05;180.0;230.0;70.0;True
+8508084;Kirchberg-Alchenflüh;Bern;Rüdtligen-Alchenflüh;BLS AG (ebt);7.58106589855;47.08290098077;509.0;770.0;810.0;690.0;True
+8508085;Aefligen;Bern;Aefligen;BLS AG (ebt);7.55925321768;47.09559351073;496.9;410.0;480.0;250.0;True
+8508086;Utzenstorf;Bern;Utzenstorf;BLS AG (ebt);7.55362761912;47.12953714998;474.45;860.0;970.0;610.0;True
+8508087;Wiler;Bern;Wiler bei Utzenstorf;BLS AG (ebt);7.5559333442;47.15229701951;463.05;260.0;300.0;190.0;True
+8508088;Gerlafingen;Solothurn;Gerlafingen;BLS AG (ebt);7.56528939033;47.17056294684;451.85;520.0;570.0;390.0;True
+8508089;Biberist Ost;Solothurn;Biberist;BLS AG (ebt);7.56619090812;47.18060191898;446.55;310.0;320.0;280.0;True
+8508100;Langenthal;Bern;Langenthal;Swiss Federal Railways SBB;7.78471513555;47.21730287149;472.0;10400.0;11900.0;7100.0;True
+8508101;Roggwil-Wynau;Bern;Roggwil (BE);Swiss Federal Railways SBB;7.81491637783;47.25163965188;432.0;320.0;340.0;300.0;True
+8508102;Murgenthal;Aargau;Murgenthal;Swiss Federal Railways SBB;7.8321059408;47.26538126991;414.0;540.0;590.0;420.0;True
+8508103;Rothrist;Aargau;Rothrist;Swiss Federal Railways SBB;7.87939646804;47.30645567945;407.0;1000.0;1200.0;600.0;True
+8508151;Langenthal Gaswerk;Bern;Langenthal;Aare Seeland mobil (rvo);7.7821799997;47.22480000137;463.8;;;;False
+8508152;Hard-Mumenthal;Bern;Aarwangen;Aare Seeland mobil (rvo);7.77487999964;47.2338099952;458.1;;;;False
+8508153;Aarwangen;Bern;Aarwangen;Aare Seeland mobil (rvo);7.76961920518;47.24087528995;435.0;;;;False
+8508154;Aarwangen Schloss;Bern;Aarwangen;Aare Seeland mobil (rvo);7.76362000227;47.24518000241;414.1;;;;False
+8508155;Bannwil;Bern;Bannwil;Aare Seeland mobil (rvo);7.74036000191;47.24437999823;451.8;;;;False
+8508157;Holzhäusern;Bern;Niederbipp;Aare Seeland mobil (rvo);7.71040000047;47.25815999862;461.4;;;;False
+8508158;Scharnageln;Bern;Niederbipp;Aare Seeland mobil (rvo);7.7007899965;47.26309999596;460.4;;;;False
+8508159;Niederbipp Dorf;Bern;Niederbipp;Aare Seeland mobil (rvo);7.69514000126;47.26581999844;461.9;;;;False
+8508161;Kaltenherberg;Bern;Roggwil (BE);Aare Seeland mobil (rvo);7.79959000261;47.23717999742;451.9;;;;False
+8508162;Roggwil Dorf;Bern;Roggwil (BE);Aare Seeland mobil (rvo);7.82234000247;47.23933999889;452.3;;;;False
+8508163;St. Urban;Bern;Roggwil (BE);Aare Seeland mobil (rvo);7.83581696547;47.23175054987;446.9;;;;False
+8508164;St. Urban Ziegelei;Bern;Roggwil (BE);Aare Seeland mobil (rvo);7.83614895163;47.2271986965;449.7;;;;False
+8508168;Roggwil Buchägerten;Bern;Roggwil (BE);Aare Seeland mobil (rvo);7.83194000266;47.23565999692;450.9;;;;False
+8508173;Roggwil Schmitten;Bern;Roggwil (BE);Aare Seeland mobil (rvo);7.81592000307;47.23761999633;455.0;;;;False
+8508174;Gutenburg;Bern;Lotzwil;BLS AG (vhb);7.79329129549;47.18179092673;511.61;49.0;49.0;49.0;False
+8508181;Langenthal Süd;Bern;Langenthal;BLS AG (vhb);7.78019223143;47.2053380786;483.22;270.0;300.0;180.0;True
+8508182;Lotzwil;Bern;Lotzwil;BLS AG (vhb);7.78858905233;47.18949367618;502.2;410.0;480.0;250.0;True
+8508183;Madiswil;Bern;Madiswil;BLS AG (vhb);7.79579323113;47.16704915354;533.96;460.0;540.0;270.0;True
+8508184;Lindenholz;Bern;Madiswil;BLS AG (vhb);7.79046925437;47.15456317678;545.24;49.0;49.0;49.0;False
+8508185;Kleindietwil;Bern;Madiswil;BLS AG (vhb);7.79097469134;47.14630791799;558.14;180.0;220.0;100.0;True
+8508186;Rohrbach;Bern;Rohrbach;BLS AG (vhb);7.81347419328;47.1372634552;583.46;420.0;480.0;280.0;True
+8508187;Huttwil;Bern;Huttwil;BLS AG (vhb);7.84260766282;47.1144900419;637.75;1300.0;1500.0;920.0;True
+8508193;Aarwangen Vorstadt;Bern;Aarwangen;Aare Seeland mobil (rvo);7.77131000119;47.23748999383;436.0;;;;False
+8508200;Worb SBB;Bern;Worb;Swiss Federal Railways SBB;7.56485160662;46.91522998629;607.37;510.0;570.0;370.0;True
+8508201;Tägertschi;Bern;Münsingen;Swiss Federal Railways SBB;7.5808365696;46.88228633355;644.36;120.0;130.0;110.0;True
+8508202;Konolfingen;Bern;Konolfingen;Swiss Federal Railways SBB;7.6213670273;46.88070241891;663.0;7300.0;8300.0;5100.0;True
+8508203;Zäziwil;Bern;Zäziwil;Swiss Federal Railways SBB;7.66288211121;46.89975231197;680.0;600.0;660.0;440.0;True
+8508204;Bowil;Bern;Bowil;Swiss Federal Railways SBB;7.69805352593;46.90004819358;706.0;290.0;300.0;260.0;True
+8508205;Signau;Bern;Signau;Swiss Federal Railways SBB;7.72546316968;46.91963508313;684.0;710.0;810.0;470.0;True
+8508206;Emmenmatt;Bern;Lauperswil;Swiss Federal Railways SBB;7.74729483357;46.94815408466;650.0;190.0;220.0;130.0;True
+8508207;Langnau i.E.;Bern;Langnau im Emmental;Swiss Federal Railways SBB;7.78419743448;46.93924227872;673.0;4400.0;4800.0;3500.0;True
+8508208;Trubschachen;Bern;Trubschachen;Swiss Federal Railways SBB;7.84614196442;46.92169995856;732.0;740.0;760.0;690.0;True
+8508210;Escholzmatt;Luzern;Escholzmatt-Marbach;Swiss Federal Railways SBB;7.93637795766;46.91534823139;853.0;930.0;990.0;780.0;True
+8508211;Schüpfheim;Luzern;Schüpfheim;Swiss Federal Railways SBB;8.01515058924;46.95064735989;716.0;1600.0;1700.0;1300.0;True
+8508212;Hasle LU;Luzern;Hasle (LU);Swiss Federal Railways SBB;8.04698175204;46.97815166318;695.0;130.0;150.0;90.0;True
+8508213;Entlebuch;Luzern;Entlebuch;Swiss Federal Railways SBB;8.06236432888;46.99369335592;684.0;850.0;910.0;700.0;True
+8508215;Wolhusen;Luzern;Wolhusen;Swiss Federal Railways SBB;8.0797541053;47.0554879299;565.0;3100.0;3400.0;2500.0;True
+8508216;Werthenstein;Luzern;Ruswil;Swiss Federal Railways SBB;8.10186324196;47.05702513519;553.0;100.0;100.0;90.0;True
+8508217;Schachen LU;Luzern;Werthenstein;Swiss Federal Railways SBB;8.14325892543;47.03797339717;518.0;380.0;450.0;220.0;True
+8508218;Malters;Luzern;Malters;Swiss Federal Railways SBB;8.18197195178;47.03858422128;496.0;2600.0;2900.0;2000.0;True
+8508219;Luzern Littau;Luzern;Luzern;Swiss Federal Railways SBB;8.25711396709;47.05306432009;456.0;930.0;1100.0;600.0;True
+8508250;Schwäbis;Bern;Steffisburg;BLS AG (ebt);7.61928460179;46.76267036315;556.7;110.0;120.0;110.0;True
+8508251;Steffisburg;Bern;Steffisburg;BLS AG (ebt);7.61516056376;46.77300002;563.25;340.0;390.0;230.0;True
+8508252;Lädeli;Bern;Heimberg;BLS AG (ebt);7.60903167052;46.78161364378;553.05;740.0;840.0;520.0;True
+8508253;Heimberg;Bern;Heimberg;BLS AG (ebt);7.60613070754;46.79087368289;552.1;580.0;660.0;420.0;True
+8508254;Brenzikofen;Bern;Brenzikofen;BLS AG (ebt);7.61074516003;46.81834475607;577.25;130.0;140.0;100.0;True
+8508255;Oberdiessbach;Bern;Oberdiessbach;BLS AG (ebt);7.61780934473;46.8392625361;604.65;980.0;1100.0;660.0;True
+8508256;Stalden i.E.;Bern;Konolfingen;BLS AG (ebt);7.62286900031;46.87089330128;654.15;160.0;180.0;110.0;True
+8508260;Grosshöchstetten;Bern;Grosshöchstetten;BLS AG (ebt);7.63491888331;46.90463136314;742.9;870.0;1000.0;540.0;True
+8508261;Biglen;Bern;Biglen;BLS AG (ebt);7.62670288412;46.92461739244;739.05;480.0;550.0;320.0;True
+8508262;Walkringen;Bern;Walkringen;BLS AG (ebt);7.61889017344;46.94753700709;690.8;330.0;370.0;240.0;True
+8508263;Bigenthal;Bern;Walkringen;BLS AG (ebt);7.62337471465;46.96539813499;675.35;50.0;60.0;49.0;False
+8508264;Schafhausen i.E.;Bern;Hasle bei Burgdorf;BLS AG (ebt);7.65675663838;46.99446739329;605.95;130.0;150.0;90.0;True
+8508265;Hasle-Rüegsau;Bern;Hasle bei Burgdorf;BLS AG (ebt);7.65532241986;47.01626278663;571.2;2400.0;2700.0;1900.0;True
+8508266;Lützelflüh-Goldbach;Bern;Lützelflüh;BLS AG (ebt);7.68227424956;47.00502149055;582.45;970.0;1100.0;680.0;True
+8508267;Ramsei;Bern;Lützelflüh;BLS AG (ebt);7.70993011037;46.9968769975;600.1;1500.0;1700.0;1100.0;True
+8508268;Zollbrück;Bern;Rüderswil;BLS AG (ebt);7.74130056065;46.97571659009;624.85;220.0;230.0;190.0;True
+8508269;Neumühle;Bern;Lauperswil;BLS AG (ebt);7.74936635279;46.9656469699;633.7;80.0;90.0;60.0;True
+8508271;Grünenmatt;Bern;Lützelflüh;BLS AG (ebt);7.72390423295;47.00840034001;623.8;190.0;210.0;150.0;True
+8508272;Sumiswald-Grünen;Bern;Sumiswald;BLS AG (ebt);7.73715325665;47.02544334624;662.4;940.0;1100.0;690.0;True
+8508292;Hüswil;Luzern;Zell (LU);BLS AG (vhb);7.90586295259;47.12857430434;612.61;50.0;50.0;60.0;True
+8508293;Zell LU;Luzern;Zell (LU);BLS AG (vhb);7.92638197003;47.13675415753;588.3;580.0;680.0;330.0;True
+8508294;Gettnau;Luzern;Willisau;BLS AG (vhb);7.97014012587;47.1400944336;545.05;210.0;250.0;110.0;True
+8508295;Willisau;Luzern;Willisau;BLS AG (vhb);7.99671805022;47.12272068099;554.48;1900.0;2200.0;1200.0;True
+8508297;Menznau;Luzern;Menznau;BLS AG (vhb);8.04088738522;47.08342723666;596.06;550.0;630.0;360.0;True
+8508301;Ringgenberg;Bern;Ringgenberg (BE);Zentralbahn;7.89982544778;46.70386125934;595.87;150.0;160.0;150.0;True
+8508302;Niederried;Bern;Niederried bei Interlaken;Zentralbahn;7.92868412087;46.7164309693;578.32;160.0;160.0;170.0;True
+8508303;Oberried am Brienzersee;Bern;Oberried am Brienzersee;Zentralbahn;7.95892631977;46.73655776088;588.89;210.0;220.0;180.0;True
+8508304;Ebligen;Bern;Oberried am Brienzersee;Zentralbahn;7.99003698893;46.75262416275;582.0;49.0;49.0;49.0;False
+8508305;Brienz;Bern;Brienz (BE);Zentralbahn;8.03894632985;46.75484373696;565.95;2400.0;2400.0;2300.0;True
+8508306;Brienzwiler;Bern;Brienzwiler;Zentralbahn;8.09063022707;46.74568469609;574.9;120.0;140.0;70.0;True
+8508308;Meiringen;Bern;Meiringen;Zentralbahn;8.18425121495;46.72733215373;595.22;3400.0;3500.0;3200.0;True
+8508309;Brünig-Hasliberg;Bern;Meiringen;Zentralbahn;8.13865406129;46.75776257156;1001.97;590.0;570.0;650.0;True
+8508310;Lungern;Obwalden;Lungern;Zentralbahn;8.16356472878;46.78635283222;751.85;500.0;490.0;520.0;True
+8508311;Kaiserstuhl OW;Obwalden;Lungern;Zentralbahn;8.17552469217;46.81436654592;698.0;120.0;110.0;140.0;True
+8508312;Giswil;Obwalden;Giswil;Zentralbahn;8.18631769163;46.83653440009;485.0;1500.0;1600.0;1300.0;True
+8508313;Sachseln;Obwalden;Sachseln;Zentralbahn;8.23830577823;46.87096236493;471.0;1100.0;1200.0;970.0;True
+8508314;Sarnen;Obwalden;Sarnen;Zentralbahn;8.24749935852;46.89460627392;473.0;3400.0;3700.0;2700.0;True
+8508316;Alpnach Dorf;Obwalden;Alpnach;Zentralbahn;8.27534492811;46.94059064829;451.6;1400.0;1600.0;950.0;True
+8508317;Alpnachstad;Obwalden;Alpnach;Zentralbahn;8.27784827202;46.95504152743;434.9;690.0;660.0;750.0;True
+8508318;Hergiswil NW;Nidwalden;Hergiswil (NW);Zentralbahn;8.31018280227;46.98261792835;448.86;2400.0;2700.0;1800.0;True
+8508319;Horw;Luzern;Horw;Zentralbahn;8.306992215;47.01748015687;441.42;2700.0;3200.0;1700.0;True
+8508320;Hergiswil Matt;Nidwalden;Hergiswil (NW);Zentralbahn;8.31259294563;46.99407613638;444.7;1000.0;1100.0;840.0;True
+8508321;Luzern Allmend/Messe;Luzern;Luzern;Zentralbahn;8.30323743966;47.0350681799;444.0;2400.0;2200.0;2700.0;True
+8508323;Sarnen Nord;Obwalden;Sarnen;Zentralbahn;8.24912588173;46.90018398364;468.0;680.0;790.0;430.0;True
+8508327;Ewil Maxon;Obwalden;Sachseln;Zentralbahn;8.21859636876;46.86068774986;474.0;330.0;430.0;90.0;True
+8508329;Brienz West;Bern;Brienz (BE);Zentralbahn;8.02037664339;46.75731227768;581.16;150.0;160.0;140.0;True
+8508359;Innertkirchen Kraftwerk (Bahn);Bern;Innertkirchen;Zentralbahn;8.23250916747;46.70226129105;633.33;200.0;240.0;100.0;True
+8508384;Niederrickenbach Station;Nidwalden;Wolfenschiessen;Zentralbahn;8.3959358366;46.9281237019;495.9;100.0;90.0;130.0;True
+8508390;Stansstad;Nidwalden;Stansstad;Zentralbahn;8.33637685649;46.97626677594;436.2;1600.0;1700.0;1300.0;True
+8508391;Stans;Nidwalden;Stans;Zentralbahn;8.36658044639;46.95839692457;450.7;6400.0;7100.0;4900.0;True
+8508392;Dallenwil;Nidwalden;Dallenwil;Zentralbahn;8.39196255118;46.93378065669;485.3;680.0;730.0;580.0;True
+8508394;Wolfenschiessen;Nidwalden;Wolfenschiessen;Zentralbahn;8.39479782106;46.90782264244;511.2;620.0;640.0;570.0;True
+8508395;Innertkirchen Grimseltor;Bern;Innertkirchen;Zentralbahn;8.22959307024;46.70557595485;626.34;340.0;340.0;320.0;True
+8508396;Grafenort;Obwalden;Engelberg;Zentralbahn;8.37242375689;46.87059717595;567.0;90.0;90.0;70.0;True
+8508399;Engelberg;Obwalden;Engelberg;Zentralbahn;8.40250740909;46.81952045957;999.5;2400.0;2100.0;2900.0;True
+8509000;Chur;Graubünden;Chur;Swiss Federal Railways SBB;9.52893773304;46.85308416276;584.6;27600.0;27800.0;27200.0;True
+8509002;Landquart;Graubünden;Landquart;Swiss Federal Railways SBB;9.55404469208;46.96744042836;523.6;17100.0;16700.0;18100.0;True
+8509003;Maienfeld;Graubünden;Maienfeld;Swiss Federal Railways SBB;9.52921608969;47.00384055331;503.6;950.0;1000.0;730.0;True
+8509004;Bad Ragaz;St. Gallen;Bad Ragaz;Swiss Federal Railways SBB;9.50522497811;47.0103094781;502.1;2800.0;3000.0;2300.0;True
+8509006;Chur Wiesental;Graubünden;Chur;Rhätische Bahn;9.5314575124;46.86191091459;577.1;250.0;290.0;150.0;True
+8509050;Chur West;Graubünden;Chur;Rhätische Bahn;9.51477582634;46.85039607429;580.0;670.0;790.0;380.0;True
+8509051;Haldenstein;Graubünden;Chur;Rhätische Bahn;9.53308566007;46.87695956405;562.6;60.0;70.0;49.0;False
+8509053;Untervaz-Trimmis;Graubünden;Trimmis;Rhätische Bahn;9.55917000023;46.91897999543;536.9;920.0;1100.0;530.0;True
+8509054;Zizers;Graubünden;Zizers;Rhätische Bahn;9.55958999371;46.93484000018;530.9;430.0;450.0;400.0;True
+8509055;Igis;Graubünden;Landquart;Rhätische Bahn;9.56475999486;46.94982999674;523.2;560.0;620.0;430.0;True
+8509056;Landquart Ried;Graubünden;Landquart;Rhätische Bahn;9.56086999745;46.95719999741;521.3;330.0;400.0;180.0;True
+8509057;Malans GR;Graubünden;Malans;Rhätische Bahn;9.57372000014;46.97764999695;536.1;400.0;440.0;290.0;True
+8509058;Seewis-Pardisla;Graubünden;Seewis im Prättigau;Rhätische Bahn;9.63254000504;46.97689000216;593.0;80.0;100.0;49.0;False
+8509059;Grüsch;Graubünden;Grüsch;Rhätische Bahn;9.64578000516;46.98048999894;629.3;700.0;800.0;470.0;True
+8509060;Schiers;Graubünden;Schiers;Rhätische Bahn;9.68803886217;46.96802466256;654.08;1800.0;2000.0;1200.0;True
+8509061;Furna;Graubünden;Jenaz;Rhätische Bahn;9.70895000427;46.93977999973;715.9;49.0;49.0;49.0;False
+8509062;Jenaz;Graubünden;Jenaz;Rhätische Bahn;9.71831999439;46.92975000249;723.0;220.0;230.0;190.0;True
+8509063;Fideris;Graubünden;Fideris;Rhätische Bahn;9.73376000172;46.92237000212;743.3;49.0;49.0;49.0;False
+8509064;Küblis;Graubünden;Küblis;Rhätische Bahn;9.77183999848;46.91427999793;809.9;970.0;990.0;930.0;True
+8509065;Saas im Prättigau;Graubünden;Klosters;Rhätische Bahn;9.80994999629;46.90764999438;935.6;130.0;120.0;130.0;True
+8509067;Klosters Dorf;Graubünden;Klosters;Rhätische Bahn;9.87533000513;46.88346999893;1124.3;400.0;400.0;390.0;True
+8509068;Klosters Platz;Graubünden;Klosters;Rhätische Bahn;9.88093999484;46.86921000072;1191.0;2800.0;2700.0;3000.0;True
+8509069;Cavadürli;Graubünden;Klosters;Rhätische Bahn;9.86802999532;46.870400002;1351.0;49.0;49.0;49.0;False
+8509070;Davos Laret;Graubünden;Davos;Rhätische Bahn;9.87339430204;46.84819593641;1521.6;150.0;150.0;170.0;True
+8509071;Davos Wolfgang;Graubünden;Davos;Rhätische Bahn;9.85454999332;46.83195999557;1625.0;210.0;190.0;240.0;True
+8509072;Davos Dorf;Graubünden;Davos;Rhätische Bahn;9.84210999784;46.80972000043;1559.8;1700.0;1700.0;1900.0;True
+8509073;Davos Platz;Graubünden;Davos;Rhätische Bahn;9.82073000458;46.79146999372;1540.4;2600.0;2600.0;2700.0;True
+8509075;Davos Frauenkirch;Graubünden;Davos;Rhätische Bahn;9.79924999382;46.76659999694;1504.8;49.0;49.0;49.0;False
+8509076;Davos Glaris;Graubünden;Davos;Rhätische Bahn;9.77992999436;46.7455699991;1454.5;120.0;120.0;120.0;True
+8509077;Davos Monstein;Graubünden;Davos;Rhätische Bahn;9.76000999675;46.71591000206;1346.9;49.0;49.0;49.0;False
+8509078;Davos Wiesen;Graubünden;Davos;Rhätische Bahn;9.71584000191;46.6954899978;1196.8;80.0;70.0;100.0;True
+8509150;Chur Altstadt;Graubünden;Chur;Rhätische Bahn;9.5317301563;46.84741598326;595.4;220.0;210.0;220.0;True
+8509152;Lüen-Castiel;Graubünden;Arosa;Rhätische Bahn;9.61334000084;46.83170999558;936.8;90.0;90.0;90.0;True
+8509153;St. Peter-Molinis;Graubünden;Arosa;Rhätische Bahn;9.65384999333;46.82914999442;1156.7;110.0;110.0;120.0;True
+8509154;Peist;Graubünden;Arosa;Rhätische Bahn;9.67162999625;46.82949999812;1243.0;70.0;60.0;70.0;True
+8509155;Langwies GR;Graubünden;Arosa;Rhätische Bahn;9.70713999387;46.81932999896;1316.2;230.0;220.0;260.0;True
+8509156;Litzirüti;Graubünden;Arosa;Rhätische Bahn;9.7032699946;46.79794999369;1450.1;230.0;220.0;250.0;True
+8509157;Arosa;Graubünden;Arosa;Rhätische Bahn;9.67932999786;46.78328999666;1738.2;1800.0;1600.0;2100.0;True
+8509167;Trin;Graubünden;Trin;Rhätische Bahn;9.35952000542;46.81656999827;608.8;90.0;80.0;120.0;True
+8509168;Versam-Safien;Graubünden;Safiental;Rhätische Bahn;9.31029999497;46.80737999909;635.3;230.0;210.0;280.0;True
+8509169;Valendas-Sagogn;Graubünden;Safiental;Rhätische Bahn;9.2754599971;46.79179000088;668.7;130.0;120.0;150.0;True
+8509170;Castrisch;Graubünden;Ilanz/Glion;Rhätische Bahn;9.23307999347;46.77848999514;705.4;160.0;170.0;150.0;True
+8509171;Ilanz;Graubünden;Ilanz/Glion;Rhätische Bahn;9.20743999658;46.77534999747;698.6;1700.0;1800.0;1500.0;True
+8509173;Rueun;Graubünden;Ilanz/Glion;Rhätische Bahn;9.145609999;46.77469000104;732.7;90.0;90.0;80.0;True
+8509174;Waltensburg/Vuorz;Graubünden;Breil/Brigels;Rhätische Bahn;9.12015000546;46.76955999488;744.2;49.0;49.0;49.0;False
+8509175;Tavanasa-Breil/Brigels;Graubünden;Breil/Brigels;Rhätische Bahn;9.0624299982;46.75475999716;787.9;270.0;280.0;230.0;True
+8509176;Trun;Graubünden;Trun;Rhätische Bahn;8.99044000229;46.742539997;852.6;300.0;330.0;220.0;True
+8509177;Rabius-Surrein;Graubünden;Sumvitg;Rhätische Bahn;8.95750000388;46.73256999684;928.4;140.0;150.0;120.0;True
+8509178;Sumvitg-Cumpadials;Graubünden;Sumvitg;Rhätische Bahn;8.9310272261;46.7240611657;982.3;110.0;120.0;80.0;True
+8509179;Disentis/Mustér;Graubünden;Disentis/Mustér;Rhätische Bahn;8.85519153356;46.70507945464;1129.7;1700.0;1800.0;1700.0;True
+8509180;Felsberg;Graubünden;Domat/Ems;Rhätische Bahn;9.48128043727;46.84309940562;569.2;220.0;260.0;130.0;True
+8509181;Domat/Ems;Graubünden;Domat/Ems;Rhätische Bahn;9.45316000305;46.83313999876;581.1;1400.0;1600.0;1000.0;True
+8509182;Domat/Ems Werk;Graubünden;Domat/Ems;Rhätische Bahn;9.43038999637;46.8286399943;598.4;340.0;460.0;90.0;True
+8509183;Reichenau-Tamins;Graubünden;Domat/Ems;Rhätische Bahn;9.41254999503;46.82365999752;604.3;850.0;850.0;850.0;True
+8509184;Bonaduz;Graubünden;Bonaduz;Rhätische Bahn;9.39776000565;46.81029000015;659.0;1100.0;1300.0;680.0;True
+8509185;Rhäzüns;Graubünden;Rhäzüns;Rhätische Bahn;9.39926000098;46.79967999844;654.4;930.0;1000.0;690.0;True
+8509186;Rothenbrunnen;Graubünden;Cazis;Rhätische Bahn;9.41960999448;46.76785999378;621.5;170.0;210.0;90.0;True
+8509187;Rodels-Realta;Graubünden;Cazis;Rhätische Bahn;9.43293000325;46.73513999373;639.6;90.0;100.0;80.0;True
+8509188;Cazis;Graubünden;Cazis;Rhätische Bahn;9.43293999777;46.71986999757;657.7;230.0;270.0;140.0;True
+8509189;Thusis;Graubünden;Thusis;Rhätische Bahn;9.44049999424;46.69820000049;696.1;2100.0;2200.0;1900.0;True
+8509192;Tiefencastel;Graubünden;Albula/Alvra;Rhätische Bahn;9.57285999721;46.66387999954;884.2;680.0;690.0;650.0;True
+8509193;Surava;Graubünden;Albula/Alvra;Rhätische Bahn;9.62094000291;46.66685999937;939.1;49.0;49.0;49.0;False
+8509194;Alvaneu;Graubünden;Albula/Alvra;Rhätische Bahn;9.65072999982;46.67124999958;999.8;49.0;49.0;49.0;False
+8509195;Filisur;Graubünden;Bergün Filisur;Rhätische Bahn;9.68228999603;46.67532999684;1080.4;1400.0;1400.0;1400.0;True
+8509197;Bergün/Bravuogn;Graubünden;Bergün Filisur;Rhätische Bahn;9.7467499985;46.63106999557;1372.2;990.0;880.0;1200.0;True
+8509198;Preda;Graubünden;Bergün Filisur;Rhätische Bahn;9.77730999465;46.5881499947;1788.8;570.0;470.0;800.0;True
+8509199;Spinas;Graubünden;Bever;Rhätische Bahn;9.8453299983;46.559839994;1814.8;120.0;110.0;150.0;True
+8509250;Bever;Graubünden;Bever;Rhätische Bahn;9.88847;46.54990999754;1710.3;380.0;370.0;420.0;True
+8509251;Samedan;Graubünden;Samedan;Rhätische Bahn;9.87363000426;46.53376000144;1705.5;3600.0;3500.0;3800.0;True
+8509252;Celerina;Graubünden;Celerina/Schlarigna;Rhätische Bahn;9.85844000586;46.51397999616;1729.9;600.0;570.0;680.0;True
+8509253;St. Moritz;Graubünden;St. Moritz;Rhätische Bahn;9.84639000322;46.49796999592;1775.1;4600.0;4200.0;5400.0;True
+8509254;Punt Muragl;Graubünden;Samedan;Rhätische Bahn;9.88118999519;46.50968000156;1728.6;100.0;90.0;100.0;True
+8509255;Pontresina;Graubünden;Pontresina;Rhätische Bahn;9.89606999641;46.4906500002;1773.8;2000.0;2000.0;2100.0;True
+8509256;La Punt Chamues-ch;Graubünden;La Punt Chamues-ch;Rhätische Bahn;9.92332999805;46.57867000127;1699.7;180.0;180.0;200.0;True
+8509257;Madulain;Graubünden;Madulain;Rhätische Bahn;9.93834999422;46.58707999842;1696.8;150.0;140.0;150.0;True
+8509258;Zuoz;Graubünden;Zuoz;Rhätische Bahn;9.96146000644;46.59995000166;1691.8;680.0;670.0;690.0;True
+8509259;S-chanf;Graubünden;S-chanf;Rhätische Bahn;9.98181999664;46.61193999882;1670.6;290.0;290.0;300.0;True
+8509260;Cinuos-chel-Brail;Graubünden;S-chanf;Rhätische Bahn;10.02167100951;46.63776189108;1628.6;90.0;90.0;90.0;True
+8509262;Zernez;Graubünden;Zernez;Rhätische Bahn;10.08994000603;46.69767000073;1471.0;980.0;950.0;1100.0;True
+8509263;Susch;Graubünden;Zernez;Rhätische Bahn;10.07933000327;46.75208000236;1434.9;230.0;230.0;240.0;True
+8509264;Lavin;Graubünden;Zernez;Rhätische Bahn;10.11097000072;46.76956999734;1432.0;280.0;280.0;290.0;True
+8509265;Guarda;Graubünden;Scuol;Rhätische Bahn;10.15053000079;46.77152000111;1432.0;230.0;230.0;230.0;True
+8509266;Ardez;Graubünden;Scuol;Rhätische Bahn;10.20105000202;46.77354000086;1432.2;340.0;340.0;360.0;True
+8509267;Ftan Baraigla;Graubünden;Scuol;Rhätische Bahn;10.25798999413;46.78765000167;1334.6;49.0;49.0;49.0;False
+8509268;Scuol-Tarasp;Graubünden;Scuol;Rhätische Bahn;10.28621999444;46.79376999625;1286.6;1700.0;1600.0;1800.0;True
+8509269;Sagliains;Graubünden;Zernez;Rhätische Bahn;10.09657999378;46.76339999452;1432.4;1300.0;1300.0;1400.0;True
+8509350;Celerina Staz;Graubünden;Celerina/Schlarigna;Rhätische Bahn;9.86512000071;46.50964999965;1717.0;80.0;70.0;100.0;True
+8509351;Punt Muragl Staz;Graubünden;Celerina/Schlarigna;Rhätische Bahn;9.88041000543;46.50734999726;1736.1;49.0;49.0;49.0;False
+8509352;Surovas;Graubünden;Pontresina;Rhätische Bahn;9.90568000621;46.48562999332;1823.9;140.0;140.0;140.0;True
+8509353;Morteratsch;Graubünden;Pontresina;Rhätische Bahn;9.94040999534;46.45072000226;1896.9;400.0;380.0;430.0;True
+8509354;Bernina Suot;Graubünden;Pontresina;Rhätische Bahn;9.96938999623;46.44484999575;2052.4;60.0;50.0;60.0;True
+8509356;Ospizio Bernina;Graubünden;Poschiavo;Rhätische Bahn;10.01969999506;46.40875999952;2253.3;420.0;360.0;560.0;True
+8509357;Alp Grüm;Graubünden;Poschiavo;Rhätische Bahn;10.03114000202;46.37474999357;2091.2;660.0;600.0;820.0;True
+8509358;Cavaglia;Graubünden;Poschiavo;Rhätische Bahn;10.04413999727;46.36431999644;1692.9;270.0;220.0;380.0;True
+8509359;Cadera;Graubünden;Poschiavo;Rhätische Bahn;10.05137000307;46.34526999758;1383.0;49.0;49.0;49.0;False
+8509361;Poschiavo;Graubünden;Poschiavo;Rhätische Bahn;10.05431999788;46.32479999621;1014.2;810.0;760.0;900.0;True
+8509363;Li Curt;Graubünden;Poschiavo;Rhätische Bahn;10.06319999514;46.31119000146;988.0;49.0;49.0;49.0;False
+8509364;Le Prese;Graubünden;Poschiavo;Rhätische Bahn;10.07820130734;46.2911442904;968.0;220.0;210.0;260.0;True
+8509365;Miralago;Graubünden;Poschiavo;Rhätische Bahn;10.09954999349;46.2731199936;964.6;80.0;70.0;100.0;True
+8509366;Brusio;Graubünden;Brusio;Rhätische Bahn;10.12525999439;46.25930999688;779.6;90.0;90.0;90.0;True
+8509367;Campascio;Graubünden;Brusio;Rhätische Bahn;10.13169000567;46.24466999647;636.7;49.0;49.0;49.0;False
+8509368;Campocologno;Graubünden;Brusio;Rhätische Bahn;10.14206000572;46.23322000105;552.6;60.0;50.0;60.0;True
+8509369;Tirano;;;Rhätische Bahn;10.16664577201;46.21575174794;441.0;2400.0;2300.0;2800.0;True
+8509373;Bernina Lagalb;Graubünden;Pontresina;Rhätische Bahn;9.99153601601;46.43632903599;2099.76;90.0;100.0;60.0;True
+8509400;Oberriet SG;St. Gallen;Oberriet (SG);Swiss Federal Railways SBB;9.57137704004;47.32348322399;420.7;350.0;420.0;200.0;True
+8509401;Rüthi SG;St. Gallen;Rüthi (SG);Swiss Federal Railways SBB;9.53605686431;47.28673909329;425.9;140.0;160.0;80.0;True
+8509402;Salez-Sennwald;St. Gallen;Sennwald;Swiss Federal Railways SBB;9.50233572526;47.24144907894;436.3;100.0;120.0;60.0;True
+8509404;Buchs SG;St. Gallen;Buchs (SG);Swiss Federal Railways SBB;9.47863668892;47.16841197936;447.2;5600.0;6200.0;4300.0;True
+8509406;Sevelen;St. Gallen;Sevelen;Swiss Federal Railways SBB;9.49383527244;47.12537476557;458.2;250.0;310.0;110.0;True
+8509411;Sargans;St. Gallen;Sargans;Swiss Federal Railways SBB;9.44626047466;47.04482351441;481.6;11600.0;12200.0;10100.0;True
+8509412;Mels;St. Gallen;Mels;Swiss Federal Railways SBB;9.4177582723;47.05374625631;486.7;350.0;390.0;240.0;True
+8509413;Flums;St. Gallen;Flums;Swiss Federal Railways SBB;9.34792924789;47.09661665326;441.0;560.0;630.0;400.0;True
+8509414;Walenstadt;St. Gallen;Walenstadt;Swiss Federal Railways SBB;9.31298145333;47.11987360855;426.1;1900.0;2000.0;1600.0;True
+8509416;Unterterzen;St. Gallen;Quarten;Swiss Federal Railways SBB;9.25501837741;47.1138568707;426.1;620.0;460.0;970.0;True
+8509417;Murg;St. Gallen;Quarten;Swiss Federal Railways SBB;9.2150418825;47.1131748554;427.2;280.0;280.0;280.0;True
+8509418;Mühlehorn;Glarus;Glarus Nord;Swiss Federal Railways SBB;9.1730180523;47.11784024455;426.2;180.0;180.0;170.0;True
+8510470;Matten b. Interlaken;Bern;Matten bei Interlaken;Berner Oberland-Bahnen;7.87286037877;46.67413729034;575.0;;;;False
+8510670;Trélex dépôt;Vaud;Trélex;Nyon-St-Cergue-Morez;6.208841;46.406611;477.52;;;;False
+8515992;Baar Neufeld;Zug;Baar;Swiss Federal Railways SBB;8.51778078343;47.1884929513;435.0;870.0;1200.0;160.0;True
+8515993;Baar Lindenpark;Zug;Baar;Swiss Federal Railways SBB;8.51705846014;47.18313669447;428.0;1200.0;1500.0;530.0;True
+8515994;Zug Fridbach;Zug;Zug;Swiss Federal Railways SBB;8.51229178194;47.15658113784;432.0;300.0;350.0;180.0;True
+8515995;Cham Alpenblick;Zug;Cham;Swiss Federal Railways SBB;8.47146327537;47.18228240397;416.0;1500.0;1700.0;970.0;True
+8515996;Hünenberg Zythus;Zug;Hünenberg;Swiss Federal Railways SBB;8.45009524706;47.17360756726;420.0;1300.0;1500.0;790.0;True
+8515997;Root D4;Luzern;Root;Swiss Federal Railways SBB;8.37376042104;47.10482538751;417.0;1100.0;1300.0;430.0;True
+8516154;Bern Brünnen Westside;Bern;Bern;BLS AG (bn);7.3752780803;46.94403700837;558.5;3000.0;3100.0;2700.0;True
+8516155;Lancy-Pont-Rouge;Genève;Lancy;Swiss Federal Railways SBB;6.12494699563;46.18594529978;385.0;7300.0;9400.0;2600.0;True
+8516161;Bern Wankdorf;Bern;Bern;Swiss Federal Railways SBB;7.46547780088;46.96782576596;548.5;13200.0;15900.0;7200.0;True
+8516176;Klingnau;Aargau;Klingnau;Swiss Federal Railways SBB;8.25029485286;47.58155722168;321.707;730.0;860.0;450.0;True
+8516187;Zug Schutzengel;Zug;Zug;Swiss Federal Railways SBB;8.50724220932;47.1737249217;421.0;1300.0;1400.0;1100.0;True
+8516218;Winterthur Hegi;Zürich;Winterthur;Swiss Federal Railways SBB;8.76894715007;47.50148547384;461.184;1100.0;1300.0;600.0;True
+8516219;Mellingen Heitersberg;Aargau;Mellingen;Swiss Federal Railways SBB;8.27636325121;47.42807508777;397.0;3000.0;3800.0;1300.0;True
+8516270;Arbon Seemoosriet;Thurgau;Arbon;Swiss Federal Railways SBB;9.42501951919;47.52119525825;399.889;540.0;580.0;450.0;True
+8516271;Steinach;St. Gallen;Steinach;Swiss Federal Railways SBB;9.44200338685;47.50095591388;402.022;450.0;490.0;340.0;True
+8516272;Genève-Champel;Genève;Genève;Swiss Federal Railways SBB;6.15349872414;46.1921933443;389.72;5200.0;6400.0;2400.0;True
+8516273;Genève-Eaux-Vives;Genève;Genève;Swiss Federal Railways SBB;6.16656958816;46.20144540652;385.5;8400.0;9900.0;5100.0;True
+8516274;Chêne-Bourg;Genève;Chêne-Bourg;Swiss Federal Railways SBB;6.19733346412;46.196600169;414.0;4800.0;5700.0;2900.0;True
+8516283;Genève-Sécheron;Genève;Genève;Swiss Federal Railways SBB;6.1445611504;46.2224403085;390.4;2200.0;2900.0;620.0;True
+8516350;Buchrain;Luzern;Ebikon;Swiss Federal Railways SBB;8.35665850186;47.09364991511;419.0;2300.0;2600.0;1500.0;True
+8516351;Kriens Mattenhof;Luzern;Kriens;Zentralbahn;8.30233732059;47.0265755425;443.0;3200.0;3600.0;2300.0;True
+8516353;Baldegg Kloster;Luzern;Hochdorf;Swiss Federal Railways SBB;8.28059754295;47.18061602969;480.0;500.0;680.0;100.0;True
+8516354;Wolhusen Weid;Luzern;Wolhusen;BLS AG (vhb);8.06916674948;47.0655448759;601.03;220.0;240.0;180.0;True
+8516444;Kerzers Papiliorama;Fribourg;Kerzers;Swiss Federal Railways SBB;7.199281448;46.989773736;437.6;210.0;210.0;220.0;True
+8516450;Unterkulm Nord;Aargau;Unterkulm;Aargau Verkehr AG;8.11304954044;47.31476487134;461.0;;;;False
+8517112;Walchwil Hörndli;Zug;Walchwil;Swiss Federal Railways SBB;8.50477763473;47.10846112075;438.0;110.0;120.0;60.0;True
+8517131;Pratteln Salina Raurica;Basel-Landschaft;Pratteln;Swiss Federal Railways SBB;7.70988907602;47.53058808616;275.0;880.0;1000.0;590.0;True
+8517142;Lancy-Bachet;Genève;Lancy;Swiss Federal Railways SBB;6.12936213667;46.17433286791;383.65;6600.0;7800.0;3900.0;True
+8517336;Luzern Verkehrshaus;Luzern;Luzern;Swiss Federal Railways SBB;8.33729732768;47.05393231647;439.0;860.0;850.0;860.0;True
+8517376;Dietikon Schöneggstrasse;Zürich;Dietikon;Aargau Verkehr AG;8.40098815848;47.40196130914;393.9;;;;False
+8517377;Bibenlos-Sonnenhof;Aargau;Bremgarten (AG);Aargau Verkehr AG;8.35027798183;47.35379141387;398.92;;;;False
+8517484;Aigle-Parc Aventure;Vaud;Aigle;Transports Publics du Chablais;6.98621999412;46.31530000113;488.1;;;;False
+8517485;Sur-le-Buis;Vaud;Ormont-Dessus;Transports Publics du Chablais;7.1006299995;46.35330000206;1123.7;;;;False
+8517519;Stabio;Ticino;Stabio;Swiss Federal Railways SBB;8.94394221429;45.8497096554;344.0;750.0;950.0;310.0;True
+8517527;Zug Casino;Zug;Zug;Swiss Federal Railways SBB;8.51520272861;47.16231812521;432.0;230.0;280.0;110.0;True
+8518100;St. Gallen Birnbäumen;St. Gallen;St. Gallen;Appenzeller Bahnen (ab);9.39298185753;47.42583344121;724.7;;;;False
+8518243;Beringerfeld;Schaffhausen;Beringen;Deutsche Bahnhöfe im Kt. Schaffhausen;8.59218197398;47.69537157187;440.0;;;;False
+8518452;Prilly-Malley;Vaud;Prilly;Swiss Federal Railways SBB;6.60262893925;46.52669197652;430.4;4600.0;5400.0;2800.0;True
+8518459;Steinhausen Rigiblick;Zug;Steinhausen;Swiss Federal Railways SBB;8.47970387299;47.18786377024;416.37;920.0;1100.0;460.0;True
+8518475;Mendrisio S. Martino;Ticino;Mendrisio;Swiss Federal Railways SBB;8.98309272048;45.87722019928;319.0;1000.0;1100.0;870.0;True
+8518690;Niederbipp Industrie;Bern;Niederbipp;Aare Seeland mobil (snb);7.70317000505;47.27863999509;462.9;;;;False
+8518749;Lyss Grien;Bern;Lyss;Swiss Federal Railways SBB;7.29650350222;47.07268456551;442.229;200.0;220.0;140.0;True
+8518771;Biel/Bienne Bözingenfeld/Champ;Bern;Biel/Bienne;Swiss Federal Railways SBB;7.29464813274;47.15838230221;444.25;560.0;730.0;170.0;True
+8518885;Täsch Monte Rosa;Valais;Täsch;Matterhorn Gotthard Bahn (bvz);7.77476005576;46.07453404584;1431.0;;;;False
+8518924;Neuhausen Rheinfall;Schaffhausen;Neuhausen am Rheinfall;Swiss Federal Railways SBB;8.61694647232;47.67980492623;402.4;1200.0;1100.0;1400.0;True
+8518963;Solothurn Allmend;Solothurn;Solothurn;Swiss Federal Railways SBB;7.52142705346;47.20888629886;433.0;470.0;530.0;350.0;True
+8519077;St-Cergue Les Cheseaux;Vaud;Saint-Cergue;Nyon-St-Cergue-Morez;6.1472799941;46.44688000226;1101.7;;;;False
+8519133;Fribourg/Freiburg Poya;Fribourg;Fribourg;Swiss Federal Railways SBB;7.15648590497;46.81557959482;614.0;670.0;700.0;580.0;True
+8519306;St. Gallen Güterbahnhof;St. Gallen;St. Gallen;Appenzeller Bahnen (ab);9.36246709863;47.41730092038;676.25;;;;False
+8519370;Bernina Diavolezza;Graubünden;Pontresina;Rhätische Bahn;9.98229000518;46.44178999938;2081.7;300.0;300.0;320.0;True
+8519685;Aarau Torfeld;Aargau;Aarau;Aargau Verkehr AG;8.06263971148;47.39356285575;383.0;;;;False
+8530011;Les Coeudres-Est;Neuchâtel;La Sagne;Transports Publics Neuchâtelois SA (cmn);6.78953104382;47.02879662064;1012.4;;;;False
+8530012;Petit-Martel-Est;Neuchâtel;Les Ponts-de-Martel;Transports Publics Neuchâtelois SA (cmn);6.76680466734;47.01458739008;1004.3;;;;False
+8530064;Bex Pont-Neuf;Vaud;Bex;Transports Publics du Chablais;7.02082000487;46.25052000203;432.3;;;;False
+8530066;Grand-Moulin;Vaud;Bex;Transports Publics du Chablais;7.02321999813;46.25262000009;439.6;;;;False
+8530067;Les Salines;Vaud;Bex;Transports Publics du Chablais;7.02763999582;46.25483999901;458.0;;;;False
+8530225;Le Stand;Neuchâtel;Les Ponts-de-Martel;Transports Publics Neuchâtelois SA (cmn);6.74525325973;47.00501333769;1004.6;;;;False
+8530246;Foyer Dents-du-Midi;Vaud;Bex;Transports Publics du Chablais;7.02984000592;46.25638999965;471.7;;;;False
+8530260;Le Locle Le Chalet;Neuchâtel;Le Locle;Transports Publics Neuchâtelois SA (cmn);6.73883786796;47.05583786201;944.0;;;;False
+8530261;Bois-de-Chexbres;Vaud;Blonay - Saint-Légier;Montreux-Vevey-Riviera (cev);6.90152999463;46.47327999987;835.8;49.0;49.0;49.0;False
+8530262;St-Eloi;Vaud;Orbe;Transports Vallée de Joux-Yverdon-Ste-Croix;6.53205467271;46.72062136859;460.0;;;;False
+8530263;Yverdon William Barbey;Vaud;Yverdon-les-Bains;Transports Vallée de Joux-Yverdon-Ste-Croix;6.63167626487;46.78899199121;435.5;;;;False
+8530303;Les Fumeaux;Valais;Martigny;Transports de Martigny et Régions (mc);7.06460813618;46.11008035108;463.0;;;;False
+8530334;La Médettaz;Valais;Salvan;Transports de Martigny et Régions (mc);7.00783909249;46.10883370268;1040.0;;;;False
+8530355;Les Arnoux;Vaud;Ollon;Transports Publics du Chablais;6.99678000255;46.29130999872;429.8;;;;False
+8530366;Pont du Rhône;Valais;Monthey;Transports Publics du Chablais;6.96178000071;46.27614999414;397.2;;;;False
+8530378;Les Neys;Valais;Troistorrents;Transports Publics du Chablais;6.9247799983;46.23602000041;727.9;;;;False
+8530430;Route de Morgins;Valais;Troistorrents;Transports Publics du Chablais;6.92142044946;46.23215132208;755.0;;;;False
+8530463;En Charnet;Valais;Val-d'Illiez;Transports Publics du Chablais;6.88701000512;46.19701999568;921.8;;;;False
+8530523;La Ruaz;Vaud;Bex;Transports Publics du Chablais;7.00771999899;46.25307999606;420.2;;;;False
+8530708;Neuchâtel Evole;Neuchâtel;Neuchâtel;Transports Publics Neuchâtelois SA (tn);6.92337449857;46.98965148251;433.0;;;;False
+8530709;Neuchâtel Champ-Bougin;Neuchâtel;Neuchâtel;Transports Publics Neuchâtelois SA (tn);6.91223739117;46.98456338819;432.0;;;;False
+8530710;Neuchâtel Serrières Ruau;Neuchâtel;Neuchâtel;Transports Publics Neuchâtelois SA (tn);6.89503742119;46.97973713011;432.0;;;;False
+8530711;Colombier NE Allées Littorail;Neuchâtel;Milvignes;Transports Publics Neuchâtelois SA (tn);6.86950855573;46.96806812903;434.0;;;;False
+8530712;Colombier NE Les Chézards;Neuchâtel;Milvignes;Transports Publics Neuchâtelois SA (tn);6.86380194542;46.96076580933;436.0;;;;False
+8530713;Boudry Tuilière;Neuchâtel;Boudry;Transports Publics Neuchâtelois SA (tn);6.84283013683;46.95146480533;443.5;;;;False
+8530760;Aareschlucht West;Bern;Meiringen;Zentralbahn;8.19857711981;46.72124745314;604.03;240.0;200.0;310.0;True
+8530783;Chez-le-Maître-Ecoles;Vaud;Le Chenit;Transports Vallée de Joux-Yverdon-Ste-Croix;6.22215117049;46.59946064788;1015.0;310.0;420.0;60.0;True
+8530789;Bioggio Molinazzo;Ticino;Bioggio;Lugano-Ponte Tresa;8.91401000202;46.01235999719;286.6;;;;False
+8530790;Sorengo Laghetto;Ticino;Sorengo;Lugano-Ponte Tresa;8.93334000617;45.99681000031;349.7;;;;False
+8530799;Meiringen Alpbach;Bern;Meiringen;Zentralbahn;8.19001455159;46.72311132982;602.47;150.0;140.0;180.0;True
+8530800;Innertkirchen Unterwasser;Bern;Innertkirchen;Zentralbahn;8.22607936514;46.70809694291;624.34;49.0;49.0;49.0;False
+8587727;Les Ripes;Vaud;Etagnières;Lausanne-Echallens-Bercher;6.60806000514;46.59218999686;623.7;;;;False
+8588122;Landschlacht;Thurgau;Münsterlingen;Swiss Federal Railways SBB;9.24694872402;47.62889135808;406.4;260.0;270.0;230.0;True
+8588193;Gryon Bois-Gentil;Vaud;Gryon;Transports Publics du Chablais;7.06754999823;46.2777299982;1175.4;;;;False
+8589198;Worbboden;Bern;Worb;Regionalverkehr Bern-Solothurn;7.55952527022;46.93392908041;573.0;;;;False
+8593467;Pont de Fayot;Valais;Troistorrents;Transports Publics du Chablais;6.90373000534;46.21901999536;797.3;;;;False
+8593772;Gryon-Chalméry;Vaud;Bex;Transports Publics du Chablais;7.05190999544;46.27363999411;1093.7;;;;False
+8593773;Les Bovets;Vaud;Ormont-Dessus;Transports Publics du Chablais;7.14163999875;46.35546000025;1156.2;;;;False
+8593774;La Faverge;Vaud;Ormont-Dessus;Transports Publics du Chablais;7.14712000292;46.35492999401;1147.3;;;;False
+8593775;Les Nicolets;Vaud;Ormont-Dessus;Transports Publics du Chablais;7.11953999971;46.35446000093;1096.6;;;;False
+8593776;Plan Morier;Vaud;Ormont-Dessus;Transports Publics du Chablais;7.12919999674;46.35356999777;1108.6;;;;False
+8594258;Langenthal Industrie Nord;Bern;Langenthal;Aare Seeland mobil (rvo);7.78647123805;47.22855696117;458.0;;;;False
+8595245;Areuse Littorail;Neuchâtel;Boudry;Transports Publics Neuchâtelois SA (tn);6.85305687511;46.95449517947;438.2;;;;False

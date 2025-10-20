@@ -1,4 +1,4 @@
-# How to create the four represenations of the Swiss railway network
+# How to create the four representations of the Swiss railway network
 
 This repository allows you to fully reproduce the four representations of the Swiss railway network.
 

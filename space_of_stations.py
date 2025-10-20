@@ -157,13 +157,19 @@ def main():
     stations_in_edgelist = set(sum(list(edges.keys()), ()))
 
     # Reduces nodes dataframe to only places in edgelist
-    nodes = ds[ds['STATION_NAME'].isin(stations_in_edgelist)]
+    nodes = ds[ds['STATION_NAME'].isin(stations_in_edgelist)].copy()
     
     # Impute missing elevation for Tirano
-    nodes.loc[nodes['STATION_NAME'] == "Tirano", "ELEVATION"] = 441    
+    nodes.loc[nodes['STATION_NAME'] == "Tirano", "ELEVATION"] = 441
+    
+    # Columns to be checked for new column 'TRAFFIC_VALID'.
+    cols = ['AVG_DAILY_TRAFFIC', 'AVG_DAILY_TRAFFIC_WEEKDAYS', 'AVG_DAILY_TRAFFIC_WEEKENDS']
+    
+    # Create a column that indicates whether the average traffic information is valid or not.
+    nodes.loc[:, 'TRAFFIC_VALID'] = ~(nodes[cols].isna().all(axis=1) | (nodes[cols] == 49).any(axis=1))
     
     # Export node list
-    nodes.sort_values("BPUIC").to_csv("nodelist.csv", sep = ';', encoding = 'utf-8', index = False)
+    nodes.sort_values("BPUIC").to_csv("clean/nodelist.csv", sep = ';', encoding = 'utf-8', index = False)
 
     # Transform edge dict to nested list and replace all station names with their BPUIC
     edges = [[k[0], k[1], v[0], v[1]] for k,v in edges.items()]
@@ -319,7 +325,7 @@ def main():
     edges.loc[(edges['BPUIC1'] == 8515993) & (edges['BPUIC2'] == 8502204), 'DISTANCE_EXACT'] = 1.0593
 
     # Export edge list
-    edges.to_csv("edgelist_SoSta.csv", sep = ';', encoding = 'utf-8', index = False)
+    edges.to_csv("clean/edgelist_SoSta.csv", sep = ';', encoding = 'utf-8', index = False)
 
 # -------------------------------------------------------------------------------------------------------
 if __name__ == "__main__":

@@ -128,13 +128,19 @@ def main():
     stations_in_edgelist = set([e for sub in edgelist for e in sub[:2]])
 
     # Reduces nodes dataframe to only places in edgelist
-    nodes = ds[ds['STATION_NAME'].isin(stations_in_edgelist)]
+    nodes = ds[ds['STATION_NAME'].isin(stations_in_edgelist)].copy()
     
     # Impute missing elevation for Tirano
     nodes.loc[nodes['STATION_NAME'] == "Tirano", "ELEVATION"] = 441
     
+    # Columns to be checked for new column 'TRAFFIC_VALID'.
+    cols = ['AVG_DAILY_TRAFFIC', 'AVG_DAILY_TRAFFIC_WEEKDAYS', 'AVG_DAILY_TRAFFIC_WEEKENDS']
+    
+    # Create a column that indicates whether the average traffic information is valid or not.
+    nodes.loc[:, 'TRAFFIC_VALID'] = ~(nodes[cols].isna().all(axis=1) | (nodes[cols] == 49).any(axis=1))
+    
     # Export node list
-    nodes.sort_values("BPUIC").to_csv("nodelist.csv", sep = ';', encoding = 'utf-8', index = False)
+    nodes.sort_values("BPUIC").to_csv("clean/nodelist.csv", sep = ';', encoding = 'utf-8', index = False)
 
     # Create a node dict with BPUIC as values
     node_dict = dict(zip(nodes.STATION_NAME, nodes.BPUIC))
@@ -146,7 +152,7 @@ def main():
     edges = pd.DataFrame(edges, columns = ['BPUIC1','BPUIC2','START','DURATION'])
 
     # Export edge list
-    edges.to_csv("edgelist_temporal.csv", sep = ';', encoding = 'utf-8', index = False)
+    edges.to_csv("clean/edgelist_temporal.csv", sep = ';', encoding = 'utf-8', index = False)
 
 # -------------------------------------------------------------------------------------------------------
 if __name__ == "__main__":
