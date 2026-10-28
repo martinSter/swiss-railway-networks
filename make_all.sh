@@ -5,7 +5,7 @@ set -x  # Print commands as they run for debugging
 # -----------------------------------------
 # 1. Create and activate virtual environment
 # -----------------------------------------
-VENV_DIR=".venv"
+VENV_DIR="${VENV_DIR:-.venv}"
 
 if [ ! -d "$VENV_DIR" ]; then
   echo "Creating virtual environment..."
@@ -20,7 +20,6 @@ source "$VENV_DIR/bin/activate"
 # -----------------------------------------
 if [ -f "requirements.txt" ]; then
   echo "Installing dependencies from requirements.txt..."
-  pip install --upgrade pip
   pip install -r requirements.txt
 else
   echo "No requirements.txt found — skipping dependency installation."

@@ -2,3 +2,4 @@
 __pycache__/
 !raw/*.csv
 raw/2025-03-05_istdaten.csv
+raw/2025-05-07_istdaten.csv

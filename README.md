@@ -9,10 +9,10 @@ The source data our work is based on can be found here:
 * "Number of Passengers Boarding and Alighting": https://data.opentransportdata.swiss/en/dataset/einundaus
 * "Line (Operation Points)": https://data.sbb.ch/explore/dataset/linie-mit-betriebspunkten/information/
 
-We have included all source datasets we used in the `raw/` subdirectory of this repository except for the "Actual Data" source dataset which is too large to be included on GitHub. But you can download this dataset from the first link above. We have used the data from March 5, 2025.
+We have included all source datasets we used in the `raw/` subdirectory of this repository except for the "Actual Data" source dataset which is too large to be included on GitHub. But you can download this dataset from the first link above. We have used the data from March 5, 2025 (saved as `raw/2025-03-05_istdaten.csv`). On that day, the line Travers - Buttes was only served by buses. For all trips stopping on this line, we therefore use the data from May 7, 2025 (also a Wednesday, saved as `raw/2025-05-07_istdaten.csv`) instead, shifted to March 5, 2025.
 
 If you simply want to rerun the processing of the raw data and get the CSV files for the four representations, you can run `./make_all.sh`. This bash script will create the virtual environment and install all necessary libraries (according to `requirements.txt`). It will then activate the virtual environment and run all python scripts and create the data. Note that the bash script will also create checksums for the CSV files so you can check if your CSV files are identical to the ones we provide.
 
-Please note that the processing of the raw data may take about 20 minutes.
+Please note that the processing of the raw data may take a few minutes.
 
 The final CSV files will be written into the directory `clean/` (note that we decided to commit the latest version of the data to the repository).

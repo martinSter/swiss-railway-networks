@@ -5,234 +5,76 @@
 Script Name: space_of_stations.py
 Description: This script creates the space-of-stations network representation.
 Author: Martin Sterchi
-Date: 2025-07-23
+Date: 2026-10-28
 """
 
-import warnings
 import pandas as pd
 import numpy as np
 import geopy.distance
 from collections import Counter, defaultdict
-
-warnings.filterwarnings("ignore")
-
-# Function to sort entries within a group in ascending order of ABFAHRTSZEIT
-def sort_data(group):
-    return group.sort_values('ABFAHRTSZEIT', ascending = True)
-
-# Function to sort entries within a group in ascending order of KM
-def sort_data2(group):
-    return group.sort_values('KM', ascending = True)
+from preprocessing import load_data, make_nodelist
 
 # Function to check whether elements a and b are NOT adjacent in lst.
 def is_shortcut(lst, a, b):
     return not any((x, y) == (a, b) or (x, y) == (b, a) for x, y in zip(lst, lst[1:]))
 
-# Define a function to compute direct distance.
-def compute_distance(data, station1, station2):
-    return geopy.distance.geodesic(
-        data.loc[data['STATION_NAME'] == station1, "coord"].item(), 
-        data.loc[data['STATION_NAME'] == station2, "coord"].item()).km
-            
 # Main function to run the procedure
 def main():
-    
+
     # -----------------------------------------------------------------------
     # We first repeat the procedure to get the space-of-stops representation.
-    
-    # Load the data ("Actual Data")
-    df = pd.read_csv('raw/2025-03-05_istdaten.csv', sep=";", low_memory=False)
-    
-    # Impute 'Zug'
-    df.loc[df["PRODUKT_ID"].isna(), "PRODUKT_ID"] = 'Zug'
-    
-    # Convert BETRIEBSTAG to date format
-    df['BETRIEBSTAG'] = pd.to_datetime(df['BETRIEBSTAG'], format = "%d.%m.%Y")
-    
-    # Convert ANKUNFTSZEIT, AN_PROGNOSE, ABFAHRTSZEIT, AB_PROGNOSE to datetime format
-    df['ANKUNFTSZEIT'] = pd.to_datetime(df['ANKUNFTSZEIT'], format = "%d.%m.%Y %H:%M")
-    df['AN_PROGNOSE'] = pd.to_datetime(df['AN_PROGNOSE'], format = "%d.%m.%Y %H:%M:%S")
-    df['ABFAHRTSZEIT'] = pd.to_datetime(df['ABFAHRTSZEIT'], format = "%d.%m.%Y %H:%M")
-    df['AB_PROGNOSE'] = pd.to_datetime(df['AB_PROGNOSE'], format = "%d.%m.%Y %H:%M:%S")
-    
-    # First we reduce to only trains
-    df = df[df['PRODUKT_ID'] == "Zug"]
-    # Filter out all entries with FAELLT_AUS_TF == True
-    df = df[df['FAELLT_AUS_TF'] == False]
-    # Filter out all entries with LINIEN_TEXT == "ATZ" (car trains)
-    df = df[df['LINIEN_TEXT'] != "ATZ"]
-    
-    # Merge stations in Brig, Lugano, Locarno
-    df.loc[df['HALTESTELLEN_NAME'] == "Brig Bahnhofplatz", "BPUIC"] = 8501609
-    df.loc[df['HALTESTELLEN_NAME'] == "Lugano FLP", "BPUIC"] = 8505300
-    df.loc[df['HALTESTELLEN_NAME'] == "Locarno FART", "BPUIC"] = 8505400
-    df.loc[df['HALTESTELLEN_NAME'] == "Brig Bahnhofplatz", "HALTESTELLEN_NAME"] = "Brig"
-    df.loc[df['HALTESTELLEN_NAME'] == "Lugano FLP", "HALTESTELLEN_NAME"] = "Lugano"
-    df.loc[df['HALTESTELLEN_NAME'] == "Locarno FART", "HALTESTELLEN_NAME"] = "Locarno"
-    
-    # Load the data ("Service Points (Today)")
-    ds = pd.read_csv('raw/actual_date-swiss-only-service_point-2025-03-06.csv', sep = ";", low_memory = False)
-    
-    # Keep only the relevant columns
-    ds = ds[["number","designationOfficial","cantonName","municipalityName","businessOrganisationDescriptionEn","wgs84East","wgs84North","height"]]
-    
-    # Load the data ("Number of Passengers Boarding and Alighting")
-    ds_freq = pd.read_csv('raw/t01x-sbb-cff-ffs-frequentia-2023.csv', sep = ";", low_memory = False)
-    
-    # For every station, we only keep the most recent measurements.
-    ds_freq = ds_freq.loc[ds_freq.groupby('UIC')['Jahr_Annee_Anno'].idxmax()]
-    
-    # Remove thousand separator and make integers out of it.
-    ds_freq['DTV_TJM_TGM'] = ds_freq['DTV_TJM_TGM'].str.replace('’', '').astype(int)
-    ds_freq['DWV_TMJO_TFM'] = ds_freq['DWV_TMJO_TFM'].str.replace('’', '').astype(int)
-    ds_freq['DNWV_TMJNO_TMGNL'] = ds_freq['DNWV_TMJNO_TMGNL'].str.replace('’', '').astype(int)
-    
-    # Keep only the relevant columns
-    ds_freq = ds_freq[["UIC","DTV_TJM_TGM","DWV_TMJO_TFM","DNWV_TMJNO_TMGNL"]]
 
-    # Join to 'ds'
-    ds = pd.merge(ds, ds_freq, left_on = 'number', right_on = 'UIC', how = 'left')
+    # Load the train stops and the stations
+    df, ds = load_data()
 
-    # Drop 'UIC'
-    ds = ds.drop('UIC', axis=1)
+    # Group the stops by trip. Within a trip, the raw data is already in order of ABFAHRTSZEIT,
+    # so a stable sort by FAHRT_BEZEICHNER keeps the stops in the right sequence.
+    df = df.sort_values('FAHRT_BEZEICHNER', kind = 'stable')
 
-    # Better column names
-    ds.columns = ['BPUIC','STATION_NAME','CANTON','MUNICIPALITY','COMPANY',
-                  'LONGITUDE','LATITUDE','ELEVATION','AVG_DAILY_TRAFFIC',
-                  'AVG_DAILY_TRAFFIC_WEEKDAYS','AVG_DAILY_TRAFFIC_WEEKENDS']
+    # Next stop within the same trip (the last stop of a trip has none)
+    df['NEXT_STATION'] = df.groupby('FAHRT_BEZEICHNER')['STATION_NAME'].shift(-1)
+    stops = df.dropna(subset = ['NEXT_STATION'])
 
-    # Left-join with station names and coordinates
-    df = pd.merge(df, ds, on = 'BPUIC', how = 'left')
-
-    # There are 18 missing values for 'HALTESTELLEN_NAME' which we impute from 'STATION_NAME'.
-    df.loc[df['HALTESTELLEN_NAME'].isna(), "HALTESTELLEN_NAME"] = df.loc[df['HALTESTELLEN_NAME'].isna(), "STATION_NAME"]
-
-    # First group by FAHRT_BEZEICHNER and then filter out all groups with only one entry
-    # It's mostly trains that stop at a place at the border (I think)
-    df_filtered = df.groupby('FAHRT_BEZEICHNER').filter(lambda g: len(g) > 1)
-    
-    # Sort for each group
-    df_sorted = df_filtered.groupby('FAHRT_BEZEICHNER', group_keys=True).apply(sort_data, include_groups=False)
-    
-    # Empty list
-    edgelist = []
-    
-    # Variables to store previous row and its index
-    prev_row = None
-    prev_idx = None
-
-    # Loop over rows of dataframe
-    for i, row in df_sorted.iterrows():
-        # Only start with second row
-        # Only if the two rows belong to the same Fahrt
-        if prev_idx is not None and prev_idx == i[0]:
-            # Add edge to edgelist assuming it's a directed edge
-            edgelist.append((prev_row['STATION_NAME'], 
-                             row['STATION_NAME'], 
-                            (row['ANKUNFTSZEIT'] - prev_row['ABFAHRTSZEIT']).total_seconds() / 60))
-        # Set current row and row index to previous ones
-        prev_idx = i[0]
-        prev_row = row
-    
-    # Empty dict
-    edges = {}
-
-    # Loop over elements in edgelist
-    for i in edgelist:
-        # Create key
-        key = (i[0], i[1])
-        # Get previous entries in dict (if there are any)
-        prev = edges.get(key, (0, 0))
-        # Update values in dict
-        edges[key] = (prev[0] + 1, prev[1] + i[2])
-
-    # Divide summed up travel times by number of trips
-    edges = {k: (v[0], round(v[1]/v[0], 2)) for k, v in edges.items()}
+    # Unique (directed) edges in order of first appearance
+    edges = stops[['STATION_NAME', 'NEXT_STATION']].drop_duplicates()
 
     # Remove the two edges between Basel Bad Bf and Schaffhausen (there are German stations in-between)
-    del edges[('Basel Bad Bf', 'Schaffhausen')]
-    del edges[('Schaffhausen', 'Basel Bad Bf')]
+    basel_schaffhausen = {('Basel Bad Bf', 'Schaffhausen'), ('Schaffhausen', 'Basel Bad Bf')}
+    edges = edges[[e not in basel_schaffhausen for e in zip(edges['STATION_NAME'], edges['NEXT_STATION'])]]
 
-    # Set of stations that appear in edgelist
-    stations_in_edgelist = set(sum(list(edges.keys()), ()))
+    # Create and export the node list for the stations that appear in edgelist
+    # (including Domodossola, which is connected manually below).
+    nodes = make_nodelist(ds, set(edges['STATION_NAME']) | set(edges['NEXT_STATION']))
 
-    # Reduces nodes dataframe to only places in edgelist
-    nodes = ds[ds['STATION_NAME'].isin(stations_in_edgelist)].copy()
-    
-    # Impute missing elevation for Tirano
-    nodes.loc[nodes['STATION_NAME'] == "Tirano", "ELEVATION"] = 441
-    
-    # Columns to be checked for new column 'TRAFFIC_VALID'.
-    cols = ['AVG_DAILY_TRAFFIC', 'AVG_DAILY_TRAFFIC_WEEKDAYS', 'AVG_DAILY_TRAFFIC_WEEKENDS']
-    
-    # Create a column that indicates whether the average traffic information is valid or not.
-    nodes.loc[:, 'TRAFFIC_VALID'] = ~(nodes[cols].isna().all(axis=1) | (nodes[cols] == 49).any(axis=1))
-    
-    # Export node list
-    nodes.sort_values("BPUIC").to_csv("clean/nodelist.csv", sep = ';', encoding = 'utf-8', index = False)
-
-    # Transform edge dict to nested list and replace all station names with their BPUIC
-    edges = [[k[0], k[1], v[0], v[1]] for k,v in edges.items()]
-
-    # Create a dataframe
-    edges = pd.DataFrame(edges, columns = ['STATION1','STATION2','NUM_CONNECTIONS','AVG_DURATION'])
-    
     # -----------------------------------------------------------------------
     # Here comes the part specific to the space-of-stations representation.
-    
-    # Get a list of unique undirected edges.
-    unique_undirected_edges = list(set((min(e1, e2), max(e1, e2)) for e1, e2 in zip(edges["STATION1"], edges["STATION2"])))
-    
-    # In order to make the procedure further below more efficient, we extract here all unique trips ("Fahrten").
-    # Empty dict
-    fahrten = {}
 
-    # Loop over grouped df.
+    # Get a sorted list of unique undirected edges (sorted so that the output is reproducible).
+    unique_undirected_edges = sorted(set((min(e1, e2), max(e1, e2)) for e1, e2 in zip(edges["STATION_NAME"], edges["NEXT_STATION"])))
+
+    # In order to make the procedure further below more efficient, we extract here all unique trips ("Fahrten").
     # If the same key (sequence of stops) reappears, the value will be overwritten.
     # But that behavior is desired: we only want to keep one FAHRT_BEZEICHNER per key.
-    for fahrt, group in df.groupby('FAHRT_BEZEICHNER'):
-        fahrten[tuple(group['STATION_NAME'])] = fahrt
-        
-    # Reduce the dataframe to the 'Fahrten' in list of values of dict.
-    df = df[df['FAHRT_BEZEICHNER'].isin(list(fahrten.values()))]
+    fahrten = {}
+    for fahrt, seq in df.groupby('FAHRT_BEZEICHNER')['STATION_NAME'].agg(tuple).items():
+        fahrten[seq] = fahrt
 
-    # defaultdict with lists
-    result_dict = defaultdict(list)
+    # Sequence of stations for each of these 'Fahrten'.
+    sequences = {fahrt: list(seq) for seq, fahrt in fahrten.items()}
 
-    # Iterate over rows
-    for _, row in df.iterrows():
-        # Create a dict with stations as keys and FAHRT_BEZEICHNER as values.
-        result_dict[row['STATION_NAME']].append(row['FAHRT_BEZEICHNER'])
+    # Dict with stations as keys and the set of 'Fahrten' in which they appear as values.
+    result_dict = defaultdict(set)
+    for fahrt, seq in sequences.items():
+        for station in seq:
+            result_dict[station].add(fahrt)
 
-    # Convert back to normal dict.
-    result_dict = dict(result_dict)
-
-    # Empty list for shortcuts.
-    shortcut_edges = []
-
-    # Loop over list of undirected edges.
-    for idx, edge in enumerate(unique_undirected_edges):
-        # Find all 'Fahrten' in which both stations of the edge appear.
-        intersection = list(set(result_dict[edge[0]]) & set(result_dict[edge[1]]))
-        # Initialize shortcut to False
-        shortcut = False
-        # Loop over 'Fahrten' in which both stations of the edge appear.
-        for fahrt in intersection:
-            # Get the sequence of stations in current 'Fahrt'.
-            seq_of_stations = df.loc[df['FAHRT_BEZEICHNER'] == fahrt, 'STATION_NAME'].tolist()
-            # Check whether the edge represents a shortcut in that sequence.
-            shortcut = is_shortcut(seq_of_stations, edge[0], edge[1])
-            # If it is a shortcut, we add it to the list and break the inner loop.
-            if shortcut:
-                # Add to list and break the loop.
-                shortcut_edges.append((fahrt, edge))
-                break
-
-    # Extract only edges
-    shortcut_edges_clean = [i[1] for i in shortcut_edges]
+    # An edge is a shortcut if, in any 'Fahrt' in which both of its stations appear, they are not adjacent.
+    shortcut_edges = {edge for edge in unique_undirected_edges
+                      if any(is_shortcut(sequences[fahrt], edge[0], edge[1])
+                             for fahrt in result_dict[edge[0]] & result_dict[edge[1]])}
 
     # Get the final list of non-shortcut edges.
-    final_edges = [e for e in unique_undirected_edges if e not in shortcut_edges_clean]
+    final_edges = [e for e in unique_undirected_edges if e not in shortcut_edges]
 
     # Load the data ("Line (Operation Points)")
     linien = pd.read_csv('raw/linie-mit-betriebspunkten.csv', sep = ";")
@@ -246,8 +88,8 @@ def main():
     # Drop all rows that are not stations.
     linien = linien.dropna(subset = ["STATION_NAME"])
 
-    # Sort for each group
-    linien_sorted = linien.groupby('Linie', group_keys=False).apply(sort_data2)
+    # Sort by KM within each line
+    linien_sorted = linien.sort_values(['Linie', 'KM'], kind = 'stable')
 
     # Create a new column that for each row contains the next stop within the group.
     linien_sorted["NEXT_STATION"] = linien_sorted.groupby("Linie")["STATION_NAME"].shift(-1)
@@ -261,19 +103,13 @@ def main():
     # Drop all rows where 'NEXT_STATION' is missing
     linien_sorted = linien_sorted.dropna(subset = ["NEXT_STATION"])
 
-    # Now let's extract the edges
-    linien_edges = list(zip(linien_sorted['STATION_NAME'], linien_sorted['NEXT_STATION']))
-
-    # Make sure the tuples are arranged in the same way as above (and unique).
-    linien_edges = list(set((min(e[0], e[1]), max(e[0], e[1])) for e in linien_edges))
-
     # Manually remove edges.
     final_edges.remove(('Bern', 'Zofingen'))
     final_edges.remove(('Bern Wankdorf', 'Zürich HB'))
     final_edges.remove(('Morges', 'Yverdon-les-Bains'))
     final_edges.remove(('Aarau', 'Sissach'))
     final_edges.remove(('Bergün/Bravuogn', 'Pontresina'))
-    final_edges.remove(('Interlaken West', 'Spiez'))
+    #final_edges.remove(('Interlaken West', 'Spiez')) # 27.10.2026: All stations between Spiez and Interlaken West have been shutdown. Thus, this edge should exist.
     final_edges.remove(('Biel/Bienne', 'Grenchen Nord'))
     final_edges.remove(('Chambrelien', 'Neuchâtel'))
     final_edges.remove(('Concise', 'Yverdon-les-Bains'))
@@ -292,21 +128,22 @@ def main():
     final_edges.append(('Liestal', 'Muttenz')) # Adler tunnel
     final_edges.append(('Thalwil', 'Zürich HB')) # Zimmerberg tunnel
     final_edges.append(('Zürich Altstetten', 'Zürich HB')) # Separate infrastructure connecting the two stations
+    final_edges.append(('Grenchen Nord', 'Lengnau BE')) # 27.10.2026: Clearly adjacent, but no train from Grenchen Nord stops in Lengnau which is why the edge is not detected.
+    final_edges.append(('Domodossola', 'Masera')) # 28.10.2026: Domodossola is added manually (not in the "Actual Data"), Masera and Preglia are linked through it.
+    final_edges.append(('Domodossola', 'Preglia'))
 
-    # New column with coordinates in the same column.
-    nodes['coord'] = list(zip(nodes.LATITUDE, nodes.LONGITUDE))
+    # Coordinates of each station.
+    coords = dict(zip(nodes.STATION_NAME, zip(nodes.LATITUDE, nodes.LONGITUDE)))
 
     # Compute direct distances between node pairs.
-    final_edges = [(e[0], e[1], compute_distance(nodes, e[0], e[1])) for e in final_edges]
+    final_edges = [(e[0], e[1], geopy.distance.geodesic(coords[e[0]], coords[e[1]]).km) for e in final_edges]
 
-    # List of edges including distances.
-    linien_edges = list(zip(linien_sorted['STATION_NAME'], linien_sorted['NEXT_STATION'], linien_sorted['DISTANCE']))
-
-    # Make sure the tuples are arranged in the same way as above (and unique).
-    linien_edges = list(set((min(e[0], e[1]), max(e[0], e[1]), e[2]) for e in linien_edges))
-
-    # Convert to a dict.
-    linien_edges_dict = {(e[0], e[1]): e[2] for e in linien_edges}
+    # Dict with exact distances, keys arranged in the same way as above.
+    # Some station pairs appear on several lines with slightly different distances: we keep the smallest one.
+    linien_edges_dict = {}
+    for n1, n2, dist in zip(linien_sorted['STATION_NAME'], linien_sorted['NEXT_STATION'], linien_sorted['DISTANCE']):
+        key = (min(n1, n2), max(n1, n2))
+        linien_edges_dict[key] = min(dist, linien_edges_dict.get(key, dist))
 
     # Add exact distance for edges that exist in dict with exact distance.
     final_edges = [(n1, n2, dist, linien_edges_dict.get((n1, n2), np.nan)) for n1, n2, dist in final_edges]

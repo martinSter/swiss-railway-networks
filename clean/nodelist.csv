@@ -374,6 +374,7 @@ BPUIC;STATION_NAME;CANTON;MUNICIPALITY;COMPANY;LONGITUDE;LATITUDE;ELEVATION;AVG_
 8501603;Gampel-Steg;Valais;Steg-Hohtenn;Swiss Federal Railways SBB;7.74758116307;46.30651548089;631.886;790.0;950.0;430.0;True
 8501604;Raron;Valais;Raron;Swiss Federal Railways SBB;7.80151060193;46.30627441464;638.777;870.0;1000.0;550.0;True
 8501605;Visp;Valais;Visp;Swiss Federal Railways SBB;7.88146547575;46.29402913539;650.903;25700.0;25300.0;26400.0;True
+8501607;Domodossola;;;Swiss Federal Railways SBB;8.29651647669;46.11501379904;270.1;;;;False
 8501609;Brig;Valais;Brig-Glis;Swiss Federal Railways SBB;7.9880947394;46.31942270578;677.74;20800.0;20700.0;21200.0;True
 8501636;Eyholz;Valais;Visp;Matterhorn Gotthard Bahn (bvz);7.91630428018;46.29678056686;653.012;260.0;260.0;250.0;True
 8501661;Oberwald;Valais;Obergoms;Matterhorn Gotthard Bahn (fo);8.34294481684;46.53085131294;1366.0;650.0;630.0;710.0;True
@@ -820,6 +821,11 @@ BPUIC;STATION_NAME;CANTON;MUNICIPALITY;COMPANY;LONGITUDE;LATITUDE;ELEVATION;AVG_
 8504234;Chambrelien;Neuchâtel;Rochefort;Swiss Federal Railways SBB;6.81225676542;46.96710900772;684.74;680.0;810.0;400.0;True
 8504236;Les Geneveys-sur-Coffrane;Neuchâtel;Val-de-Ruz;Swiss Federal Railways SBB;6.85321763217;47.01509638874;849.52;790.0;920.0;480.0;True
 8504237;Les Hauts-Geneveys;Neuchâtel;Val-de-Ruz;Swiss Federal Railways SBB;6.87467312928;47.0471765631;953.88;1100.0;1300.0;540.0;True
+8504284;La Presta Mines d'asphalte;Neuchâtel;Val-de-Travers;Transports Publics Neuchâtelois SA (rvt);6.6543614223;46.93109706127;729.0;;;;False
+8504285;Couvet;Neuchâtel;Val-de-Travers;Transports Publics Neuchâtelois SA (rvt);6.63529804831;46.92295854581;734.0;;;;False
+8504286;Môtiers NE;Neuchâtel;Val-de-Travers;Transports Publics Neuchâtelois SA (rvt);6.61022689725;46.9118220936;735.1;;;;False
+8504287;Fleurier;Neuchâtel;Val-de-Travers;Transports Publics Neuchâtelois SA (rvt);6.58131693222;46.90476157461;741.6;;;;False
+8504288;Buttes;Neuchâtel;Val-de-Travers;Transports Publics Neuchâtelois SA (rvt);6.55319500129;46.88834624693;769.1;;;;False
 8504291;La Brinaz;Vaud;Montagny-près-Yverdon;Transports Vallée de Joux-Yverdon-Ste-Croix;6.62021608837;46.79444902594;440.7;;;;False
 8504292;Valeyres-sous-Montagny;Vaud;Valeyres-sous-Montagny;Transports Vallée de Joux-Yverdon-Ste-Croix;6.61133901842;46.79682308619;450.3;;;;False
 8504293;Essert-sous-Champvent;Vaud;Champvent;Transports Vallée de Joux-Yverdon-Ste-Croix;6.58015642214;46.79535565453;507.0;;;;False
