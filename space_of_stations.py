@@ -73,6 +73,11 @@ def main():
                       if any(is_shortcut(sequences[fahrt], edge[0], edge[1])
                              for fahrt in result_dict[edge[0]] & result_dict[edge[1]])}
 
+    # Report the shortcut edges
+    print(f"{len(shortcut_edges)} of {len(unique_undirected_edges)} undirected edges are shortcuts:")
+    for edge in sorted(shortcut_edges):
+        print(f"  {edge[0]} - {edge[1]}")
+
     # Get the final list of non-shortcut edges.
     final_edges = [e for e in unique_undirected_edges if e not in shortcut_edges]
 
@@ -160,6 +165,9 @@ def main():
 
     # Correct mistake in edge between Baar Lindenpark and Zug.
     edges.loc[(edges['BPUIC1'] == 8515993) & (edges['BPUIC2'] == 8502204), 'DISTANCE_EXACT'] = 1.0593
+
+    # Report the size of the network
+    print(f"Space-of-stations: {len(nodes)} nodes ({len(set(edges['BPUIC1']) | set(edges['BPUIC2']))} with at least one edge), {len(edges)} edges")
 
     # Export edge list
     edges.to_csv("clean/edgelist_SoSta.csv", sep = ';', encoding = 'utf-8', index = False)

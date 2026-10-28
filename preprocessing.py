@@ -17,8 +17,15 @@ def read_trains(path):
                      usecols=['FAHRT_BEZEICHNER','PRODUKT_ID','LINIEN_TEXT','FAELLT_AUS_TF',
                               'BPUIC','HALTESTELLEN_NAME','ANKUNFTSZEIT','ABFAHRTSZEIT'])
 
+    # Report the rows where PRODUKT_ID is missing
+    missing = df["PRODUKT_ID"].isna()
+    print(f"{path}: PRODUKT_ID missing in {missing.sum()} rows "
+          f"({df.loc[missing, 'FAHRT_BEZEICHNER'].nunique()} trips, "
+          f"{(missing & (df['FAELLT_AUS_TF'] == False)).sum()} rows not cancelled), "
+          f"imputed as 'Zug' at: {', '.join(sorted(df.loc[missing, 'HALTESTELLEN_NAME'].dropna().unique()))}")
+
     # Impute 'Zug'
-    df.loc[df["PRODUKT_ID"].isna(), "PRODUKT_ID"] = 'Zug'
+    df.loc[missing, "PRODUKT_ID"] = 'Zug'
 
     # First we reduce to only trains
     df = df[df['PRODUKT_ID'] == "Zug"]
@@ -35,7 +42,7 @@ def read_trains(path):
     df.loc[df['HALTESTELLEN_NAME'] == "Lugano FLP", "HALTESTELLEN_NAME"] = "Lugano"
     df.loc[df['HALTESTELLEN_NAME'] == "Locarno FART", "HALTESTELLEN_NAME"] = "Locarno"
 
-    # Convert ANKUNFTSZEIT and ABFAHRTSZEIT to datetime format (only train rows are left at this point)
+    # Convert ANKUNFTSZEIT and ABFAHRTSZEIT to datetime format
     df['ANKUNFTSZEIT'] = pd.to_datetime(df['ANKUNFTSZEIT'], format = "%d.%m.%Y %H:%M")
     df['ABFAHRTSZEIT'] = pd.to_datetime(df['ABFAHRTSZEIT'], format = "%d.%m.%Y %H:%M")
 
@@ -83,8 +90,7 @@ def load_data():
     df = read_trains('raw/2025-03-05_istdaten.csv')
 
     # On March 5, 2025, the line Travers - Buttes was served by buses only. We therefore replace all trips
-    # that stop on this line (on either day) by the same trips of May 7, 2025 (also a Wednesday),
-    # shifted to March 5, 2025.
+    # that stop on this line by the same trips of May 7, 2025 (also a Wednesday), shifted to March 5, 2025.
     df2 = read_trains('raw/2025-05-07_istdaten.csv')
     # Travers, La Presta Mines d'asphalte, Couvet, Môtiers NE, Fleurier, Buttes
     corridor = [8504215, 8504284, 8504285, 8504286, 8504287, 8504288]

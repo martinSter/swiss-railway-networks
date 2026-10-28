@@ -51,6 +51,9 @@ def main():
     edges['BPUIC2'] = edges['NEXT_STATION'].map(node_dict)
     edges = edges[['BPUIC1','BPUIC2','NUM_CONNECTIONS','AVG_DURATION']]
 
+    # Report the size of the network
+    print(f"Space-of-stops: {len(nodes)} nodes ({len(set(edges['BPUIC1']) | set(edges['BPUIC2']))} with at least one edge), {len(edges)} edges")
+
     # Export edge list
     edges.to_csv("clean/edgelist_SoSto.csv", sep = ';', encoding = 'utf-8', index = False)
 

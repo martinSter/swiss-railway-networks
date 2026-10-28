@@ -21,13 +21,17 @@ def main():
     # Here comes the part specific to the space-of-changes representation.
 
     # Position of each stop within its trip (keeps the row order of the raw data).
+    # We assume that rows are ordered in the raw data. Please check this if you 
+    # adapt this code to data from other day.
     df['POS'] = df.groupby('FAHRT_BEZEICHNER').cumcount()
     stops = df[['FAHRT_BEZEICHNER', 'POS', 'STATION_NAME', 'ABFAHRTSZEIT', 'ANKUNFTSZEIT']]
 
     # All pairs (i, j) of stops with i before j within the same trip.
+    # This is much faster than the loop I had previously.
     pairs = stops.merge(stops, on = 'FAHRT_BEZEICHNER', suffixes = ('_1', '_2'))
     pairs = pairs[pairs['POS_1'] < pairs['POS_2']]
     # Same order as a nested loop over the trips (sorted), so edges appear in a stable order.
+    # This is mostly for reproducibility (so that checksums come back the same).
     pairs = pairs.sort_values(['FAHRT_BEZEICHNER', 'POS_1', 'POS_2'])
 
     # Travel time (minutes)
@@ -53,6 +57,9 @@ def main():
     edges['BPUIC1'] = edges['STATION_NAME_1'].map(node_dict)
     edges['BPUIC2'] = edges['STATION_NAME_2'].map(node_dict)
     edges = edges[['BPUIC1','BPUIC2','NUM_CONNECTIONS','AVG_DURATION']]
+
+    # Report the size of the network
+    print(f"Space-of-changes: {len(nodes)} nodes ({len(set(edges['BPUIC1']) | set(edges['BPUIC2']))} with at least one edge), {len(edges)} edges")
 
     # Export edge list
     edges.to_csv("clean/edgelist_SoCha.csv", sep = ';', encoding = 'utf-8', index = False)

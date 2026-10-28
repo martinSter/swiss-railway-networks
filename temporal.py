@@ -48,6 +48,9 @@ def main():
                           'START': pairs['START'].astype(int),
                           'DURATION': pairs['DURATION'].astype(int)})
 
+    # Report the size of the network
+    print(f"Temporal: {len(nodes)} nodes ({len(set(edges['BPUIC1']) | set(edges['BPUIC2']))} with at least one edge), {len(edges)} edges")
+
     # Export edge list
     edges.to_csv("clean/edgelist_temporal.csv", sep = ';', encoding = 'utf-8', index = False)
 
