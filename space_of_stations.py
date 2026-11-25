@@ -136,6 +136,7 @@ def main():
     final_edges.append(('Grenchen Nord', 'Lengnau BE')) # 27.10.2026: Clearly adjacent, but no train from Grenchen Nord stops in Lengnau which is why the edge is not detected.
     final_edges.append(('Domodossola', 'Masera')) # 28.10.2026: Domodossola is added manually (not in the "Actual Data"), Masera and Preglia are linked through it.
     final_edges.append(('Domodossola', 'Preglia'))
+    final_edges.append(('Zürich HB', 'Zürich Oerlikon')) # Weinbergtunnel connecting Zürich HB directly to Zürich Oerlikon
 
     # Coordinates of each station.
     coords = dict(zip(nodes.STATION_NAME, zip(nodes.LATITUDE, nodes.LONGITUDE)))
@@ -152,7 +153,7 @@ def main():
 
     # Add exact distance for edges that exist in dict with exact distance.
     final_edges = [(n1, n2, dist, linien_edges_dict.get((n1, n2), np.nan)) for n1, n2, dist in final_edges]
-    
+
     # Create a node dict with BPUIC as values
     node_dict = dict(zip(nodes.STATION_NAME, nodes.BPUIC))
 
